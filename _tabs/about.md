@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-title: "About and CV"
+title: "About"
 layout: page
 icon: fas fa-info-circle
 order: 1
