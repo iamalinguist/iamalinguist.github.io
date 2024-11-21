@@ -20,7 +20,7 @@ My research approach has been interdisciplinary learning of selected topics of *
 
 My dissertation, **A Modern Grammar of Hindi: A Formal Approach**, develops a formal method for Hindi, utilizing propositional, predicate, type, and temporal logic. This grammar has been implemented in a Python-based parsing tool (whose offline version was released on May 24, and I am working to launch its web version by July,25). I have worked on transitive verbs, intransitive verbs, quantified constructions, and time-based expressions.
 
-I received my **PhD in applied linguistics** from the Indian Institute of Technology (BHU) Varanasi in September 2025. Before IIT(BHU), I studied at the Indian Institute of Technology Bombay and Technische Universitat Dresen as a DAAD Scholar in 2013. I completed my engineering in 2013.
+I received my **PhD in Applied Linguistics** from the Indian Institute of Technology (BHU) Varanasi in September 2025. Before IIT(BHU), I studied at the Indian Institute of Technology Bombay and Technische Universitat Dresen as a DAAD Scholar in 2013. I completed my engineering in 2013.
 
 
 
