@@ -6,5 +6,5 @@ order: 2
 permalink: /research/
 ---
 
-Inspired from Prerna Nadathur | I will customise it soon.    
+Updates Soon    
 
