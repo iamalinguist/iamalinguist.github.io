@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "NLP Tools for Hindi"
-date: 2024-11-22
+title: "Tools for writing Hindi Script"
+date: 2024-11-21
 #categories: [blog]
-tags: ["hindi", "nlp tools", "syntax"]
-author: iamalinguist
-image: /assets/images/b1_img1.png
+tags: ["hindi", "hindi script"]
+#image: /assets/images/b1_img1.png
 excerpt: "A brief summary of your post"
 published: true
 ---

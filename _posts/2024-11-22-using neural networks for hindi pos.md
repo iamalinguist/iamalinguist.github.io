@@ -1,15 +1,14 @@
 ---
 layout: post
 title: "Using Neural Networks for Solving an NLP Problem in Hindi"
-date: 2024-11-23
+date: 2024-11-22
 #categories: [blog]
-tags: ["hindi", "nlp tools", "neural network", "machine learning"]
-author: iamalinguist
-#image: /assets/images/b1_img1.png
+tags: ["hindi", "nlp tools", "neural network"]
+image: https://miro.medium.com/v2/resize:fit:1400/0*_SH7tsNDTkGXWtZb.png
 excerpt: "A brief summary of your post"
 published: true
+math: true
 ---
-
 
 Natural Language Processing (NLP) has become a central focus of research in recent years, primarily due to the rise of deep learning models, particularly neural networks. These models have proven effective in solving various NLP tasks such as machine translation, sentiment analysis, text classification, and more. However, applying neural networks to languages like Hindi, which has rich morphology and a relatively free word order, presents a unique set of challenges. This article explores how neural networks can be applied to solve an NLP problem in Hindi, using the example of *part-of-speech (POS) tagging*, while providing both a theoretical explanation and the underlying mathematical details.
 
