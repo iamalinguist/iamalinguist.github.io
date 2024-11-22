@@ -11,7 +11,6 @@ permalink: /about/
 {: .prompt-tip }
 
 
-
 **email**  - sopan DOT tripathi AT gmail DOT com
 
 
