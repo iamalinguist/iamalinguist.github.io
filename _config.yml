@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "vivek tripāṭhī"
+title                    : "VIVEK TRIPĀṬHĪ"
 title_separator          : "-"
 name                     : &name "Vivek Tripathi"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "SYNTAX | SEMANTICS"
+  name             : "syntax | semantics"
   pronouns         : # example: "she/her"  
   bio              : "Work → (Comp) Linguistics"
   location         : "Varanasi"
