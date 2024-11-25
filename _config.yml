@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Vivek Tripathi"
 description              : &description "personal description"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "vivek tripaṭhī"
+  name             : "vivek tripāṭhī"
   pronouns         : # example: "she/her"  
   bio              : "Work → (Comp) Linguistics"
   location         : "Varanasi"
-  employer         : "Indian Institute of Technology (BHU)"
+  employer         : "Indian Institute of Technology"
   uri              : # URL
   email            : "sopan.tripathi@gmail.com" 
 
@@ -38,7 +38,7 @@ author:
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  scopus           : # URL
+  lang-teaching    : "https://myhinditrainer.web.app/"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
