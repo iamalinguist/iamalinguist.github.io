@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "HOME"
+title                    : "vivek tripāṭhī"
 title_separator          : "-"
 name                     : &name "Vivek Tripathi"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "vivek tripāṭhī"
+  name             : "Work → (Comp) Linguistics"
   pronouns         : # example: "she/her"  
   bio              : "Work → (Comp) Linguistics"
   location         : "Varanasi"
@@ -38,7 +38,8 @@ author:
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  lang-teaching    : "https://myhinditrainer.web.app/"
+  scopus           : # URL
+  #lang-teaching    : "https://myhinditrainer.web.app/"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
