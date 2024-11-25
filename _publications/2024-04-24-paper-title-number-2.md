@@ -2,7 +2,7 @@
 title: "Semantic Model for Fragment of Hindi (Part 2)"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-2
+permalink: /publication/2024-04-24-paper-title-number-2
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-04-24
 #venue: 'ESCI Journal Rupkatha'

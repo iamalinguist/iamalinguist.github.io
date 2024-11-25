@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-8892-937X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   #lang-teaching    : "https://myhinditrainer.web.app/"
