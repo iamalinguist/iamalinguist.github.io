@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "VIVEK TRIPĀṬHĪ"
+title                    : "VIVEK' TRIPĀṬHĪ"
 title_separator          : "-"
-name                     : &name "Vivek Tripathi"
+name                     : &name "Vivek' Tripathi"
 description              : &description "personal description"
 url                      : https://iamalinguist.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

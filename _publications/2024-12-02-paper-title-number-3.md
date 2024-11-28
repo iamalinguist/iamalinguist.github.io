@@ -1,5 +1,5 @@
 ---
-title: "Hindī ke sangaṇkīya viśleṣaṇ ke liye aupacārika vyakaraṇa kā NLP mẽ prayoga (हिंदी के संगणकीय विश्लेषण के लिए औपचारिक व्याकरण का एनएलपी में प्रयोग)"
+title: "Hindī ke sangaṇkīy' viśleṣaṇ' ke liye aupacārik' vyakaraṇa kā NLP mẽ prayoga"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-12-paper-title-number-3
