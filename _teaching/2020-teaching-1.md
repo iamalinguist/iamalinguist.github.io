@@ -10,7 +10,6 @@ date: 2024-01-01
 
 I have assisted in teaching graduate and advanced undergraduate courses offered by faculty members at IIT (BHU). These courses span a diverse range of topics, including *Introduction to Linguistics*, *Cognitive Science*, *Philosophy, History, and Civilization* (all under Prof. Nirmālya Guha), and *Education and Self* (under Prof. Sukhadā).
 
-1. With Prof. Nirmālya Guha
-======
-2. With Prof. Sukhadā
-======
+1. *With Prof. Nirmālya Guha*
+
+2. *With Prof. Sukhadā*

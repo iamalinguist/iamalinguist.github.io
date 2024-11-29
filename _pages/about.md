@@ -30,4 +30,6 @@ Research interests
 
 **Note 1** - I’m currently working on different grammars and web-tools for multiple SOV languages.I’m looking to collaborate on ML and NLP techniques.
 
+<br>
+
 **Note 2** - In my leisure time, I teach Hindi to non-native speakers worldwide and thoroughly enjoy engaging with individuals from diverse backgrounds. [[Check Website](https://heyhindi.web.app/)]
