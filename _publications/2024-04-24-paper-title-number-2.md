@@ -1,5 +1,5 @@
 ---
-title: "Semantic Model for Fragment of Hindi (Part 2)"
+title: "[Journal] Semantic Model for Fragment of Hindi (Part 2)"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-04-24-paper-title-number-2
