@@ -7,24 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral researcher working with Nirmālya Guha in the Department of Humanities at the Indian Institute of Technology (BHU), Varanasi. My advisor was Alec Marantz. You can find my [CV](https://iamalinguist.github.io/files/cv_22Nov2024.pdf) here.
+I am a doctoral researcher under the supervision of Prof. Nirmalya Guha in the Department of Humanities at the Indian Institute of Technology (BHU), Varanasi. My academic profile, including my CV, is accessible [here](https://iamalinguist.github.io/files/cv_22Nov2024.pdf).  
 
-My research primarily focuses on syntax and semantics. One of my ongoing projects focuses on how nominal arguments are represented and licensed in syntax. I also examine the syntactic size of (non-)derived nominals by drawing evidence from understudied and underrepresented Bantu and Kwa family languages.
+My research primarily addresses syntax and semantics, with my Ph.D. thesis titled *"A Modern Grammar of Hindi: A Formal Approach."* The core objective of my doctoral work is to develop a formal grammar for Hindi, integrating propositional logic, predicate logic, type theory, and temporal logic. To support this endeavor, I have designed and implemented a Python-based parsing tool for the grammar. I am currently preparing for my final viva, which is scheduled to take place by July 2025.  
 
-My research also focuses on evaluating large language models (LLMs) on tasks related to linguistic dependencies, including, but not limited to, agreement, anaphor binding, control, and politeness. I am also interested in how LMs handle low-resource and typologically diverse languages.
+Prior to my doctoral studies, I earned an M.Tech. in Geoinformatics from IIT Bombay and an M.A. in Hindi from MGAHV, Wardha, motivated by a keen interest in linguistics.  
+
+My research adopts an interdisciplinary approach, intersecting discrete mathematics (including logic, sets, matrices, relations, and tree structures), language (SOV languages like Hindi), and computational linguistics (NLP). My primary focus lies in leveraging formal mathematical frameworks to enable machines to process and understand natural languages, particularly Hindi. In line with this, I am actively exploring NLP applications through the lens of large language models (LLMs).
+
 
 Research interests
 ======
 1. Argument structure
-2. Nominal structure
+2. Subject & object agreements
 3. Case & discourse markers
+4. Syntax and semantics of verbs/verb roots
+5. Grammatical theories
+6. Natural language processing techniques (viz. ML and DL models)
+7. Mathemtical Concepts (Discreet, Linear Algebra etc.)
 
 
 
 **Markdown generator**
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator) that converts a CSV containing structured.
-
-How to edit your site's GitHub repository
-------
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+I’m currently working on different grammars and web-tools for multiple SOV languages.I’m looking to collaborate on ML and NLP techniques.
