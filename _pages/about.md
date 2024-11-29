@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral researcher under the supervision of Prof. Nirmalya Guha in the Department of Humanities at the Indian Institute of Technology (BHU), Varanasi. My academic profile, including my CV, is accessible [here](https://iamalinguist.github.io/files/cv_22Nov2024.pdf).  
+I am a doctoral researcher under the supervision of Prof. Nirmālya Guha in the Department of Humanities at the Indian Institute of Technology (BHU), Varanasi. My academic profile, including my CV, is accessible [here](https://iamalinguist.github.io/files/cv_22Nov2024.pdf).  
 
 My research primarily addresses syntax and semantics, with my Ph.D. thesis titled *"A Modern Grammar of Hindi: A Formal Approach."* The core objective of my doctoral work is to develop a formal grammar for Hindi, integrating propositional logic, predicate logic, type theory, and temporal logic. To support this endeavor, I have designed and implemented a Python-based parsing tool for the grammar. I am currently preparing for my final viva, which is scheduled to take place by July 2025.  
 
@@ -28,5 +28,5 @@ Research interests
 
 
 
-**Markdown generator**
+**Note**
 I’m currently working on different grammars and web-tools for multiple SOV languages.I’m looking to collaborate on ML and NLP techniques.
