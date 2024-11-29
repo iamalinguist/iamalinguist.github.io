@@ -3,12 +3,12 @@ title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Indian Institute of Technology (BHU), Department of Humanistic Studies"
+#date: 2014-01-01
+#location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I have assisted in teaching graduate and advanced undergraduate courses offered by faculty members at IIT (BHU). These courses span a diverse range of topics, including *Introduction to Linguistics*, *Cognitive Science*, *Philosophy, History, and Civilization* (all under Prof. Nirmalya Guha), and *Education and Self* (under Prof. Sukhda).
 
 Heading 1
 ======
