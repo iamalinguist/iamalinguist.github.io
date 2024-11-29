@@ -8,13 +8,10 @@ venue: "Indian Institute of Technology (BHU), Department of Humanistic Studies"
 #location: "City, Country"
 ---
 
-I have assisted in teaching graduate and advanced undergraduate courses offered by faculty members at IIT (BHU). These courses span a diverse range of topics, including *Introduction to Linguistics*, *Cognitive Science*, *Philosophy, History, and Civilization* (all under Prof. Nirmalya Guha), and *Education and Self* (under Prof. Sukhda).
+I have assisted in teaching graduate and advanced undergraduate courses offered by faculty members at IIT (BHU). These courses span a diverse range of topics, including *Introduction to Linguistics*, *Cognitive Science*, *Philosophy, History, and Civilization* (all under Prof. Nirmalya Guha), and *Education and Self* (under Prof. Sukhadā).
 
-Heading 1
+With Prof. Nirmālya Guha
 ======
 
-Heading 2
-======
-
-Heading 3
+With Prof. Sukhadā
 ======
