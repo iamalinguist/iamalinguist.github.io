@@ -3,7 +3,9 @@ title: "[Journal] Semantic Model for Fragment of Hindi (Part 2)"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-04-24-paper-title-number-2
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper proposes a formal model for semantic analysis of a fragment of the Hindi language. This paper
+uses referential noun phrases, transitive and intransitive verb phrases and logical constants to compute the
+meaning of its sentences generated from the Hindi part-of-speech-tagged corpus features.'
 date: 2024-04-24
 #venue: 'ESCI Journal Rupkatha'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
