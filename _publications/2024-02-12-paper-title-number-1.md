@@ -1,5 +1,5 @@
 ---
-title: "Semantic Model for Fragment of Hindi (Part 1)"
+title: "[Journal] Semantic Model for Fragment of Hindi (Part 1)"
 collection: publications
 permalink: /publication/2024-02-12-paper-title-number-1
 excerpt: 'In this paper, we developed a syntactic parser that generates syntactic trees for Hindi
