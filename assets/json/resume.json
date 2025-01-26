@@ -1,17 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Vivek Tripathi",
+    "label": "Linguist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "sopan.tripathi@gmail.com",
+    "phone": "(+91) 7987876701",
+    "url": "https://iamalinguist.github.io",
+    "summary": "A [Trying to do better] theoretical linguist exploring SOV languages through computational perspectives.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
       "city": "San Francisco",
-      "countryCode": "US",
+      "countryCode": "IN",
       "region": "California"
     },
     "profiles": [
