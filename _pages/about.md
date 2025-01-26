@@ -34,4 +34,4 @@ My research adopts an interdisciplinary approach, intersecting discrete mathemat
 5. Mathematical concepts (e.g., discrete mathematics, linear algebra, etc.)
 
 
-I’m currently working on experimenting different grammars for Hindi Language. To understand a non-native perspective, I teach Hindi to non-native speakers worldwide and thoroughly enjoy engaging with individuals from diverse backgrounds. [Check Website](https://heyhindi.web.app/).
+I’m currently working on experimenting different grammars for Hindi Language. To understand a non-native perspective, I teach Hindi to non-native speakers and thoroughly enjoy engaging with individuals from diverse backgrounds. [Website](https://heyhindi.web.app/).
