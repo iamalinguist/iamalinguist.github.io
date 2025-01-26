@@ -15,14 +15,14 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>C1, Humanistic Studies</p>
-      <p>IIT (BHU)</p>
-      <p>Varanasi, U.P. 221005</p>
+      <p>IIT (BHU), Varanasi</p>
+      <p>U.P., India- 221005</p>
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>C1, Humanistic Studies</p>
-      <p>IIT (BHU)</p>
-      <p>Varanasi, U.P. 221005</p>
+      <p>IIT (BHU), Varanasi</p>
+      <p>U.P., India- 221005</p>
 ---
