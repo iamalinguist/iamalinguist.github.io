@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Senior Researcher</a>. IIT (BHU). +91-7987876701. Grammars.
+subtitle: Senior Researcher<a href='https://iitbhu.ac.in/'>@IIT(BHU)</a> | sopan.tripathi@gmail.com
 
 profile:
   align: right
