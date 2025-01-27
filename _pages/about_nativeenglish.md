@@ -1,5 +1,17 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I learnt and taught English grammar for different uses, including my thesis. My notes focus on key grammar topics that enhance clarity and confidence. Here are 10-15 important topics to master:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+1. Sentence Structure  
+2. Tenses  
+3. Subject-Verb Agreement  
+4. Articles  
+5. Prepositions  
+6. Pronouns  
+7. Modal Verbs  
+8. Conditionals  
+9. Phrasal Verbs  
+10. Adjectives and Adverbs  
+11. Conjunctions  
+12. Reported Speech  
+13. Question Formation  
+14. Voice (Active and Passive)  
+15. Vocabulary

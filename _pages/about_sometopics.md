@@ -1,3 +1,0 @@
-I used to maintain a collection of LaTeX notes, but since they are now readily available online, I am not including them here. Most of the codes and ideas I used were inspired by the [cookbook](https://latex-cookbook.net/) website. For mathematical symbols, refer to [this website](https://detexify.kirelabs.org/classify.html). 
-
-I have compiled some personal [notes](\assets\pdf\final_presentation.pdf) on mathematical topics. 
