@@ -28,9 +28,8 @@ profiles:
     content: about_nativeenglish.md
     image_circular: false # crops the image to make it circular
 
-  - align: right
-    image: nativehindi.jpg
-    content: about_nativehindi.md
+  - align: centre
+    content: about_miscellaneous.md
     image_circular: false # crops the image to make it circular
 
 ---
