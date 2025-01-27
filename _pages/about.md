@@ -28,10 +28,10 @@ My research adopts an interdisciplinary approach, intersecting discrete mathemat
 `Research Interests (Major to Minor)`
 
 1. Grammatical Theories
-2. Argument structure
-3. Syntax and semantics of Verbs (complex and conjugated verbs)
-4. NLP techniques (e.g., machine learning and deep learning models)
-5. Mathematical concepts (e.g., discrete mathematics, linear algebra, etc.)
+2. Argument Structure
+3. Syntax and Semantics of Verbs (complex and conjugated verbs)
+4. NLP Techniques (e.g., machine learning and deep learning models)
+5. Mathematical Concepts (e.g., discrete mathematics, linear algebra, etc.)
 
 
 I’m currently working on experimenting different grammars for Hindi Language. To understand a non-native perspective, I teach Hindi to non-native speakers and thoroughly enjoy engaging with individuals from diverse backgrounds. [Website](https://heyhindi.web.app/).
