@@ -9,6 +9,10 @@ nav_order:
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+
+  - align: centre
+    content: about_sometopics.md
+
   - align: right
     image: syntax.jpg
     content: about_syntax.md
@@ -30,5 +34,3 @@ profiles:
     image_circular: false # crops the image to make it circular
 
 ---
-
-I used to maintain a collection of LaTeX notes, but since they are now readily available online, I am not including them here. Most of the codes and ideas I used were inspired by the [Cookbook website](https://latex-cookbook.net/). For mathematical symbols, refer to [this website](https://detexify.kirelabs.org/classify.html).
