@@ -18,7 +18,7 @@ profiles:
     content: about_syntax.md
     image_circular: false # crops the image to make it circular
 
-  - align: left
+  - align: right
     image: semantics.jpg
     content: about_semantics.md
     image_circular: false # crops the image to make it circular
@@ -28,7 +28,7 @@ profiles:
     content: about_nativeenglish.md
     image_circular: false # crops the image to make it circular
 
-  - align: left
+  - align: right
     image: nativehindi.jpg
     content: about_nativehindi.md
     image_circular: false # crops the image to make it circular

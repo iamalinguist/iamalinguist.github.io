@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Paper presentation at IIT Jodhpur (Conference). 
+date: 2024-12-02 16:11:00-0400
 inline: false
 related_posts: false
 ---
