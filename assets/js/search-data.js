@@ -410,16 +410,16 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-poster-presentation-at-iit-bhu-for-rid-day",
+          title: 'Poster Presentation at IIT (BHU) for RID Day.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-paper-presentation-at-iit-jodhpur-conference",
+          title: 'Paper presentation at IIT Jodhpur (Conference).',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-participation-in-an-event-at-ignou-delhi-sparkles-smile",
+          title: 'Participation in an event at IGNOU, Delhi. :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
