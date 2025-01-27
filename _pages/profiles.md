@@ -10,9 +10,6 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
 
-  - align: centre
-    content: about_sometopics.md
-
   - align: right
     image: syntax.jpg
     content: about_syntax.md

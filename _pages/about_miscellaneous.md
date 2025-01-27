@@ -1,5 +1,7 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I used to maintain a collection of LaTeX notes, but since they are now readily available online, I am not including them here. Most of the codes and ideas I used were inspired by the [cookbook](https://latex-cookbook.net/) website. For drawing mathematical symbols to use in LaTeX, refer to [this website](https://detexify.kirelabs.org/classify.html). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have compiled some personal notes on variety of different topics. You may download them here-
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+1. Notes on [Algebra](\assets\pdf\final_presentation.pdf)
+2. Notes on [Calculus](\assets\pdf\final_presentation.pdf)
+3. Notes on [NLP](\assets\pdf\final_presentation.pdf)
