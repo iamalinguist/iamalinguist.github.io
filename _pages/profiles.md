@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: profiles
 permalink: /notes/
 title: notes
 description: compilation of old, mostly handwritten notes (I am responsible for any errors or omissions)
@@ -7,7 +7,7 @@ nav: false
 nav_order:
 
 
-notes:
+profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
