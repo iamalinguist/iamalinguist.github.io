@@ -1,8 +1,8 @@
 ---
-layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+layout: page
+permalink: /notes/
+title: notes
+description: compilation of old, mostly handwritten notes (I am responsible for any errors or omissions)
 nav: false
 nav_order: 
 
@@ -10,19 +10,23 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>C1, Humanistic Studies</p>
-      <p>IIT (BHU), Varanasi</p>
-      <p>U.P., India- 221005</p>
+    image: syntax.jpg
+    content: about_syntax.md
+    image_circular: true # crops the image to make it circular
+
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>C1, Humanistic Studies</p>
-      <p>IIT (BHU), Varanasi</p>
-      <p>U.P., India- 221005</p>
+    image: semantics.jpg
+    content: about_semantics.md
+    image_circular: true # crops the image to make it circular
+
+  - align: right
+    image: nativeenglish.jpg
+    content: about_nativeenglish.md
+    image_circular: true # crops the image to make it circular
+
+  - align: left
+    image: nativehindi.jpg
+    content: about_nativehindi.md
+    image_circular: true # crops the image to make it circular
+
 ---

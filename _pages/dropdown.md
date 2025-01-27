@@ -8,8 +8,8 @@ children:
   - title: teaching
     permalink: /teaching/
   - title: divider
-  - title: people
-    permalink: /people/
+  - title: notes
+    permalink: /notes/
   - title: divider
   - title: gallery
     permalink: /gallery/
