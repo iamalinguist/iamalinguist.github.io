@@ -63,7 +63,7 @@ nav_order:
 
 ---
 
-## LING518
+## LING502
 `Analysis and Argumentation` [[Download Slides]()] - 
 * Critical Thinking in Linguistics – Developing analytical reasoning and evaluating linguistic arguments.
 * Identifying Patterns – Data-driven hypothesis formation in language.

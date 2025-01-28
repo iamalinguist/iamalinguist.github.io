@@ -26,9 +26,6 @@ Feel free to share your comments or send me a copy of 'our picture' if you'd lik
     <a class="spotlight" href="/assets/img/iitjodhpur/4.jpg">
         <img src="/assets/img/iitjodhpur/small/4.jpg" />
     </a>
-</div>
-<!-- Group 2 -->
-<div class="spotlight-group">
     <a class="spotlight" href="/assets/img/iitjodhpur/2.jpg">
         <img src="/assets/img/iitjodhpur/small/2.jpg" />
     </a>
