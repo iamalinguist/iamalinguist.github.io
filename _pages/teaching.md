@@ -8,7 +8,7 @@ nav_order:
 ---
 
 ## LING201
-`Introduction to Linguistics` [Download Slides]() - 
+`Introduction to Linguistics` [[Download Slides]()] -  
 * Language and Communication – Definition of language, features of human communication, and comparison with animal communication.
 * Phonetics and Phonology – Speech sounds, articulatory phonetics, phonemes, minimal pairs, and phonological rules.
 * Morphology – Word structure, morphemes, derivation vs. inflection, and word formation processes.
@@ -19,9 +19,10 @@ nav_order:
 * Psycholinguistics – Language acquisition, comprehension, and cognitive processing of language.
 * Typology and Universals – Linguistic diversity, word order typologies, and cross-linguistic generalizations.
 
+---
 
 ## LING301
-`Introduction to Syntax` [Download Slides]() - 
+`Introduction to Syntax` [[Download Slides]()] - 
 * Basic Syntactic Concepts – Sentence, phrase, and clause distinctions.
 * Constituency Tests – Substitution, movement, coordination, and deletion as tools for determining structure.
 * Phrase Structure Rules – Building tree diagrams, understanding NP, VP, PP, etc.
@@ -32,9 +33,10 @@ nav_order:
 * Agreement and Case – Subject-verb agreement, nominative and accusative case assignment.
 * Cross-Linguistic Variation – Language-specific syntactic structures, and comparison across languages.
 
+---
 
 ## LING401
-`Foundations of Syntactic Theory` [Download Slides]() - 
+`Foundations of Syntactic Theory` [[Download Slides]()] - 
 * Generative Grammar – Core principles of Chomsky’s framework and its motivations.
 * Universal Grammar (UG) – The notion of an innate grammatical framework.
 * Deep Structure vs. Surface Structure – Understanding transformations in syntax.
@@ -45,10 +47,10 @@ nav_order:
 * Syntactic Parameters – Head directionality, null subjects, and other parameterized differences.
 * Formalism and Tree Structures – Detailed analyses of syntax diagrams using modern theory.
 
-
+---
 
 ## LING501
-`Theories of Grammar` [Download Slides]() - 
+`Theories of Grammar` [[Download Slides]()] - 
 * Traditional Grammar – Prescriptive rules and grammar traditions.
 * Structural Grammar – Bloomfieldian linguistics, and the focus on forms and patterns.
 * Transformational-Generative Grammar (TGG) – Overview of Chomskyan theories and their evolution.
@@ -59,10 +61,10 @@ nav_order:
 * Construction Grammar – Grammar as a collection of form-meaning pairings (constructions).
 * Comparative Overview of Theories – Strengths and weaknesses of different models.
 
-
+---
 
 ## LING518
-`Analysis and Argumentation` - 
+`Analysis and Argumentation` [[Download Slides]()] - 
 * Critical Thinking in Linguistics – Developing analytical reasoning and evaluating linguistic arguments.
 * Identifying Patterns – Data-driven hypothesis formation in language.
 * Formalization of Arguments – Articulating linguistic generalizations and proving them rigorously.

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 permalink: /gallery/
 title: the memories of events/conferences/meets
 description: vivek's mini-galleries
