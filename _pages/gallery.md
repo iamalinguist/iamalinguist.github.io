@@ -1,14 +1,11 @@
 ---
-layout: post
+layout: default
 permalink: /gallery/
 title: the memories of events/conferences/meets
 description: vivek's mini-galleries
-thumbnail: assets/img/prof_pic.jpg
+#thumbnail: assets/img/prof_pic.jpg
 images:
   lightbox2: true
-  #photoswipe: true
-  #spotlight: true
-  #venobox: true
 ---
 
 Feel free to share your comments or send me a copy of 'our picture' if you'd like it included in my mini-galleries. If I missed it and you have it on your drive or phone, please share it—as long as we’ve met at least once in person!
