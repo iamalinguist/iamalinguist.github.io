@@ -2,13 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: key topics for the courses I teach. 
 nav: false
 nav_order:
 ---
 
 ## LING201
-`Introduction to Linguistics` - 
+`Introduction to Linguistics` [Download Slides]() - 
 * Language and Communication – Definition of language, features of human communication, and comparison with animal communication.
 * Phonetics and Phonology – Speech sounds, articulatory phonetics, phonemes, minimal pairs, and phonological rules.
 * Morphology – Word structure, morphemes, derivation vs. inflection, and word formation processes.
@@ -20,8 +20,8 @@ nav_order:
 * Typology and Universals – Linguistic diversity, word order typologies, and cross-linguistic generalizations.
 
 
-## LING300
-`Introduction to Syntax` - 
+## LING301
+`Introduction to Syntax` [Download Slides]() - 
 * Basic Syntactic Concepts – Sentence, phrase, and clause distinctions.
 * Constituency Tests – Substitution, movement, coordination, and deletion as tools for determining structure.
 * Phrase Structure Rules – Building tree diagrams, understanding NP, VP, PP, etc.
@@ -33,8 +33,8 @@ nav_order:
 * Cross-Linguistic Variation – Language-specific syntactic structures, and comparison across languages.
 
 
-## LING503
-`Foundations of Syntactic Theory` - 
+## LING401
+`Foundations of Syntactic Theory` [Download Slides]() - 
 * Generative Grammar – Core principles of Chomsky’s framework and its motivations.
 * Universal Grammar (UG) – The notion of an innate grammatical framework.
 * Deep Structure vs. Surface Structure – Understanding transformations in syntax.
@@ -47,8 +47,8 @@ nav_order:
 
 
 
-## LING505
-`Theories of Grammar` - 
+## LING501
+`Theories of Grammar` [Download Slides]() - 
 * Traditional Grammar – Prescriptive rules and grammar traditions.
 * Structural Grammar – Bloomfieldian linguistics, and the focus on forms and patterns.
 * Transformational-Generative Grammar (TGG) – Overview of Chomskyan theories and their evolution.
