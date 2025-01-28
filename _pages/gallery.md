@@ -20,14 +20,17 @@ Feel free to share your comments or send me a copy of 'our picture' if you'd lik
     <a class="spotlight" href="/assets/img/iitjodhpur/1.jpg">
         <img src="/assets/img/iitjodhpur/small/1.jpg" />
     </a>
-    <a class="spotlight" href="/assets/img/iitjodhpur/2.jpg">
-        <img src="/assets/img/iitjodhpur/small/2.jpg" />
-    </a>
     <a class="spotlight" href="/assets/img/iitjodhpur/3.jpg">
         <img src="/assets/img/iitjodhpur/small/3.jpg" />
     </a>
     <a class="spotlight" href="/assets/img/iitjodhpur/4.jpg">
         <img src="/assets/img/iitjodhpur/small/4.jpg" />
+    </a>
+</div>
+<!-- Group 2 -->
+<div class="spotlight-group">
+    <a class="spotlight" href="/assets/img/iitjodhpur/2.jpg">
+        <img src="/assets/img/iitjodhpur/small/2.jpg" />
     </a>
     <a class="spotlight" href="/assets/img/iitjodhpur/5.jpg">
         <img src="/assets/img/iitjodhpur/small/5.jpg" />
@@ -35,52 +38,25 @@ Feel free to share your comments or send me a copy of 'our picture' if you'd lik
 </div>
 
 
----
-
-<a href="/assets/img/iitjodhpur/1.jpg" data-lightbox="roadtrip"><img src="/assets/img/iitjodhpur/small/1.jpg" /></a>
-
-<a href="/assets/img/iitjodhpur/2.jpg" data-lightbox="roadtrip"><img src="/assets/img/iitjodhpur/small/2.jpg" /></a>
-
-<a href="/assets/img/iitjodhpur/3.jpg" data-lightbox="roadtrip"><img src="/assets/img/iitjodhpur/small/3.jpg" /></a>
-
-<a href="/assets/img/iitjodhpur/4.jpg" data-lightbox="roadtrip"><img src="/assets/img/iitjodhpur/small/4.jpg" /></a>
-
-<a href="/assets/img/iitjodhpur/5.jpg" data-lightbox="roadtrip"><img src="/assets/img/iitjodhpur/small/5.jpg" /></a>
-
 
 ---
 
-## [Spotlight JS](https://nextapps-de.github.io/spotlight/)
-
+## [IIT BHU, Sep 2024]()
 <!-- Group 1 -->
 <div class="spotlight-group">
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" />
+    <div class="spotlight-group">
+    <a class="spotlight" href="/assets/img/iitbhu/1.jpg">
+        <img src="/assets/img/iitbhu/small/1.jpg" />
     </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" />
+    <a class="spotlight" href="/assets/img/iitbhu/2.jpg">
+        <img src="/assets/img/iitbhu/small/2.jpg" />
     </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" />
+    <a class="spotlight" href="/assets/img/iitbhu/3.jpg">
+        <img src="/assets/img/iitbhu/small/3.jpg" />
     </a>
-</div>
-<!-- Group 2 -->
-<div class="spotlight-group">
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/4/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/4/img-200.jpg" />
-    </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/5/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/5/img-200.jpg" />
-    </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-200.jpg" />
+    <a class="spotlight" href="/assets/img/iitbhu/4.jpg">
+        <img src="/assets/img/iitbhu/small/4.jpg" />
     </a>
 </div>
 
 ---
-
-## [Venobox](https://veno.es/venobox/)
-
-<a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" /></a>
-<a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" /></a>
-<a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" /></a>
