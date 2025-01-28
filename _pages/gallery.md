@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: page
+permalink: /gallery/
 title: a compilation of events/conferences/meets memories
-description: this is what included image galleries could look like
+description: vivek's mini-galleries
 thumbnail: assets/img/prof_pic.jpg
 images:
   lightbox2: true
