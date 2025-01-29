@@ -427,7 +427,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-word-sense-in-sanskrit",
-          title: 'word sense in sanskrit',
+          title: 'word sense in Sanskrit',
           description: "a shloka dictionary based on a corpus of Sanskrit texts",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
