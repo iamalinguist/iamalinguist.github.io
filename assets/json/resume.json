@@ -30,7 +30,7 @@
       "startDate": "2025-07-01",
       "endDate": "ongoing",
       "summary": "I teach in the Humanities Department, collaborating with linguistics professors and regularly delivering lectures on campus",
-      "highlights": ["Syntax", "Semantics", "English", "Others- Thought Lab, Public Speaking"]
+      "highlights": ["Syntax", "Semantics", "Others- English, Thought Lab, Public Speaking"]
     }
   ],
   "volunteer": [
@@ -61,7 +61,7 @@
       "institution": "Indian Institute of Technology, Bombay",
       "location": "Mumbai, India",
       "url": "https://www.iitb.ac.in/",
-      "area": "Applied Computer Science (specifically Geoinformatics)",
+      "area": "Geoinformatics",
       "studyType": "MTech",
       "startDate": "2013-07-01",
       "endDate": "2015-07-01",
@@ -71,12 +71,11 @@
   ],
   "awards": [
     {
-      "title": "Recognitions",
-      "date": "2009-2005",
+      "title": "Recognitions (2009-25)",
+      "date": "",
       "awarder": "Various Institutes",
       "url": "",
-      "summary":"",
-      "keywords": [
+      "summary": [
         "Best Research Paper (Multiple Times)",
         "National Innovation Award (Technology Domain) at National Level",
         "Innovation Award (Swacchata Ideathon) at National Level",
@@ -84,11 +83,11 @@
       ]
       },
     {
-      "title": "Fellowships",
-      "date": "2009-2025",
+      "title": "Fellowships (2009-25)",
+      "date": "",
       "awarder": "Various Organisations",
       "url": "",
-      "keywords": [
+      "summary": [
         "NET Institute Fellowship",
         "DAAD Fellowship",
         "GATE-MHRD Fellowship",
@@ -224,27 +223,27 @@
   ],
   "references": [
     {
-      "name": "Professor XYZ",
+      "name": "Professor NA",
       "icon": "fa-solid fa-laptop",
-      "reference": "NA"
+      "reference": "Email-"
     },
     {
-      "name": "Professor ABC",
+      "name": "Professor NA",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "NA"
+      "reference": "Email-"
     }
   ],
   "projects": [
     {
       "name": "'Begin Syntax for Hindi' Monograph",
-      "summary": "This book is a basic introduction to syntactic analysis in Hindi. Assuming no prior knowledge of the subject whatsoever, it is meant for students who are learning about syntax for the first time, especially those interested in SOV Asian languages. It provides a strong and easy-to-understand foundation for those who want to embark on a longer-term study of syntax. The book starts by explaining how general patterns help us understand sentence structure and word categories. It then moves on to more complex sentence structures, giving students plenty of exercises to practice and understand each concept before moving forward. The goal of the book is to introduce the basics of syntax clearly without going into complex issues of argumentation.",
+      "summary": "This book is a basic introduction to syntactic analysis in Hindi.",
       "highlights": ["The Verb Phrase", "The Verb Group", "The Noun Phrase", "Subordination and Coordination"],
       "startDate": "2025-07-01",
       "endDate": "2026-07-01",
       "url": ""
     },
     {
-      "name": "Word Sense in Sanskrit Language",
+      "name": "Word Sense in Sanskrit",
       "summary": "This Shloka dictionary is based on a corpus of Vedic Sanskrit texts. It is a smart and detailed dictionary that provides lexicon, pronunciation, and transliteration capacity for Sanskrit words. Each word is explained with examples from associated ancient Vedic texts, listed in chronological order, along with its root or origin from Hindu scriptures.",
       "highlights": ["Word Sense", "Sanskrit Language", "Machine Learning", "Web Programming"],
       "startDate": "2023-01-01",

@@ -39,7 +39,6 @@ Feel free to share your comments or send me a copy of 'our picture' if you'd lik
 ---
 
 ## [IIT BHU, Sep 2024]()
-<!-- Group 1 -->
 <div class="spotlight-group">
     <div class="spotlight-group">
     <a class="spotlight" href="/assets/img/iitbhu/1.jpg">
@@ -54,6 +53,46 @@ Feel free to share your comments or send me a copy of 'our picture' if you'd lik
     <a class="spotlight" href="/assets/img/iitbhu/4.jpg">
         <img src="/assets/img/iitbhu/small/4.jpg" />
     </a>
+</div>
+
+---
+
+## [Miscellaneous]()
+<!-- Group 1 -->
+<div class="spotlight-group">
+    <div class="spotlight-group">
+    <a class="spotlight" href="/assets/img/miscellaneous/1.jpg">
+        <img src="/assets/img/iitbhu/miscellaneous/small/1.jpg" />
+    </a>
+    <a class="spotlight" href="/assets/img/miscellaneous/2.jpg">
+        <img src="/assets/img/iitbhu/miscellaneous/small/2.jpg" />
+    </a>
+    <a class="spotlight" href="/assets/img/miscellaneous/3.jpg">
+        <img src="/assets/img/iitbhu/miscellaneous/small/3.jpg" />
+    </a>
+    <a class="spotlight" href="/assets/img/miscellaneous/4.jpg">
+        <img src="/assets/img/iitbhu/miscellaneous/small/4.jpg" />
+    </a>
+    <a class="spotlight" href="/assets/img/miscellaneous/5.jpg">
+        <img src="/assets/img/iitbhu/miscellaneous/small/5.jpg" />
+    </a>
+</div>
+<!-- Group 2 -->
+<div class="spotlight-group">
+    <div class="spotlight-group">
+    <a class="spotlight" href="/assets/img/miscellaneous/6.jpg">
+        <img src="/assets/img/iitbhu/miscellaneous/small/6.jpg" />
+    </a>
+    <a class="spotlight" href="/assets/img/miscellaneous/7.jpg">
+        <img src="/assets/img/iitbhu/miscellaneous/small/7.jpg" />
+    </a>
+    <a class="spotlight" href="/assets/img/miscellaneous/8.jpg">
+        <img src="/assets/img/iitbhu/miscellaneous/small/8.jpg" />
+    </a>
+    <a class="spotlight" href="/assets/img/miscellaneous/9.jpg">
+        <img src="/assets/img/iitbhu/miscellaneous/small/9.jpg" />
+    </a>
+
 </div>
 
 ---

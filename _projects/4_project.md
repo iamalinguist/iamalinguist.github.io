@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: language resources for non-native Hindi speakers
+description: a volunteering project to produce effective content on verbs, conversation, script etc.
+img: assets/img/7.jpg
+redirect: https://heyhindi.web.app/
 importance: 3
 category: fun
 ---
