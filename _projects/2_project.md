@@ -5,7 +5,7 @@ description: a shloka dictionary based on a corpus of Sanskrit texts
 img: assets/img/projects/pro2 banner.jpg
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 This Shloka dictionary is based on a corpus of Vedic Sanskrit texts. It is a smart and detailed dictionary that provides lexicon, pronunciation, and transliteration capacity for Sanskrit words. Each word is explained with examples from associated ancient Vedic texts, listed in chronological order, along with its root or origin from Hindu scriptures.

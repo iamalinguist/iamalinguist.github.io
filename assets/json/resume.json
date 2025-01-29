@@ -42,7 +42,7 @@
       "startDate": "2015-04-01",
       "endDate": "ongoing",
       "summary": "Trainer and consultant for non-native Hindi speakers, with experience teaching learners from around the globe.",
-      "highlights": ["Hindi Language Champion Award – Conferred by Oxford University Press, Delhi.", "Innovation Award for creating an AI-powered Hindi dictionary.", "Language Learning Books – Authored several language learning books (script, grammar, conversation, verb etc.) as volunteer services."]
+      "highlights": ["Hindi Language Champion Award – Conferred by Oxford University Press, Delhi.", "Innovation Award for creating an AI-powered Hindi dictionary.", "Language Learning Books – Authored several language learning books (script, grammar, conversation, verb etc.)."]
     }
   ],
   "education": [
@@ -233,7 +233,7 @@
       "highlights": ["The Verb Phrase", "The Verb Group", "The Noun Phrase", "Subordination and Coordination"],
       "startDate": "2025-07-01",
       "endDate": "2026-07-01",
-      "url": "https://iamalinguist.github.io/projects/1_project/"
+      "url": "/projects/1_project/"
     },
     {
       "name": "Word Sense in Sanskrit",
@@ -241,7 +241,7 @@
       "highlights": ["Word Sense", "Sanskrit Language", "Machine Learning", "Web Programming"],
       "startDate": "2023-01-01",
       "endDate": "2024-01-01",
-      "url": "projects/2_project/"
+      "url": "/projects/2_project/"
     },
     {
       "name": "Fragments App for Hindi",

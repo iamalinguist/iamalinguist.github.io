@@ -1,7 +1,7 @@
 ---
 layout: page
 title: begin syntax in Hindi
-description: academic monograph
+description: academic monograph (VP, NP, Verb Group, Subordination and Coordination)
 img: assets/img/projects/pro1 banner.jpg
 importance: 1
 category: work
