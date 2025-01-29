@@ -423,7 +423,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-begin-syntax-in-hindi",
           title: 'begin syntax in Hindi',
-          description: "academic monograph (VP, NP, Verb Group, Subordination and Coordination)",
+          description: "academic monograph",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-word-sense-in-sanskrit",
