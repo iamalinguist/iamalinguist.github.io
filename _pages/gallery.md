@@ -52,9 +52,6 @@ Feel free to share your comments or send me a copy of 'our picture' if you'd lik
 
 ## [Miscellaneous]()
 <div class="spotlight-group">
-    <a class="spotlight" href="/assets/img/miscellaneous/0.jpg">
-        <img src="/assets/img/miscellaneous/small/0.jpg" />
-    </a>
     <a class="spotlight" href="/assets/img/miscellaneous/2.jpg">
         <img src="/assets/img/miscellaneous/small/2.jpg" />
     </a>
@@ -75,7 +72,8 @@ Feel free to share your comments or send me a copy of 'our picture' if you'd lik
     </a>
     <a class="spotlight" href="/assets/img/miscellaneous/9.jpg">
         <img src="/assets/img/miscellaneous/small/9.jpg" />
-    </a>    <a class="spotlight" href="/assets/img/miscellaneous/6.jpg">
+    </a>
+    <a class="spotlight" href="/assets/img/miscellaneous/6.jpg">
         <img src="/assets/img/miscellaneous/small/6.jpg" />
     </a>
 

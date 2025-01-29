@@ -22,9 +22,28 @@ The center point of the formalisation of the Hindi language is its grammar rules
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/pro3.1" title="logo of HT Parser" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/pro3.1.png" title="logo of HT Parser" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image features the logo of **HT Parser**, with the caption **"ūrdhva-mūlam adhaḥ-śhākham."** Explore its meaning on [this website](https://vivekavani.com/b15v1/).
+    This image features the logo of HT Parser, with the caption "ūrdhva-mūlam adhaḥ-śhākham." Explore its meaning on <a href="https://vivekavani.com/b15v1/">this website</a>.
 </div>
+
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/pro3.2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/pro3.3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/pro3.4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    On the left is an example of a conjunction syntactic category. The middle section displays various sample rules operating within the HT Parser. On the right, another image showcases sample lexical items used as a corpus in the examples.
+</div>
+
+
