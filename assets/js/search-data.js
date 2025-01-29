@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "a collection of my cool academic projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -421,24 +421,24 @@ ninja.data = [{
             },},{id: "news-participation-in-an-event-at-ignou-delhi-sparkles-smile",
           title: 'Participation in an event at IGNOU, Delhi. :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-begin-syntax-in-hindi",
+          title: 'begin syntax in Hindi',
+          description: "academic monograph",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-word-sense-in-sanskrit",
+          title: 'word sense in sanskrit',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-hindi-fragments-app",
+          title: 'Hindi Fragments App',
+          description: "a volunteering project to produce effective content on verbs, conversation, script etc.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-language-resources-for-non-native-hindi-speakers",
+          title: 'language resources for non-native Hindi speakers',
+          description: "a volunteering project to produce effective content on verbs, conversation, script etc.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
