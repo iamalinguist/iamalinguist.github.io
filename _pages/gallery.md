@@ -81,7 +81,7 @@ Feel free to share your comments or send me a copy of 'our picture' if you'd lik
         <img src="/assets/img/miscellaneous/small/8.JPG" />
     </a>
     <a class="spotlight" href="/assets/img/miscellaneous/9.JPG">
-        <img src="/assets/img/miscellaneous/small/1.JPG" />
+        <img src="/assets/img/miscellaneous/small/9.JPG" />
     </a>
 </div>
 
