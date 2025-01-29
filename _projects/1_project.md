@@ -1,11 +1,11 @@
 ---
 layout: page
-title: begin syntax in Hindi
-description: academic monograph (VP, NP, Verb Group, Subordination and Coordination)
+title: an introduction to Hindi Syntax
+description: an academic monograph (VP, NP, Verb Group, Subordination and Coordination)
 img: assets/img/projects/pro1 banner.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 This book is a basic introduction to syntactic analysis in Hindi. Assuming no prior knowledge of the subject whatsoever, it is meant for students who are learning about syntax for the first time, especially those interested in SOV Asian languages. It provides a strong and easy-to-understand foundation for those who want to embark on a longer-term study of syntax. 
@@ -21,6 +21,11 @@ The book starts by explaining how general patterns help us understand sentence s
     </div>
 </div>
 <div class="caption">
-    Outline and Coverpage of Monograph (Publisher Details are under Discussion).
+    Ideation and Coverpage of Monograph 'An introduction to Hindi Syntax' (Publisher Details will be revealed later).
 </div>
 
+This project focuses on syntactic study of Hindi, drawing on diverse grammatical theories to formalize its structural patterns. The research aims to contribute to linguistic theory while addressing practical challenges in computational syntax. 
+
+As a secondary objective, the project will develop a basic parsing tool for Hindi, serving as a proof of concept for applying theoretical findings. It will be free for users to use and develop parsing for Hindi or Hindi-like SOV languages. 
+
+This hybrid approach ensures a theoretical investigation of the language while demonstrating its computational applicability. The project is expected to yield significant contributions to linguistic scholarship and provide a foundational tool for Hindi syntax parsing.
