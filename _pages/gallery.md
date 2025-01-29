@@ -5,17 +5,13 @@ title: the memories of events/conferences/meets
 description: vivek's mini-galleries
 #thumbnail: assets/img/prof_pic.jpg
 images:
-  lightbox2: true
   spotlight: true
-  venobox: true
 ---
 
 Feel free to share your comments or send me a copy of 'our picture' if you'd like it included in my mini-galleries. If I missed it and you have it on your drive or phone, please share it—as long as we’ve met at least once in person for a long coffee!
 
 
 ## [IIT Jodhpur, Dec 2024]()
-
-<!-- Group 1 -->
 <div class="spotlight-group">
     <a class="spotlight" href="/assets/img/iitjodhpur/1.jpg">
         <img src="/assets/img/iitjodhpur/small/1.jpg" />
@@ -34,13 +30,10 @@ Feel free to share your comments or send me a copy of 'our picture' if you'd lik
     </a>
 </div>
 
-
-
 ---
 
 ## [IIT BHU, Sep 2024]()
 <div class="spotlight-group">
-    <div class="spotlight-group">
     <a class="spotlight" href="/assets/img/iitbhu/1.jpg">
         <img src="/assets/img/iitbhu/small/1.jpg" />
     </a>
@@ -60,7 +53,6 @@ Feel free to share your comments or send me a copy of 'our picture' if you'd lik
 ## [Miscellaneous]()
 <!-- Group 1 -->
 <div class="spotlight-group">
-    <div class="spotlight-group">
     <a class="spotlight" href="/assets/img/miscellaneous/1.jpg">
         <img src="/assets/img/iitbhu/miscellaneous/small/1.jpg" />
     </a>
@@ -79,7 +71,6 @@ Feel free to share your comments or send me a copy of 'our picture' if you'd lik
 </div>
 <!-- Group 2 -->
 <div class="spotlight-group">
-    <div class="spotlight-group">
     <a class="spotlight" href="/assets/img/miscellaneous/6.jpg">
         <img src="/assets/img/iitbhu/miscellaneous/small/6.jpg" />
     </a>
@@ -92,7 +83,6 @@ Feel free to share your comments or send me a copy of 'our picture' if you'd lik
     <a class="spotlight" href="/assets/img/miscellaneous/9.jpg">
         <img src="/assets/img/iitbhu/miscellaneous/small/9.jpg" />
     </a>
-
 </div>
 
 ---

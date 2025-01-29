@@ -244,15 +244,15 @@
     },
     {
       "name": "Word Sense in Sanskrit",
-      "summary": "This Shloka dictionary is based on a corpus of Vedic Sanskrit texts. It is a smart and detailed dictionary that provides lexicon, pronunciation, and transliteration capacity for Sanskrit words. Each word is explained with examples from associated ancient Vedic texts, listed in chronological order, along with its root or origin from Hindu scriptures.",
+      "summary": "This Shloka dictionary is based on a corpus of Vedic Sanskrit texts.",
       "highlights": ["Word Sense", "Sanskrit Language", "Machine Learning", "Web Programming"],
       "startDate": "2023-01-01",
       "endDate": "2024-01-01",
       "url": ""
     },
     {
-      "name": "Hindi Fragments App",
-      "summary": "This application was created to demonstrate how Hindi grammar rules work and how different syntactic categories are related. It was developed alongside my PhD research, though it was not the main focus of my studies. Instead, it grew out of my personal interest and suggestions from my mentors.",
+      "name": "Fragments App for Hindi",
+      "summary": "This application was created to demonstrate how Hindi grammar rules work and how different syntactic categories are related.",
       "highlights": ["Phrase Structure Rules", "Hindi Language", "NP and VP Categories", "Regular Sentences"],
       "startDate": "2024-01-01",
       "endDate": "2022-01-01",

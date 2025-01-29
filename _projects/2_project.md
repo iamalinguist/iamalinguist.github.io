@@ -1,12 +1,14 @@
 ---
 layout: page
 title: word sense in sanskrit
-description: a project with a background image and giscus comments
+description: a shloka dictionary based on a corpus of Sanskrit texts
 img: assets/img/3.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
+
+This Shloka dictionary is based on a corpus of Vedic Sanskrit texts. It is a smart and detailed dictionary that provides lexicon, pronunciation, and transliteration capacity for Sanskrit words. Each word is explained with examples from associated ancient Vedic texts, listed in chronological order, along with its root or origin from Hindu scriptures.
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

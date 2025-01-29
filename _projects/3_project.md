@@ -1,24 +1,24 @@
 ---
 layout: page
-title: Hindi Fragments App
-description: a volunteering project to produce effective content on verbs, conversation, script etc.
+title: fragments app for Hindi
+description: a demonstration of 'how Hindi grammar rules work?'
 img: assets/img/7.jpg
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This application was created to demonstrate how Hindi grammar rules work and how different syntactic categories are related. It was developed alongside my PhD research, though it was not the main focus of my studies. Instead, it grew out of my personal interest and suggestions from my mentors.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
+To understand it through a formal perspective:
     ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    This Fragments App is labelled as 'Hindi Tree'. It is a software solution to parse sentences of the Hindi language in Python! Presently, it is in its version 1.0.0. that can deal with a small fragment of Hindi. This parser (referred to as HT Parser) works differently from other available parsers in its algorithm for syntactic parsing. It facilitates the logical treatment of lexical items at the semantic stage. The parser works by first breaking down the source input into tokens and then analysing their arrangement according to the rules of a context-free grammar. The parser parses only grammatically correct inputs. In case of a grammatically incorrect input, the parser displays compilation errors. The parser consists of a glossary of lexical items and it can check the grammaticality of a sentence S only when S consists of items from the glossary.
     ---
+
+## Grammar of 'The Hindi Tree' Parser
+The center point of the formalisation of the Hindi language is its grammar rules which produce a final parsing and associated set of annotations. These rules, as detailed below, which can generate theoretically infinite well-formed formulas for a fragment of Hindi with finite lexical units.
+
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -31,50 +31,7 @@ To give your project a background in the portfolio page, just add the img tag to
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
