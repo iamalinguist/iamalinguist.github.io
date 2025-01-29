@@ -1,0 +1,676 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,300,400);
+@import url('https://fonts.googleapis.com/css?family=Atma:500');
+@font-face {font-family: 'Courgette';  src: local('Courgette'), url(../files/Courgette.woff) format('woff');}
+@charset "utf-8";
+/*======================================
+	CREATOR : SM. Kafi, Cell : 01711112420, 01611112420
+	FROM : i2soft Technology Limited
+	DATE : 21 April 2016
+	PROJECT NAME : Bangla Converter (3rd version)
+=======================================*/
+
+body{
+	text-align:center;
+	font-family:Courgette;
+	font-size:15px;
+	background:#fff;
+	margin:0;padding:0;
+}
+.clear {
+	clear: both;
+}
+*{	
+	margin:0; 
+	padding:0;
+}
+a{
+color:#333;text-decoration:none;cursor:pointer;
+font-family:Courgette;
+}
+a:hover{color:#c00;
+font-family:Courgette;
+}
+.ip {font-family: 'Courgette'; font-size: 26px; color: #116492}
+.dateEN {font-family:'Courgette'; font-size: 12px; margin: 10px 0 0 0}
+.dateBN {font-family:SolaimanLipi; font-size: 14px; margin: 5px 0 0 0}
+.left {text-align:left;}
+.right {text-align:right;}
+.center {text-align:center;}
+.i {width: 150px; height: 40px}
+	div#logos {
+		width: 150px; height: 40px; margin: 0 2px 5px 2px; overflow: hidden; text-align: center; float:left;
+		border: 3px solid green; border-radius: 7px;
+		-webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
+		transition: width 2s;
+	}
+div#logos:hover {
+		border: 3px solid red; border-radius: 7px;
+	}
+div#logosTitle {
+		width: 300px; height: 25px; background: #dddddd; color: #000000; font-weight: bold; margin: 0 0 15px 0; padding: 5px 0 0 0; overflow: hidden; 
+		border-radius: 7px; 
+		-webkit-transition: width 1s; /* For Safari 3.1 to 6.0 */
+		transition: width 1s;
+	}
+div#logosTitle:hover {
+		width: 100%; background: #ff0000; color: #ffffff; 
+	}
+
+/*/////////// currency ///////////////*/
+div.dropt:hover {text-decoration: none; background: #ffffff; z-index: 6; }
+div.dropt:hover div {left: 0%; background: #ffffff;} 
+div.dropt div {position: absolute; left: -9999px; margin: 0 0 50px 850px; padding: 3px 3px 3px 3px; }
+
+p{margin:0px 0px 5px 0px;}
+h1{font-size:1.1em;padding:0px;margin:0px;}
+h2{font-size:1.3em;}
+td.cur A { 
+	color : #000000; 
+	font-size: 12px;
+	font-family : Arial; 
+} 
+td.cur A:hover { 
+	color : #000000; 
+	font-size: 12px;
+	font-family : Arial; 
+	text-decoration : underline; 
+}
+td.cur { 
+	color : #000000; 
+	font-size: 12px;
+	font-family : Arial; 
+} 
+.area { 
+	border-right : 1px solid #a2aeb9; 	
+	border-top : 1px solid #a2aeb9; 
+	border-left : 1px solid #a2aeb9; 
+	border-bottom : 1px solid #a2aeb9; 
+	font-size : 20px; 	
+	color : #000020; 	
+	font-family : Verdana; 
+	font-weight: bold"
+	height : 25px; 
+	width : 200px;
+	background-color : #ffffff; 
+} 
+/*/////////// currency ///////////////*/
+
+.box {
+background: #FFF;
+padding: 25px 0 10px 0;
+box-shadow: 0px 0px 20px #ADA5A5;
+border-bottom: #C8C8C8 solid 1px;
+border-left: #C8C8C8 solid 1px;
+border-right: #C8C8C8 solid 1px;
+}
+.none {display:none}
+.fmenu a{font-size:16px; line-height: 1.5em; color:#000; font-family: Roboto; font-weight: 300}
+.fmenu a:hover{color:#13AC5C; text-decoration: underline}
+/*/////////// COMMON STYLE ///////////*/
+@media (min-width: 200px) and (max-width: 766px) {
+	.m_none {display: none;}
+	.anthem {width:100%; height: auto}
+	.topMenu {text-decoration: underline; padding: 0 0 0 5px; font-size: 10px}
+	.footerM{-webkit-column-count: 1; -moz-column-count: 1; column-count: 1; -webkit-column-gap: 20px; -moz-column-gap: 20px; column-gap: 20px; -webkit-column-rule: 0px solid #000000; -moz-column-rule: 0px solid #000000; column-rule: 0px solid #000000;}
+}
+@media (min-width:767px) and (max-width: 990px) {
+	.container {width: 750px;}
+	.btn {margin: 30px 0 0 0}
+	.t_none {display: none;}
+	.anthem {width:75%; height: auto}
+	.topMenu {background: #2D2D2D; color: #ffffff; padding: 5px 15px 5px 15px; border-radius: 4px; DISPLAY: block; float:left; margin: 0 2px 2px 0}
+	.footerM{-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-gap: 20px; -moz-column-gap: 20px; column-gap: 20px; -webkit-column-rule: 0px solid #000000; -moz-column-rule: 0px solid #000000; column-rule: 0px solid #000000;}
+}
+@media (min-width:991px) and (max-width: 1150px) {
+    .container {width: 970px;}
+	.d_none {display: none;}
+	.anthem {width:50%; height: auto}
+	.topMenu {background: #2D2D2D; color: #ffffff; padding: 5px 15px 5px 15px; border-radius: 4px; DISPLAY: block; float:left; margin: 0 2px 2px 0}
+	.footerM{-webkit-column-count: 4; -moz-column-count: 4; column-count: 4; -webkit-column-gap: 20px; -moz-column-gap: 20px; column-gap: 20px; -webkit-column-rule: 0px solid #000000; -moz-column-rule: 0px solid #000000; column-rule: 0px solid #000000;}
+}
+@media (min-width:1151px) and (max-width: 1200px) {
+    .container {width: 1050px;}
+	.anthem {width:50%; height: auto}
+	.topMenu {background: #2D2D2D; color: #ffffff; padding: 5px 15px 5px 15px; border-radius: 4px; DISPLAY: block; float:left; margin: 0 2px 2px 0}
+	.footerM{-webkit-column-count: 4; -moz-column-count: 4; column-count: 4; -webkit-column-gap: 20px; -moz-column-gap: 20px; column-gap: 20px; -webkit-column-rule: 0px solid #000000; -moz-column-rule: 0px solid #000000; column-rule: 0px solid #000000;}
+}
+@media (min-width:1201px) {
+	.container {width: 1170px;}
+	.anthem {width:50%; height: auto}
+	.topMenu {background: #2D2D2D; color: #ffffff; padding: 5px 15px 5px 15px; border-radius: 4px; DISPLAY: block; float:left; margin: 0 2px 2px 0}
+	.footerM{-webkit-column-count: 4; -moz-column-count: 4; column-count: 4; -webkit-column-gap: 20px; -moz-column-gap: 20px; column-gap: 20px; -webkit-column-rule: 0px solid #000000; -moz-column-rule: 0px solid #000000; column-rule: 0px solid #000000;}
+}
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.topMenu:hover {color: #13AC5C}
+.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}.h1,h1{font-size:36px}.h2,h2{font-size:30px}.h3,h3{font-size:24px}.h4,h4{font-size:18px}.h5,h5{font-size:14px}.h6,h6{font-size:12px}.text-left{text-align:left}.text-right{text-align:right}.text-center{text-align:center}.text-justify{text-align:justify}.text-nowrap{white-space:nowrap}.text-lowercase{text-transform:lowercase}.text-uppercase{text-transform:uppercase}.text-capitalize{text-transform:capitalize}*,:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box}.col-xs-1,.col-xs-10,.col-xs-11,.col-xs-12,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9{float:left}.col-lg-1,.col-lg-10,.col-lg-11,.col-lg-12,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-md-1,.col-md-10,.col-md-11,.col-md-12,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-sm-1,.col-sm-10,.col-sm-11,.col-sm-12,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-xs-1,.col-xs-10,.col-xs-11,.col-xs-12,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9{position:relative;min-height:1px;padding-right:15px;padding-left:15px}.col-xs-12{width:100%}.col-xs-11{width:91.66666667%}.col-xs-10{width:83.33333333%}.col-xs-9{width:75%}.col-xs-8{width:66.66666667%}.col-xs-7{width:58.33333333%}.col-xs-6{width:50%}.col-xs-5{width:41.66666667%}.col-xs-4{width:33.33333333%}.col-xs-3{width:25%}.col-xs-2{width:16.66666667%}.col-xs-1{width:8.33333333%}.col-xs-pull-12{right:100%}.col-xs-pull-11{right:91.66666667%}.col-xs-pull-10{right:83.33333333%}.col-xs-pull-9{right:75%}.col-xs-pull-8{right:66.66666667%}.col-xs-pull-7{right:58.33333333%}.col-xs-pull-6{right:50%}.col-xs-pull-5{right:41.66666667%}.col-xs-pull-4{right:33.33333333%}.col-xs-pull-3{right:25%}.col-xs-pull-2{right:16.66666667%}.col-xs-pull-1{right:8.33333333%}.col-xs-pull-0{right:auto}.col-xs-push-12{left:100%}.col-xs-push-11{left:91.66666667%}.col-xs-push-10{left:83.33333333%}.col-xs-push-9{left:75%}.col-xs-push-8{left:66.66666667%}.col-xs-push-7{left:58.33333333%}.col-xs-push-6{left:50%}.col-xs-push-5{left:41.66666667%}.col-xs-push-4{left:33.33333333%}.col-xs-push-3{left:25%}.col-xs-push-2{left:16.66666667%}.col-xs-push-1{left:8.33333333%}.col-xs-push-0{left:auto}.col-xs-offset-12{margin-left:100%}.col-xs-offset-11{margin-left:91.66666667%}.col-xs-offset-10{margin-left:83.33333333%}.col-xs-offset-9{margin-left:75%}.col-xs-offset-8{margin-left:66.66666667%}.col-xs-offset-7{margin-left:58.33333333%}.col-xs-offset-6{margin-left:50%}.col-xs-offset-5{margin-left:41.66666667%}.col-xs-offset-4{margin-left:33.33333333%}.col-xs-offset-3{margin-left:25%}.col-xs-offset-2{margin-left:16.66666667%}.col-xs-offset-1{margin-left:8.33333333%}.col-xs-offset-0{margin-left:0}@media (min-width:768px){.col-sm-1,.col-sm-10,.col-sm-11,.col-sm-12,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9{float:left}.col-sm-12{width:100%}.col-sm-11{width:91.66666667%}.col-sm-10{width:83.33333333%}.col-sm-9{width:75%}.col-sm-8{width:66.66666667%}.col-sm-7{width:58.33333333%}.col-sm-6{width:50%}.col-sm-5{width:41.66666667%}.col-sm-4{width:33.33333333%}.col-sm-3{width:25%}.col-sm-2{width:16.66666667%}.col-sm-1{width:8.33333333%}.col-sm-pull-12{right:100%}.col-sm-pull-11{right:91.66666667%}.col-sm-pull-10{right:83.33333333%}.col-sm-pull-9{right:75%}.col-sm-pull-8{right:66.66666667%}.col-sm-pull-7{right:58.33333333%}.col-sm-pull-6{right:50%}.col-sm-pull-5{right:41.66666667%}.col-sm-pull-4{right:33.33333333%}.col-sm-pull-3{right:25%}.col-sm-pull-2{right:16.66666667%}.col-sm-pull-1{right:8.33333333%}.col-sm-pull-0{right:auto}.col-sm-push-12{left:100%}.col-sm-push-11{left:91.66666667%}.col-sm-push-10{left:83.33333333%}.col-sm-push-9{left:75%}.col-sm-push-8{left:66.66666667%}.col-sm-push-7{left:58.33333333%}.col-sm-push-6{left:50%}.col-sm-push-5{left:41.66666667%}.col-sm-push-4{left:33.33333333%}.col-sm-push-3{left:25%}.col-sm-push-2{left:16.66666667%}.col-sm-push-1{left:8.33333333%}.col-sm-push-0{left:auto}.col-sm-offset-12{margin-left:100%}.col-sm-offset-11{margin-left:91.66666667%}.col-sm-offset-10{margin-left:83.33333333%}.col-sm-offset-9{margin-left:75%}.col-sm-offset-8{margin-left:66.66666667%}.col-sm-offset-7{margin-left:58.33333333%}.col-sm-offset-6{margin-left:50%}.col-sm-offset-5{margin-left:41.66666667%}.col-sm-offset-4{margin-left:33.33333333%}.col-sm-offset-3{margin-left:25%}.col-sm-offset-2{margin-left:16.66666667%}.col-sm-offset-1{margin-left:8.33333333%}.col-sm-offset-0{margin-left:0}}@media (min-width:992px){.col-md-1,.col-md-10,.col-md-11,.col-md-12,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9{float:left}.col-md-12{width:100%}.col-md-11{width:91.66666667%}.col-md-10{width:83.33333333%}.col-md-9{width:75%}.col-md-8{width:66.66666667%}.col-md-7{width:58.33333333%}.col-md-6{width:50%}.col-md-5{width:41.66666667%}.col-md-4{width:33.33333333%}.col-md-3{width:25%}.col-md-2{width:16.66666667%}.col-md-1{width:8.33333333%}.col-md-pull-12{right:100%}.col-md-pull-11{right:91.66666667%}.col-md-pull-10{right:83.33333333%}.col-md-pull-9{right:75%}.col-md-pull-8{right:66.66666667%}.col-md-pull-7{right:58.33333333%}.col-md-pull-6{right:50%}.col-md-pull-5{right:41.66666667%}.col-md-pull-4{right:33.33333333%}.col-md-pull-3{right:25%}.col-md-pull-2{right:16.66666667%}.col-md-pull-1{right:8.33333333%}.col-md-pull-0{right:auto}.col-md-push-12{left:100%}.col-md-push-11{left:91.66666667%}.col-md-push-10{left:83.33333333%}.col-md-push-9{left:75%}.col-md-push-8{left:66.66666667%}.col-md-push-7{left:58.33333333%}.col-md-push-6{left:50%}.col-md-push-5{left:41.66666667%}.col-md-push-4{left:33.33333333%}.col-md-push-3{left:25%}.col-md-push-2{left:16.66666667%}.col-md-push-1{left:8.33333333%}.col-md-push-0{left:auto}.col-md-offset-12{margin-left:100%}.col-md-offset-11{margin-left:91.66666667%}.col-md-offset-10{margin-left:83.33333333%}.col-md-offset-9{margin-left:75%}.col-md-offset-8{margin-left:66.66666667%}.col-md-offset-7{margin-left:58.33333333%}.col-md-offset-6{margin-left:50%}.col-md-offset-5{margin-left:41.66666667%}.col-md-offset-4{margin-left:33.33333333%}.col-md-offset-3{margin-left:25%}.col-md-offset-2{margin-left:16.66666667%}.col-md-offset-1{margin-left:8.33333333%}.col-md-offset-0{margin-left:0}}@media (min-width:1200px){.col-lg-1,.col-lg-10,.col-lg-11,.col-lg-12,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9{float:left}.col-lg-12{width:100%}.col-lg-11{width:91.66666667%}.col-lg-10{width:83.33333333%}.col-lg-9{width:75%}.col-lg-8{width:66.66666667%}.col-lg-7{width:58.33333333%}.col-lg-6{width:50%}.col-lg-5{width:41.66666667%}.col-lg-4{width:33.33333333%}.col-lg-3{width:25%}.col-lg-2{width:16.66666667%}.col-lg-1{width:8.33333333%}.col-lg-pull-12{right:100%}.col-lg-pull-11{right:91.66666667%}.col-lg-pull-10{right:83.33333333%}.col-lg-pull-9{right:75%}.col-lg-pull-8{right:66.66666667%}.col-lg-pull-7{right:58.33333333%}.col-lg-pull-6{right:50%}.col-lg-pull-5{right:41.66666667%}.col-lg-pull-4{right:33.33333333%}.col-lg-pull-3{right:25%}.col-lg-pull-2{right:16.66666667%}.col-lg-pull-1{right:8.33333333%}.col-lg-pull-0{right:auto}.col-lg-push-12{left:100%}.col-lg-push-11{left:91.66666667%}.col-lg-push-10{left:83.33333333%}.col-lg-push-9{left:75%}.col-lg-push-8{left:66.66666667%}.col-lg-push-7{left:58.33333333%}.col-lg-push-6{left:50%}.col-lg-push-5{left:41.66666667%}.col-lg-push-4{left:33.33333333%}.col-lg-push-3{left:25%}.col-lg-push-2{left:16.66666667%}.col-lg-push-1{left:8.33333333%}.col-lg-push-0{left:auto}.col-lg-offset-12{margin-left:100%}.col-lg-offset-11{margin-left:91.66666667%}.col-lg-offset-10{margin-left:83.33333333%}.col-lg-offset-9{margin-left:75%}.col-lg-offset-8{margin-left:66.66666667%}.col-lg-offset-7{margin-left:58.33333333%}.col-lg-offset-6{margin-left:50%}.col-lg-offset-5{margin-left:41.66666667%}.col-lg-offset-4{margin-left:33.33333333%}.col-lg-offset-3{margin-left:25%}.col-lg-offset-2{margin-left:16.66666667%}.col-lg-offset-1{margin-left:8.33333333%}.col-lg-offset-0{margin-left:0}}
+
+
+/* ############# For Punjabi Converter ############# */
+.sellect-ln {
+	margin: 0 0 12px 0;
+	background: #5CB85C;
+	color: #ffffff;
+	padding: 7px 10px 7px 10px;
+	text-align:center;
+	text-decoration: none;
+	font-size: 16px;
+	border: 1px solid #398439;
+	cursor: pointer;
+   -webkit-border-radius:5px;  border-radius:5px;
+}
+.sellect-ln:hover {
+	background: #419141;
+	border: 1px solid #1F591F;
+}
+.radio {display:block; float:left; width: 100%; height: 5px; font-weight: normal}
+.text{
+	font-family:solaimanLipi,arial;
+	font-size:15px;
+	line-height:22px;
+	}
+#contactus input[type="text"],textarea
+{
+  color : #000;
+  border : 1px solid #aaaaaa;
+  font-size:16px;
+  background-color : #ffffff;
+}
+
+#contactus input:focus,textarea:focus
+{
+  color : #000;
+  border : 1px solid #dddddd;
+  font-size:16px;
+  background-color : #ffffff;
+}
+select {font-family: Roboto; font-size: 20px; font-weight: 100; color: #000; padding: 3px; background: #dddddd; border-bottom: 1px solid #fff}
+/* ############# For Punjabi Converter ############# */
+
+/* ############# For Tamil Converter ############# */
+.radio {display:block; float:left; width: 100%; height: 5px; font-weight: normal}
+.text{
+	font-family:solaimanLipi,arial;
+	font-size:15px;
+	line-height:22px;
+	}
+#contactus input[type="text"],textarea
+{
+  color : #000;
+  border : 1px solid #aaaaaa;
+  font-size:16px;
+  background-color : #ffffff;
+}
+
+#contactus input:focus,textarea:focus
+{
+  color : #000;
+  border : 1px solid #dddddd;
+  font-size:16px;
+  background-color : #ffffff;
+  -webkit-box-shadow:  0 0 7px #A09C9C;
+	-moz-box-shadow:  0 0 5px #A09C9C);
+	box-shadow:  0 0 5px #A09C9C;
+}
+
+#doc-text
+{
+    background-color:#FFF;
+    margin-bottom:5px;
+    box-shadow:-1px 2px 9px #CCC;
+    outline:none;
+    border:1px solid #FFF;
+    padding:3%;
+}
+#doc-textarea
+{
+    display:block;
+    padding:0 10px 0 10px;
+    width:100%;
+    border:none;
+    resize:vertical;
+    height: 500px;
+    font-size:14px;
+    line-height:34px;
+    font-family:Arial, Helvetica, sans-serif;
+    outline:none;
+    background-image:url(../files/book-rule.png);
+    background-position:0 -5px;
+    background-attachment:scroll;
+    margin:0 auto;
+}
+#tmp-text
+{
+    display: none;
+}
+#source-text, #target-text, #output
+{
+    display:block;
+    padding:1%;
+    width:100%;
+    border:1px solid #cddbe7;
+    resize:vertical;
+    min-height:200px;
+    font-size:14px;
+    line-height:20px;
+    font-family:Arial, Helvetica, sans-serif;
+    outline:none;
+    margin:0 auto;
+    margin-bottom: 10px;
+    box-shadow: 0 0 2px #d9e1e7;
+}
+#source-text:focus, #target-text:focus,#source-text:active, #target-text:active
+{
+    border-color: #388acd;
+    box-shadow: 0 0 4px #bbd2e4;
+}
+#doc-text button
+{
+    padding: 0; margin: 0;
+    font-family:Arial, helvetica, sans-serif;
+    font-size:12px;
+    height:35px;
+    line-height:35px;
+    width:100px;
+    text-shadow: -1px -1px 0 rgba(0,0,0,0.3);
+    font-weight:bold;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #0A8DFA;
+    cursor: pointer;
+    border-radius: 4px;
+    border: 1px solid #3371b3;
+}
+#doc-text button:hover
+{
+    background-color: #286eb9;
+}
+#doc-text button:active
+{
+    background-color: #4f98dc;
+    box-shadow: inset 2px 2px 4px #1a5994;
+}
+#btn-group
+{
+    position: relative;
+    margin-top: 15px;
+}
+.copi-button
+{
+    position: absolute;
+    right: 0; top: 0;
+    display: inline-block;
+    height: 35px;
+    width: 100px;
+    overflow: hidden;
+}
+#layout-switch
+{
+    position: absolute;
+    background-color: #ffffff;
+    top: -35px;
+    right: 12px;
+	border-radius: 6px;
+}
+
+#vsingle, #vdouble
+{
+    display: inline-block;
+    padding: 5px;
+    vertical-align: text-top;
+}
+#vsingle span
+{
+    display:block;
+    border: 2px solid #ffffff;
+    width: 18px;
+    height: 28px;
+}
+#vdouble span
+{
+    display:block;
+    border: 2px solid #ffffff;
+    width: 18px;
+    height: 11px;
+    margin-bottom: 2px;
+}
+#layout-switch a.active,
+#vsingle:hover, #vdouble:hover
+{
+    background-color: #317ab6;
+}
+/* ############# For Tamil Converter ############# */
+
+/* ########### Menu Start ############### */
+#cssmenu, #cssmenu ul, #cssmenu ul li, #cssmenu ul li a, #cssmenu #menu-button {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  list-style: none;
+  line-height: 1;
+  display: block;
+  position: relative;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;  
+  font-family: Arial;
+  font-size:16px;  
+}
+#cssmenu:after, #cssmenu > ul:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0; 
+}
+#cssmenu #menu-button {
+  display: none; 
+}
+#cssmenu {
+  width: auto;
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  background: '';   
+}
+#cssmenu > ul {
+  box-shadow: inset 0 -0px 0 rgba(0, 0, 0, 0.05); background: #2D2D2D; padding: 0 0 0 0;
+}
+#cssmenu.align-right > ul > li {
+  float: right;
+}
+#cssmenu > ul > li {
+  float: left;
+  display: inline-block;
+}
+#cssmenu.align-center > ul {
+  float: none;
+  text-align: center;
+}
+#cssmenu.align-center > ul > li {
+  float: none;
+}
+#cssmenu.align-center ul ul {
+  text-align: left;
+}
+#cssmenu > ul > li > a {
+  padding: 15px 10px 15px 10px;  
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: Arial;
+  font-size: 12px;
+  color: #ffffff;
+  font-weight: bold; 
+  margin: 0 0 0 0;
+  border-right: 1px solid #454545;
+  border-bottom: 1px solid #454545;
+}
+#cssmenu > ul > li:hover > a,
+#cssmenu > ul > li > a:hover,
+#cssmenu > ul > li.active > a {
+	color: #ffffff;
+	background: -webkit-linear-gradient(top, #F88C00, #640209);
+	background: -moz-linear-gradient(top, #F88C00, #640209);
+	background: -ms-linear-gradient(top, #F88C00, #640209);
+	background: -o-linear-gradient(top, #F88C00, #640209);	
+}
+#cssmenu > ul > li.has-sub > a {
+  padding-right: 45px;
+}
+#cssmenu > ul > li.has-sub > a::after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+  border: 6px solid transparent;
+  border-top-color: #d3eced;
+  right: 17px;
+  top: 0; 
+}
+#cssmenu > ul > li.has-sub.active > a::after, #cssmenu > ul > li.has-sub:hover > a {
+  border-top-color: #ffffff; 
+}
+#cssmenu ul ul {
+  z-index: 2000;
+  position: absolute;
+  left: -9999px;
+  font-size: 13px;
+  opacity: 0;
+  -webkit-transition: top 0.2s ease, opacity 0.2s ease-in;
+  -moz-transition: top 0.2s ease, opacity 0.2s ease-in;
+  -ms-transition: top 0.2s ease, opacity 0.2s ease-in;
+  -o-transition: top 0.2s ease, opacity 0.2s ease-in;
+  transition: top 0.2s ease, opacity 0.2s ease-in;  
+}
+#cssmenu.align-right ul ul {
+  text-align: right; 
+}
+#cssmenu > ul > li > ul::after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+  border: 5px solid transparent;
+  border-bottom-color: #ffffff;
+  top: -4px;
+  left: 20px;
+}
+#cssmenu.align-right > ul > li > ul::after {
+  left: auto;
+  right: 20px;  
+}
+#cssmenu ul ul ul::after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+  border: 5px solid transparent;
+  border-right-color: #ffffff;
+  top: 0;
+  left: -4px;
+}
+#cssmenu.align-right ul ul ul::after {
+  border-right-color: transparent;
+  border-left-color: #ffffff;
+  left: auto;
+  right: -4px; 
+}
+#cssmenu > ul > li > ul {
+  top: 120px; 
+}
+#cssmenu > ul > li:hover > ul {
+  top: 35px;
+  left: 0;
+  opacity: 1;
+}
+#cssmenu.align-right > ul > li:hover > ul {
+  left: auto;
+  right: 0; 
+}
+#cssmenu ul ul ul {
+  padding-top: 0;
+  padding-left: 6px;
+}
+#cssmenu.align-right ul ul ul {
+  padding-right: 6px;
+}
+#cssmenu ul ul > li:hover > ul {
+  left: 180px;
+  top: 0;
+  opacity: 1;
+}
+#cssmenu.align-right ul ul > li:hover > ul {
+  left: auto;
+  right: 100%;
+  opacity: 1; 
+}
+#cssmenu ul ul li a {
+  text-decoration: none;
+  padding: 7px 5px 5px 10px;
+  width: 240px;
+  font-size: 14px;
+  color: #ffffff;
+  background: #303E45;
+  border-bottom: 1px solid #37474F;
+  text-align:left;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1), 1px 1px 1px rgba(0, 0, 0, 0.1), -1px 1px 1px rgba(0, 0, 0, 0.1);
+}
+#cssmenu ul ul li:hover > a, #cssmenu ul ul li.active > a {
+  color: #ffffff; background: #2C393F;
+}
+#cssmenu ul ul li:first-child > a {
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+#cssmenu ul ul li:last-child > a {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+#cssmenu > ul > li > ul::after {
+  position: absolute;
+  display: block;  
+}
+#cssmenu ul ul li.has-sub > a::after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+  border: 4px solid transparent;
+  border-left-color: #777777;
+  right: 17px;
+  top: 14px;
+}
+#cssmenu.align-right ul ul li.has-sub > a::after {
+  border-left-color: transparent;
+  border-right-color: #777777;
+  right: auto;
+  left: 17px;
+}
+#cssmenu ul ul li.has-sub.active > a::after,
+#cssmenu ul ul li.has-sub:hover > a::after {
+  border-left-color: #333333;
+}
+#cssmenu.align-right ul ul li.has-sub.active > a::after,
+#cssmenu.align-right ul ul li.has-sub:hover > a::after {
+  border-right-color: #333333;
+  border-left-color: transparent; 
+}
+@media (min-width:300px) and (max-width:1009px) {
+  #cssmenu > ul > li.m_none > a {display: none;}
+  #cssmenu {
+    background: '';
+	z-index: 2000;
+  }
+  #cssmenu > ul {    
+	display: none;
+  }
+  #cssmenu > ul.open {
+    display: block;
+    border-top: 0px solid rgba(0, 0, 0, 0.1);
+  }
+  #cssmenu.align-right > ul {
+    float: none;
+  }
+  #cssmenu.align-center > ul {
+    text-align: left;
+  }
+  #cssmenu > ul > li,
+  #cssmenu.align-right > ul > li {
+    float: none;
+    display: block;
+  }
+  #cssmenu > ul > li > a {
+    text-align:left;
+	padding: 6px 6px 6px 10px;
+    border-right: 0;
+	border-bottom: 1px solid #cccccc;
+	color: #000;
+	background:#DDDDDD;
+  }
+  #cssmenu > ul > li:hover > a,
+  #cssmenu > ul > li.active > a {
+	  color:#fff;
+	  background:#CC0000;	  
+  }
+  #cssmenu #menu-button {
+    display: block;
+    text-decoration: none;
+    font-weight: bold;
+	font-size: 18px;
+    color: #000;
+    padding: 10px 4px 8px 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background: url('images/bg.png');
+    cursor: pointer;
+	text-align:left;
+	font-family:Courgette;
+  }
+  #cssmenu ul ul,
+  #cssmenu ul li:hover > ul,
+  #cssmenu > ul > li > ul,
+  #cssmenu ul ul ul,
+  #cssmenu ul ul li:hover > ul,
+  #cssmenu.align-right ul ul,
+  #cssmenu.align-right ul li:hover > ul,
+  #cssmenu.align-right > ul > li > ul,
+  #cssmenu.align-right ul ul ul,
+  #cssmenu.align-right ul ul li:hover > ul {
+    left: 0;
+    right: auto;
+    top: auto;
+    opacity: 1;
+    width: 100%;
+    padding: 0;
+    position: relative;
+    text-align: left;
+  }
+  #cssmenu ul ul li {
+    width: 100%;
+  }
+  #cssmenu ul ul li a {
+    width: 100%;
+    box-shadow: none;
+    padding-left: 12px;
+	background:#DDDDDD;
+	color: #2D0000;
+	border-bottom: 1px solid #B7B6B6;
+	padding: 5px 0 5px 10px;
+  }
+  #cssmenu ul ul ul li a {
+    padding-left: 45px;
+  }
+  #cssmenu ul ul li:first-child > a,
+  #cssmenu ul ul li:last-child > a {
+    border-radius: 0;
+  }
+  #cssmenu #menu-button::after {
+    display: block;
+    content: '';
+    position: absolute;
+    height: 3px;
+    width: 22px;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+    right: 25px;
+    top: 12px;
+  }
+  #cssmenu #menu-button::before {
+    display: block;
+    content: '';
+    position: absolute;
+    height: 3px;
+    width: 22px;
+    border-top: 2px solid #000;
+    right: 25px;
+    top: 22px;
+  }
+  #cssmenu > ul > li.has-sub > a::after,
+  #cssmenu ul ul li.has-sub > a::after {
+    display: none;
+  }
+}
+/* ########### Menu End ############### */

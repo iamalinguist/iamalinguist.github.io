@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+
+<html lang="en">
+   <head>
+       <link rel="shortcut icon" type="image/x-icon" href="https://www.fontconverter.in/files/favicon.png">
+      <link href="./writer_files/IPA_files/style.css" rel="stylesheet" type="text/css">
+      <script src="./writer_files/IPA_files/html2canvas.min.js.download"></script>
+      <script type="text/javascript" src="./writer_files/IPA_files/jsapi"></script>
+      <script async="" src="./writer_files/IPA_files/f.txt"></script>
+      <script>
+         function language(){	
+          var laguage = document.getElementById('laguage').value;
+          var url = 'language_sellect.php?ln='+laguage;
+          //alert(url);
+          ajaxRouter(url, "returnMons", true);
+          return(false);
+         }	
+         function returnMons(responseText){	
+         //alert(kafi);
+         document.getElementById('language').innerHTML = ""+ responseText +"";
+         		
+         }	
+      </script><script src="./writer_files/IPA_files/jquery.js.download"></script><script>
+         $(document).ready(function() {
+             $("body").on("click", "#save-image-btn", function(event) {
+                 event.preventDefault();
+                 var mapElement = $("#unicode_text")[0];
+         		html2canvas(mapElement, {
+         			useCORS: true,
+         			onrendered: function(canvas) {
+                          var url = canvas.toDataURL();
+                          $("<a>", {
+                            href: url,
+                            download: "1672854133.png"
+                          })
+                          .on("click", function() {$(this).remove()})
+                          .appendTo("body")[0].click()
+         			}
+         		});});
+         });
+      </script><script>	
+         ( function( $ ) {
+         $( document ).ready(function() {
+         $('#cssmenu').prepend('<div id="menu-button" style="background: #d8d8d8; color: #666">&nbsp;MAIN MENU</div>');
+         	$('#cssmenu #menu-button').on('click', function(){
+         		var menu = $(this).next('ul');
+         		if (menu.hasClass('open')) {
+         			menu.removeClass('open');
+         		}
+         		else {
+         			menu.addClass('open');
+         		}
+         	});
+         });
+         } )( jQuery );		
+      </script><script src="./writer_files/IPA_files/post.js.download"></script><script type="text/javascript" async="" src="./writer_files/IPA_files/js15_as.js.download"></script>
+	  
+	  
+	  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>My Writer</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="description" content="Online keybaord to add the diacritic signs">
+      <meta name="Keywords" content="diacritic, sign, keyboard">
+      <meta property="og:image" content="https://www.lexilogos.com/images/babel_bruegel.jpg">
+      <link rel="shortcut icon" href="https://www.lexilogos.com/favicon.ico">
+      <link rel="alternate" type="application/rss+xml" title="Lexilogos" href="https://www.lexilogos.com/rss.xml">
+      <style>
+         .bt, .bt:hover, .bt:visited {text-decoration:none; cursor:pointer; padding:0.2em 0em; width:1.7em; font-size:1.2em; color:#CC0033; font-family:Arial, sans-serif; }
+         .cadr { width:80%; color:#0000FF; font-family:Arial, sans-serif; font-size:1em; padding:0.3em;  }
+      </style>
+      <link href="./writer_files/style.css" rel="stylesheet" type="text/css">
+      <script async="" src="./writer_files/analytics.js.download"></script><script src="./writer_files/base.js.download"></script>
+      <script src="./writer_files/clipboard.js.download"></script>
+      <script src="./writer_files/savee.js.download"></script>
+   </head>
+   <body onload="conversion.saisie.focus()">
+      <div class="center">
+         <h1><b>Write in Romanaagri</b></h1>
+      </div>
+	  <hr>
+      </div>
+      <div class="esp"></div>
+      <div class="esp"></div>
+      <div class="center">
+         <br>
+         <form name="conversion">
+            <div class="delc">
+               <br>
+               <input type="button" class="eff" title="clear" onclick="reset();conversion.saisie.focus()">
+            </div>
+            <textarea name="saisie" id="bar" rows="8" onkeyup="transcrire()" class="cadr"></textarea>
+            <br>
+            <br>
+            <input type="button" class="bf" data-clipboard-action="copy" data-clipboard-target="#bar" value="copy">
+            <script>
+               var clipboard = new Clipboard('.bf');
+               clipboard.on('success', function(e) {
+               console.log(e); 
+               });
+               clipboard.on('error', function(e) {
+               console.log(e);
+               });
+            </script>
+            <input type="button" class="bf" onclick="alpha(&#39; &#39;)" value="space"><input type="button" class="bf" onclick="conversion.saisie.rows=8;conversion.saisie.focus()" value="small frame"><input type="button" class="bf" onclick="conversion.saisie.rows=40;conversion.saisie.focus()" value="large frame">
+            <div class="espc"></div>
+            <div class="as">
+               <p><input type="button" class="bt" onclick="alpha(&#39;̀&#39;)" value="̀" title="grave accent"></p>
+               <p><input type="button" class="bt" onclick="alpha(&#39;̖&#39;)" value="̖" title="grave accent below"></p>
+            </div>
+            <div class="as">
+               <p><input type="button" class="bt" onclick="alpha(&#39;́&#39;)" value="́" title="acute accent"></p>
+               <p><input type="button" class="bt" onclick="alpha(&#39;̗&#39;)" value="̗" title="acute accent below"></p>
+            </div>
+            <div class="as">
+               <p><input type="button" class="bt" onclick="alpha(&#39;̂&#39;)" value="̂" title="circumnflex accent"></p>
+               <p><input type="button" class="bt" onclick="alpha(&#39;̭&#39;)" value="̭" title="circumflex accent below"></p>
+            </div>
+            <div class="as">
+               <p><input type="button" class="bt" onclick="alpha(&#39;̃&#39;)" value="̃" title="tilde"></p>
+               <p><input type="button" class="bt" onclick="alpha(&#39;̰&#39;)" value="̰" title="tilde below"></p>
+            </div>
+            <div class="as">
+               <p><input type="button" class="bt" onclick="alpha(&#39;̄&#39;)" value="̄" title="macron"></p>
+               <p><input type="button" class="bt" onclick="alpha(&#39;̱&#39;)" value="̱" title="macron below"></p>
+            </div>
+            <div class="as">
+               <p><input type="button" class="bt" onclick="alpha(&#39;̅&#39;)" value="̅" title="overline"></p>
+               <p><input type="button" class="bt" onclick="alpha(&#39;̲&#39;)" value="̲" title="low line"></p>
+            </div>
+            <div class="as">
+               <p><input type="button" class="bt" onclick="alpha(&#39;̑&#39;)" value="̑" title="inverted breve"></p>
+               <p><input type="button" class="bt" onclick="alpha(&#39;̯&#39;)" value="̯" title="inverted breve below"></p>
+            </div>
+            <div class="as">
+               <p><input type="button" class="bt" onclick="alpha(&#39;̆&#39;)" value="̆" title="breve"></p>
+               <p><input type="button" class="bt" onclick="alpha(&#39;̮&#39;)" value="̮" title="breve below"></p>
+            </div>
+            <div class="as">
+               <p><input type="button" class="bt" onclick="alpha(&#39;̇&#39;)" value="̇" title="dot above"></p>
+               <p><input type="button" class="bt" onclick="alpha(&#39;̣&#39;)" value="̣" title="dot below"></p>
+            </div>
+            <div class="as">
+               <p><input type="button" class="bt" onclick="alpha(&#39;̈&#39;)" value="̈" title="diaeresis"></p>
+               <p><input type="button" class="bt" onclick="alpha(&#39;̤&#39;)" value="̤" title="diaeresis below"></p>
+            </div>
+            <div class="as">
+               <p><input type="button" class="bt" onclick="alpha(&#39;̉&#39;)" value="̉" title="hook above"></p>
+               <p><input type="button" class="bt" onclick="alpha(&#39;̨&#39;)" value="̨" title="ogonek"></p>
+            </div>
+            <div class="as">
+               <p><input type="button" class="bt" onclick="alpha(&#39;̊&#39;)" value="̊" title="ring above"></p>
+               <p><input type="button" class="bt" onclick="alpha(&#39;̥&#39;)" value="̥" title="ring below"></p>
+            </div>
+            <div class="as v">
+               <p><input type="button" class="bt" onclick="alpha(&#39;̏&#39;)" value="̏" title="double grave accent"></p>
+            </div>
+            <div class="as v">
+               <p><input type="button" class="bt" onclick="alpha(&#39;̋&#39;)" value="̋" title="double acute accent"></p>
+            </div>
+            <div class="as">
+               <p><input type="button" class="bt" onclick="alpha(&#39;̌&#39;)" value="̌" title="caron"></p>
+               <p><input type="button" class="bt" onclick="alpha(&#39;̬&#39;)" value="̬" title="caron below"></p>
+            </div>
+            <div class="as">
+               <p><input type="button" class="bt" onclick="alpha(&#39;̍&#39;)" value="̍" title="vertical line above"></p>
+               <p><input type="button" class="bt" onclick="alpha(&#39;̩&#39;)" value="̩" title="vertical line below"></p>
+            </div>
+            <div class="as v">
+               <p><input type="button" class="bt" onclick="alpha(&#39;̎&#39;)" value="̎" title="double vertical line above">	</p>
+            </div>
+            <div class="as v">
+               <p><input type="button" class="bt" onclick="alpha(&#39;̐&#39;)" value="̐" title="candrabindu"></p>
+            </div>
+            <div class="as">
+               <p><input type="button" class="bt" onclick="alpha(&#39;̒&#39;)" value="̒" title="turned comma above"></p>
+               <p><input type="button" class="bt" title="cédille" onclick="alpha(&#39;̧&#39;)" value="̧"></p>
+            </div>
+            <div class="as">
+               <p><input type="button" class="bt" onclick="alpha(&#39;̓&#39;)" value="̓" title="comma above"></p>
+               <p><input type="button" class="bt" onclick="alpha(&#39;̦&#39;)" value="̦" title="comma below"></p>
+            </div>
+            <div class="as v">
+               <p><input type="button" class="bt" onclick="alpha(&#39;̔&#39;)" value="̔" title="reversed comma above"></p>
+            </div>
+            <div class="as v">
+               <p><input type="button" class="bt" onclick="alpha(&#39;̕&#39;)" value="̕" title="comma above right"></p>
+            </div>
+            <div class="as">
+               <p><input type="button" class="bt" onclick="alpha(&#39;͝&#39;)" value="͝" title="double breve"></p>
+               <p><input type="button" class="bt" onclick="alpha(&#39;͜&#39;)" value="͜" title="double breve below"></p>
+            </div>
+            <div class="as v">
+               <p><input type="button" class="bt" onclick="alpha(&#39;͡&#39;)" value="͡" title="double inverted breve"></p>
+            </div>
+            <div class="as">
+               <p><input type="button" class="bt" onclick="alpha(&#39;͞&#39;)" value="͞" title="double macron"></p>
+               <p><input type="button" class="bt" onclick="alpha(&#39;͜&#39;)" value="͟" title="double macron below"></p>
+            </div>
+         </form>
+      </div>
+      <div class="espb"></div>
+      <div class="esp"></div>
+      <div class="espd"></div>
+      
+	  
+	  
+	  
+	  <!-- IPA Part---->
+	  <div class="center">
+         <h1><b>Convert Devnagri to IPA</b></h1>
+      </div>
+	  <hr>
+	  
+	  <script type="text/javascript" src="./writer_files/IPA_files/post.js.download"></script>
+         <script src="./writer_files/IPA_files/Devanagari-to-IPA.js.download"></script>	
+         <div class="" style="padding: 15px; margin: 0 0 10px 0">
+            <div style="margin: 5px">
+               <form name="Form1">
+                  <textarea class="familyL save" name="TextToConvert" id="legacy_text" style="margin : 0 2px 0 0; color: #000; padding: 5px; width: 100%; height: 50px;"></textarea>
+                  <div align="middle" style="margin: 15px 0 15px 0">
+                     <select class="sellect-ln none" id="text_or_html">
+                        <option>Plain TEXT</option>
+                     </select>
+                     <input class="sellect-ln" id="converter" onclick="Devanagari_to_IPA();" name="ea" value="Convert to IPA" type="button">				
+                     <input class="sellect-ln" onclick="ClearTop()" value="Clear top" type="button">
+                     <input class="sellect-ln" onclick="ClearBottom()" value="Clear bottom" type="button">
+                     <input class="sellect-ln" onclick="ClearBoth()" value="Clear Both" type="button">
+                  </div>
+                  <textarea id="extra_text" cols="100" rows="5" style="display:none"></textarea>
+                  <textarea class="familyR js-copytextarea save" name="ConvertedText" id="unicode_text" style="margin : 0 0 0 2px; padding: 5px; width: 100%; height: 50px"> </textarea>
+               </form>
+               <div style="text-align: center; font-size: 20px; padding: 10px; border: 0px solid #48A9D4; background: #ffffff; margin: 0 0 2px 0">
+
+               </div>
+            </div>
+         </div>
+         
+         <!-- Converter End -->
+         <div class="clear"></div>
+      </div>
+	  
+	  
+	  
+	  <!-- Kruti to Uni Part---->
+      <div class="center">
+         <h1><b>Convert Unicode to KrutiDev to Unicode</b></h1>
+      </div>
+	  <hr>
+      <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PCKRHKC"
+         height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+      <script type="application/ld+json">
+         {
+           "@context": "http://schema.org",
+           "@type": "Organization",
+           "name": "KrutiDev to Unicode Converter",
+           "url": "https://www.krutidevunicodeconverter.com/",
+           "address": "",
+           "sameAs": [
+             "https://www.facebook.com/krutidevtounicode",
+             "https://www.twitter.com/krutito_uni",
+             "https://www.youtube.com/channel/UCzy-Aw1Dbvm4cSLWQoqloBA",
+             "https://www.instagram.com/krutidevunicodeconverter/",
+             "https://www.linkedin.com/company/krutidevtounicodeconverter/"
+           ]
+         }
+      </script>
+      <div class="container">
+         <div class="row" style="display: flex; justify-content: center; align-items: center;">
+            <div class="col-md-6">
+               <h2>From Unicode Text: </h2>
+               <textarea rows="3" class="form-control" placeholder="Enter Unicode Text" id="unicodetext" name="unicodetext" onkeyup="unicodekruti()" onpaste="unicodekruti()" onchange="unicodekruti()"></textarea>
+               <!--
+			   <br>
+               <a href="javascript:unicodekruti();" class="btn btn-primary"><i class="fa fa-retweet" aria-hidden="true"></i> Convert To Krutidev</a>&nbsp;&nbsp;&nbsp;&nbsp;
+               <a href="javascript:cleartext();" class="btn btn-success"><i class="fa fa-eraser" aria-hidden="true"></i>  Clear Text</a>
+               <br>
+			   -->
+			   
+               <h2>To Krutidev (for Photoshop):</h2>
+               <textarea rows="3" class="form-control" placeholder="Converted Krutidev Text" id="krutitext" name="krutitext"></textarea>
+          
+               <script async="" src="./writer_files/krutidev_files/f.txt"></script>
+            </div>
+         </div>
+      </div>
+      <!-- ./row -->
+      <br><br>
+      <script src="./writer_files/krutidev_files/jquery.min.js.download" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+      <script src="./writer_files/krutidev_files/bootstrap.min.js.download" integrity="sha512-oBTprMeNEKCnqfuqKd6sbvFzmFQtlXS3e0C/RGFV0hD6QzhHV+ODfaQbAlmY6/q0ubbwlAM/nCJjkrgA3waLzg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+      <link rel="stylesheet" href="./writer_files/krutidev_files/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" async="" defer="">
+      <script src="./writer_files/krutidev_files/unikruti.js.download"></script>
+      <script src="./writer_files/krutidev_files/custom2.js.download"></script>
+      <div id="pt-ext-root"></div>
+      <link rel="manifest" href="https://www.krutidevunicodeconverter.com/manifest.json">
+      <script async="" src="./writer_files/krutidev_files/6hqk0q7hfk"></script><script async="" src="./krutidev_files/js"></script>
+      <!-- Schema -->
+      <script type="application/ld+json">
+         {
+           "@context": "https://schema.org/",
+           "@type": "WebSite",
+           "name": "Krutidev To Unicode Converter",
+           "url": "https://www.krutidevunicodeconverter.com/",
+           "potentialAction": {
+             "@type": "SearchAction",
+             "target": "https://www.krutidevunicodeconverter.com/search.php?q={search_term_string}",
+             "query-input": "required name=search_term_string"
+           }
+         }
+      </script>
+      <link rel="stylesheet" href="./writer_files/krutidev_files/bootstrap.min.css" async="" defer="">
+      <script>    (function(c,l,a,r,i,t,y){        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);    })(window, document, "clarity", "script", "6hqk0q7hfk");</script>
+      <link type="text/css" rel="stylesheet" href="./writer_files/krutidev_files/style.css">
+      <style>
+         .panel-body {
+         padding: 0px;
+         }
+         .list-group {
+         margin-bottom: 0px;
+         }
+      </style>
+      </div>
+	  
+	  
+	  
+	  
+	  
+      <script type="text/javascript">
+         function ClearTop(){document.getElementById('legacy_text').value = "";};
+         function ClearBottom(){document.getElementById('unicode_text').value = "";};
+         function ClearBoth(){document.getElementById('legacy_text').value = ""; document.getElementById('unicode_text').value = "";};
+         function validate()
+         {
+         	var fm=document.frm
+         	if(fm.fln.value=="") {alert("Please sellect from font !!!"); fm.fln.focus(); return false}
+         
+         	var fm=document.frm
+         	if(fm.tln.value=="") {alert("Please sellect to font !!!"); fm.tln.focus(); return false}
+         }
+         function myFunction1() {
+             etoh.unicode_text.value+='।';
+         	document.getElementById("unicode_text").focus();
+         }
+         function myFunction2() {
+             etoh.unicode_text.value+='॥';
+         	document.getElementById("unicode_text").focus();
+         }
+         function myFunction3() {
+             etoh.unicode_text.value+='॰';
+         	document.getElementById("unicode_text").focus();
+         }
+         function myFunction5() {
+             etoh.unicode_text.value+=' ॐ ';
+         	document.getElementById("unicode_text").focus();
+         }
+         
+         function saveTextAsFile()
+         {
+             var textToSave = document.getElementById("unicode_text").value;
+             var textToSaveAsBlob = new Blob([textToSave], {type:"text/plain"});
+             var textToSaveAsURL = window.URL.createObjectURL(textToSaveAsBlob);
+             //var fileNameToSaveAs = document.getElementById("inputFileNameToSaveAs").value;
+         	var fileNameToSaveAs = "HindiConverter_1672854133.txt";
+          
+             var downloadLink = document.createElement("a");
+             downloadLink.download = fileNameToSaveAs;
+             downloadLink.innerHTML = "Download File";
+             downloadLink.href = textToSaveAsURL;
+             downloadLink.onclick = destroyClickedElement;
+             downloadLink.style.display = "none";
+             document.body.appendChild(downloadLink);
+          
+             downloadLink.click();
+         }
+         
+         // for save as doc file
+         
+         function saveDocAsFile()
+         {
+             var textToSave = document.getElementById("unicode_text").value;
+             var textToSaveAsBlob = new Blob([textToSave], {type:"text/Doc"});
+             var textToSaveAsURL = window.URL.createObjectURL(textToSaveAsBlob);
+             //var fileNameToSaveAs = document.getElementById("inputFileNameToSaveAs").value;
+              var fileNameToSaveAs = "HindiConverter__1672854133.doc";
+         	 
+             var downloadLink = document.createElement("a");
+             downloadLink.download = fileNameToSaveAs;
+             downloadLink.innerHTML = "Download File";
+             downloadLink.href = textToSaveAsURL;
+             downloadLink.onclick = destroyClickedElement;
+             downloadLink.style.display = "none";
+             document.body.appendChild(downloadLink);
+          
+             downloadLink.click();
+         }
+         
+          
+         function destroyClickedElement(event)
+         {
+             document.body.removeChild(event.target);
+         }
+         
+         // for copy text 
+            var copyTextareaBtn = document.querySelector('.js-textareacopybtn');
+         
+         copyTextareaBtn.addEventListener('click', function(event) {
+           var copyTextarea = document.querySelector('.js-copytextarea');
+           copyTextarea.select();
+         
+           try {
+             var successful = document.execCommand('copy');
+             var msg = successful ? 'successful' : 'unsuccessful';
+             console.log('Copying text command was ' + msg);
+           } catch (err) {
+             console.log('Oops, unable to copy');
+           }
+         });
+          
+      </script>
+      <div class="clear" style="margin: 0 0 25px 0"></div>
+      <div style="width: 90px; height: 48px; position: fixed; bottom: 4px; right: 3px; padding: 0 0 0 10px; border-radius: 6px; z-index: 999"><a target="_blank" href="https://www.i2softbd.com/"><img src="./writer_files/IPA_files/i2soft.jpg" style="border-radius: 6px; border: 1px solid #cccccc"></a></div>
+      <style>
+         .footerT a{color: #ffffff; font-family: Roboto; font-size: 16px; font-weight: 300; line-height: 22px}
+         .footerT a:hover{color: #85f7fb}
+      </style>
+      <div style="display:none">
+         <!-- Histats.com  START  (standard)-->
+         <div id="histats_counter"></div>
+         <script type="text/javascript">var _Hasync= _Hasync|| [];
+            _Hasync.push(['Histats.start', '1,4291086,4,306,118,60,00010101']);
+            _Hasync.push(['Histats.fasi', '1']);
+            _Hasync.push(['Histats.track_hits', '']);
+            (function() {
+            var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+            hs.src = ('//s10.histats.com/js15_as.js');
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+            })();
+         </script>
+         <!-- Histats.com  END  -->
+      </div>
+      <script src="./writer_files/IPA_files/OneSignalSDK.js.download" async=""></script>
+      <script>
+         window.OneSignal = window.OneSignal || [];
+         OneSignal.push(function() {
+           OneSignal.init({
+             appId: "9905030f-64f6-480d-856b-56a5024d8cb5",
+           });
+         });
+         $(window).load(function(){
+         var supported = '',
+           unsupported = 'Oh no! Your browser does not support localStorage.';
+         if (window.localStorage) {
+           $('.save').keyup(function () {
+               localStorage.setItem(this.name, this.value);
+           }).val(function () {
+               return localStorage.getItem(this.name) || supported
+           })
+         } else {
+           $('.save').val(unsupported);
+         }
+         });//]]>  
+      </script>
+      <div id="pt-ext-root"></div>
+
+	  
+   </body>
+</html>

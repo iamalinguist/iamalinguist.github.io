@@ -1,0 +1,238 @@
+<!-- saved from url=(0058)https://www.fontconverter.in/index.php?q=Devanagari-to-IPA -->
+<html>
+   <head>
+
+      <link rel="shortcut icon" type="image/x-icon" href="https://www.fontconverter.in/files/favicon.png">
+      <link href="./Devanagari to IPA Font Converter __ Indian Font Converter_files/style.css" rel="stylesheet" type="text/css">
+      <script src="./Devanagari to IPA Font Converter __ Indian Font Converter_files/html2canvas.min.js.download"></script>
+      <script type="text/javascript" src="./Devanagari to IPA Font Converter __ Indian Font Converter_files/jsapi"></script>
+      <script async="" src="./Devanagari to IPA Font Converter __ Indian Font Converter_files/f.txt"></script>
+      <script>
+         function language(){	
+          var laguage = document.getElementById('laguage').value;
+          var url = 'language_sellect.php?ln='+laguage;
+          //alert(url);
+          ajaxRouter(url, "returnMons", true);
+          return(false);
+         }	
+         function returnMons(responseText){	
+         //alert(kafi);
+         document.getElementById('language').innerHTML = ""+ responseText +"";
+         		
+         }	
+      </script><script src="./Devanagari to IPA Font Converter __ Indian Font Converter_files/jquery.js.download"></script><script>
+         $(document).ready(function() {
+             $("body").on("click", "#save-image-btn", function(event) {
+                 event.preventDefault();
+                 var mapElement = $("#unicode_text")[0];
+         		html2canvas(mapElement, {
+         			useCORS: true,
+         			onrendered: function(canvas) {
+                          var url = canvas.toDataURL();
+                          $("<a>", {
+                            href: url,
+                            download: "1672854133.png"
+                          })
+                          .on("click", function() {$(this).remove()})
+                          .appendTo("body")[0].click()
+         			}
+         		});});
+         });
+      </script><script>	
+         ( function( $ ) {
+         $( document ).ready(function() {
+         $('#cssmenu').prepend('<div id="menu-button" style="background: #d8d8d8; color: #666">&nbsp;MAIN MENU</div>');
+         	$('#cssmenu #menu-button').on('click', function(){
+         		var menu = $(this).next('ul');
+         		if (menu.hasClass('open')) {
+         			menu.removeClass('open');
+         		}
+         		else {
+         			menu.addClass('open');
+         		}
+         	});
+         });
+         } )( jQuery );		
+      </script><script src="./Devanagari to IPA Font Converter __ Indian Font Converter_files/post.js.download"></script><script type="text/javascript" async="" src="./Devanagari to IPA Font Converter __ Indian Font Converter_files/js15_as.js.download"></script>
+   </head>
+   
+   
+   
+   <body>
+
+		 
+		 
+         <script type="text/javascript" src="./Devanagari to IPA Font Converter __ Indian Font Converter_files/post.js.download"></script>
+         <script src="./Devanagari to IPA Font Converter __ Indian Font Converter_files/Devanagari-to-IPA.js.download"></script>	
+         <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12 left" style="padding: 15px; margin: 0 0 20px 0">
+            <div style="margin: 15px">
+               <form name="Form1">
+                  <textarea class="familyL save" name="TextToConvert" id="legacy_text" style="margin : 0 2px 0 0; color: #000; padding: 5px; width: 100%; height: 250px;"></textarea>
+                  <div align="middle" style="margin: 15px 0 15px 0">
+                     <select class="sellect-ln none" id="text_or_html">
+                        <option>Plain TEXT</option>
+                        <option>HTML TEXT</option>
+                     </select>
+                     <input class="sellect-ln" id="converter" onclick="Devanagari_to_IPA();" name="ea" value="Convert" type="button">				
+                     <input class="sellect-ln" onclick="ClearTop()" value="Clear top" type="button">
+                     <input class="sellect-ln" onclick="ClearBottom()" value="Clear bottom" type="button">
+                     <input class="sellect-ln" onclick="ClearBoth()" value="Clear Both" type="button">
+                  </div>
+                  <textarea id="extra_text" cols="100" rows="5" style="display:none"></textarea>
+                  <textarea class="familyR js-copytextarea save" name="ConvertedText" id="unicode_text" style="margin : 0 0 0 2px; padding: 5px; width: 100%; height: 250px"> </textarea>
+               </form>
+               <div style="text-align: center; font-size: 20px; padding: 10px; border: 0px solid #48A9D4; background: #ffffff; margin: 0 0 2px 0">
+
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12" style="padding: 0px">
+            <div style="padding: 25px 15px 15px 0">
+               <script async="" src="./Devanagari to IPA Font Converter __ Indian Font Converter_files/f.txt"></script>
+               <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8034824471327733" data-ad-slot="1529211116" data-ad-format="auto" data-full-width-responsive="true"></ins>
+               <script>
+                  (adsbygoogle = window.adsbygoogle || []).push({});
+               </script>
+            </div>
+         </div>
+         <!-- Converter End -->
+         <div class="clear"></div>
+      </div>
+      <script type="text/javascript">
+         function ClearTop(){document.getElementById('legacy_text').value = "";};
+         function ClearBottom(){document.getElementById('unicode_text').value = "";};
+         function ClearBoth(){document.getElementById('legacy_text').value = ""; document.getElementById('unicode_text').value = "";};
+         function validate()
+         {
+         	var fm=document.frm
+         	if(fm.fln.value=="") {alert("Please sellect from font !!!"); fm.fln.focus(); return false}
+         
+         	var fm=document.frm
+         	if(fm.tln.value=="") {alert("Please sellect to font !!!"); fm.tln.focus(); return false}
+         }
+         function myFunction1() {
+             etoh.unicode_text.value+='।';
+         	document.getElementById("unicode_text").focus();
+         }
+         function myFunction2() {
+             etoh.unicode_text.value+='॥';
+         	document.getElementById("unicode_text").focus();
+         }
+         function myFunction3() {
+             etoh.unicode_text.value+='॰';
+         	document.getElementById("unicode_text").focus();
+         }
+         function myFunction5() {
+             etoh.unicode_text.value+=' ॐ ';
+         	document.getElementById("unicode_text").focus();
+         }
+         
+         function saveTextAsFile()
+         {
+             var textToSave = document.getElementById("unicode_text").value;
+             var textToSaveAsBlob = new Blob([textToSave], {type:"text/plain"});
+             var textToSaveAsURL = window.URL.createObjectURL(textToSaveAsBlob);
+             //var fileNameToSaveAs = document.getElementById("inputFileNameToSaveAs").value;
+         	var fileNameToSaveAs = "HindiConverter_1672854133.txt";
+          
+             var downloadLink = document.createElement("a");
+             downloadLink.download = fileNameToSaveAs;
+             downloadLink.innerHTML = "Download File";
+             downloadLink.href = textToSaveAsURL;
+             downloadLink.onclick = destroyClickedElement;
+             downloadLink.style.display = "none";
+             document.body.appendChild(downloadLink);
+          
+             downloadLink.click();
+         }
+         
+         // for save as doc file
+         
+         function saveDocAsFile()
+         {
+             var textToSave = document.getElementById("unicode_text").value;
+             var textToSaveAsBlob = new Blob([textToSave], {type:"text/Doc"});
+             var textToSaveAsURL = window.URL.createObjectURL(textToSaveAsBlob);
+             //var fileNameToSaveAs = document.getElementById("inputFileNameToSaveAs").value;
+              var fileNameToSaveAs = "HindiConverter__1672854133.doc";
+         	 
+             var downloadLink = document.createElement("a");
+             downloadLink.download = fileNameToSaveAs;
+             downloadLink.innerHTML = "Download File";
+             downloadLink.href = textToSaveAsURL;
+             downloadLink.onclick = destroyClickedElement;
+             downloadLink.style.display = "none";
+             document.body.appendChild(downloadLink);
+          
+             downloadLink.click();
+         }
+         
+          
+         function destroyClickedElement(event)
+         {
+             document.body.removeChild(event.target);
+         }
+         
+         // for copy text 
+            var copyTextareaBtn = document.querySelector('.js-textareacopybtn');
+         
+         copyTextareaBtn.addEventListener('click', function(event) {
+           var copyTextarea = document.querySelector('.js-copytextarea');
+           copyTextarea.select();
+         
+           try {
+             var successful = document.execCommand('copy');
+             var msg = successful ? 'successful' : 'unsuccessful';
+             console.log('Copying text command was ' + msg);
+           } catch (err) {
+             console.log('Oops, unable to copy');
+           }
+         });
+          
+      </script>
+      <div class="clear" style="margin: 0 0 25px 0"></div>
+      <div style="width: 90px; height: 48px; position: fixed; bottom: 4px; right: 3px; padding: 0 0 0 10px; border-radius: 6px; z-index: 999"><a target="_blank" href="https://www.i2softbd.com/"><img src="./Devanagari to IPA Font Converter __ Indian Font Converter_files/i2soft.jpg" style="border-radius: 6px; border: 1px solid #cccccc"></a></div>
+      <style>
+         .footerT a{color: #ffffff; font-family: Roboto; font-size: 16px; font-weight: 300; line-height: 22px}
+         .footerT a:hover{color: #85f7fb}
+      </style>
+      <div style="display:none">
+         <!-- Histats.com  START  (standard)-->
+         <div id="histats_counter"></div>
+         <script type="text/javascript">var _Hasync= _Hasync|| [];
+            _Hasync.push(['Histats.start', '1,4291086,4,306,118,60,00010101']);
+            _Hasync.push(['Histats.fasi', '1']);
+            _Hasync.push(['Histats.track_hits', '']);
+            (function() {
+            var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+            hs.src = ('//s10.histats.com/js15_as.js');
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+            })();
+         </script>
+         <!-- Histats.com  END  -->
+      </div>
+      <script src="./Devanagari to IPA Font Converter __ Indian Font Converter_files/OneSignalSDK.js.download" async=""></script>
+      <script>
+         window.OneSignal = window.OneSignal || [];
+         OneSignal.push(function() {
+           OneSignal.init({
+             appId: "9905030f-64f6-480d-856b-56a5024d8cb5",
+           });
+         });
+         $(window).load(function(){
+         var supported = '',
+           unsupported = 'Oh no! Your browser does not support localStorage.';
+         if (window.localStorage) {
+           $('.save').keyup(function () {
+               localStorage.setItem(this.name, this.value);
+           }).val(function () {
+               return localStorage.getItem(this.name) || supported
+           })
+         } else {
+           $('.save').val(unsupported);
+         }
+         });//]]>  
+      </script>
+      <div id="pt-ext-root"></div>
+   </body>
+</html>

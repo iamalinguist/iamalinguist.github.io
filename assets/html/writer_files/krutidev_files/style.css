@@ -1,0 +1,69 @@
+.navbar-default .navbar-nav>li>a {
+    color: #2b1919;
+}
+.navbar-default .navbar-brand {
+    color: #2b1919;
+}
+.btn-primary {
+    color: #2b1919;
+}
+.btn-danger {
+    color: #2b1919;
+}
+.btn-success {
+    color: #2b1919;
+}
+.btn-info {
+    color: #2b1919;
+	background-color: #ab3173;
+    border-color: #ab3173;
+}
+ /* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 60px; /* Margin bottom by footer height */
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px; /* Set the fixed height of the footer here */
+  background-color: #d34615;
+  color:#000000;
+}
+
+
+/* Custom page CSS
+ * Not required for template or sticky footer method.
+ * -------------------------------------------------- */
+
+body > .container {
+  padding: 0px 15px 0;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+.panel-body {
+        padding: 0px;
+    }
+    .list-group {
+        margin-bottom: 0px;
+    }
+    h1 {
+        margin-top:0px;
+        margin-bottom:0px;
+        font-size:24px;
+    }
