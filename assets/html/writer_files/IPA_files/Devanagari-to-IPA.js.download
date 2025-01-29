@@ -1,0 +1,162 @@
+function Devanagari_to_IPA()
+
+{
+
+var array_one = new Array(  
+
+'क' 	,  'kə' , 
+'ख' 	,  'kʰə' , 
+'ग' 	,  'gə' , 
+'घ' 	,  'gʰə' , 
+'ङ' 	,  'ŋə' , 
+'च' 	,  'cə' , 
+'छ' 	,  'cʰə' , 
+'ज' 	,  'ɟə' , 
+'झ' 	,  'ɟʰə' , 
+'ञ' 	,  'ɲə' , 
+'ट' 	,  'ʈə' , 
+'ठ' 	,  'ʈʰə' , 
+'ड' 	,  'ɖə' , 
+'ढ' 	,  'ɖʰə' , 
+'ण' 	,  'ɳə' , 
+'त' 	,  't̪ə' , 
+'थ' 	,  't̪ʰə' , 
+'द' 	,  'd̪ə' , 
+'ध' 	,  'd̪ʰə' , 
+'न' 	,  'nə' , 
+'प' 	,  'pə' , 
+'फ' 	,  'pʰə' , 
+'ब' 	,  'bə' , 
+'भ' 	,  'bʰə' , 
+'म' 	,  'mə' , 
+'य' 	,  'jə' , 
+'र' 	,  'rə' , 
+'ल' 	,  'lə' , 
+'व' 	,  'və' , 
+'श' 	,  'ɕə' , 
+'ष' 	,  'ʂə' , 
+'स' 	,  'sə' , 
+'ह' 	,  'ɦə' , 
+'क्ष' 	,  'kʃə' , 
+'त्र' 	,  't̪ɾə' , 
+'ज्ञ' 	,  'gjə' , 
+'श्र' 	,  'ɕcə' , 
+'क़' 	,  'qə' , 
+'ख़' 	,  'xə' , 
+'ग़' 	,  'ɣə' , 
+'ज़' 	,  'zə' , 
+'फ़' 	,  'fə' , 
+'ड़' 	,  'ɽə' , 
+'ड़'	,  'ɽə' , 
+'ढ़' 	,  'ɽʱə' , 
+'ढ़'	,  'ɽʱə' ,
+
+'ə्'           ,  ''  ,     // blank
+
+"əा",     'ɑː' ,     
+'əि' ,     'i' , 
+"əी",     'iː' ,  
+'əु' ,      'u' ,
+"əू" ,     'uː' ,
+'əृ' ,      'ɹ̩' ,        
+"əे",      'eː' , 
+"əै",      'aːi' ,
+"əो",     'oː' , 
+"əौ",     'aːu' ,
+'əं' ,      'ⁿ' ,
+'əँ' ,      'ⁿ' ,
+'ं' ,        'ⁿ' ,
+'ँ' ,        'ⁿ' ,
+'əः' ,      'h' , 
+                                     
+
+'अ' 	,  'ə' , 
+'आ' 	,  'ɑː' , 
+'इ' 	,  'i' , 
+'ई' 	,  'iː' , 
+'उ' 	,  'u' , 
+'ऊ' 	,  'uː' , 
+'ए' 	,  'eː' , 
+'ऐ' 	,  'aːi' , 
+'ओ' 	,  'oː' , 
+'औ' 	,  'aːu' , 
+	
+'ऋ' 	,  'ɹ̩' , 
+'ॠ' 	,  'ɹ̩ː' , 
+'ऌ' 	,  'l̩' , 
+'ॡ' 	,  'l̩ː' , 
+	
+'अं' 	,  'ⁿ' , 
+'अः' 	,  'h' 
+
+)
+
+
+var array_one_length = array_one.length ;
+
+document.getElementById("unicode_text").value = "Conversion in progress.."  ;  
+
+      var modified_substring = document.getElementById("legacy_text").value  ;
+
+
+//*************************************************************
+//  Break the long text into small bunches of max. max_text_size  characters each.
+//*************************************************************
+    var text_size = document.getElementById("legacy_text").value.length ;
+
+    var processed_text = '' ;  //blank
+
+    var sthiti1 = 0 ;  var sthiti2 = 0 ;  var chale_chalo = 1 ;
+ 
+    var max_text_size = 6000;
+
+    while ( chale_chalo == 1 ) 
+    {
+     sthiti1 = sthiti2 ;
+
+     if ( sthiti2 < ( text_size - max_text_size ) )  
+     { 
+      sthiti2 +=  max_text_size ;
+      while (document.getElementById("legacy_text").value.charAt ( sthiti2 ) != ' ') {sthiti2--;}
+     } 
+     else  { sthiti2 = text_size  ;  chale_chalo = 0 }
+
+      modified_substring = document.getElementById("legacy_text").value.substring ( sthiti1, sthiti2 )  ;
+
+      Replace_Symbols( ) ;
+
+      var processed_text = processed_text + modified_substring ;
+
+//  Breaking part code over
+
+      document.getElementById("unicode_text").value = processed_text  ;
+
+    }
+   
+
+ //--------------------------------------------------
+
+ function Replace_Symbols( )
+    {
+
+     if ( modified_substring != "" )  // if string to be converted is non-blank then no need of any processing.
+        {
+         for(input_symbol_idx = 0;   input_symbol_idx < array_one_length-1 ;    input_symbol_idx = input_symbol_idx + 2 )
+
+            {
+             indx = 0  ;  // index of the symbol being searched for replacement
+             
+             while (indx != -1 ) //whie-00
+                {
+                 modified_substring = modified_substring.replace( array_one[ input_symbol_idx ] , array_one[input_symbol_idx + 1] )
+                 indx = modified_substring.indexOf( array_one[input_symbol_idx] )
+
+                } // end of while-00 loop
+            } // end of for loop
+
+
+    } //end of IF  statement  meant to  supress processing of  blank  string.
+
+    } // end of the function  Replace_Symbols
+
+ } // end of Devanagari_to_IPA function
