@@ -2,7 +2,7 @@
 layout: page
 title: word sense in sanskrit
 description: a shloka dictionary based on a corpus of Sanskrit texts
-img: assets/img/3.jpg
+img: assets/img/projects/pro2 banner.jpg
 importance: 2
 category: work
 giscus_comments: true

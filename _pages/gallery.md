@@ -53,35 +53,35 @@ Feel free to share your comments or send me a copy of 'our picture' if you'd lik
 ## [Miscellaneous]()
 <!-- Group 1 -->
 <div class="spotlight-group">
-    <a class="spotlight" href="/assets/img/miscellaneous/1.jpg">
-        <img src="/assets/img/iitbhu/miscellaneous/small/1.jpg" />
+    <a class="spotlight" href="/assets/img/miscellaneous/1.JPG">
+        <img src="/assets/img/miscellaneous/small/1.JPG" />
     </a>
-    <a class="spotlight" href="/assets/img/miscellaneous/2.jpg">
-        <img src="/assets/img/iitbhu/miscellaneous/small/2.jpg" />
+    <a class="spotlight" href="/assets/img/miscellaneous/2.JPG">
+        <img src="/assets/img/miscellaneous/small/2.JPG" />
     </a>
-    <a class="spotlight" href="/assets/img/miscellaneous/3.jpg">
-        <img src="/assets/img/iitbhu/miscellaneous/small/3.jpg" />
+    <a class="spotlight" href="/assets/img/miscellaneous/3.JPG">
+        <img src="/assets/img/miscellaneous/small/3.JPG" />
     </a>
-    <a class="spotlight" href="/assets/img/miscellaneous/4.jpg">
-        <img src="/assets/img/iitbhu/miscellaneous/small/4.jpg" />
+    <a class="spotlight" href="/assets/img/miscellaneous/4.JPG">
+        <img src="/assets/img/miscellaneous/small/4.JPG" />
     </a>
-    <a class="spotlight" href="/assets/img/miscellaneous/5.jpg">
-        <img src="/assets/img/iitbhu/miscellaneous/small/5.jpg" />
+    <a class="spotlight" href="/assets/img/miscellaneous/5.JPG">
+        <img src="/assets/img/miscellaneous/small/5.JPG" />
     </a>
 </div>
 <!-- Group 2 -->
 <div class="spotlight-group">
-    <a class="spotlight" href="/assets/img/miscellaneous/6.jpg">
-        <img src="/assets/img/iitbhu/miscellaneous/small/6.jpg" />
+    <a class="spotlight" href="/assets/img/miscellaneous/6.JPG">
+        <img src="/assets/img/miscellaneous/small/6.JPG" />
     </a>
-    <a class="spotlight" href="/assets/img/miscellaneous/7.jpg">
-        <img src="/assets/img/iitbhu/miscellaneous/small/7.jpg" />
+    <a class="spotlight" href="/assets/img/miscellaneous/7.JPG">
+        <img src="/assets/img/miscellaneous/small/7.JPG" />
     </a>
-    <a class="spotlight" href="/assets/img/miscellaneous/8.jpg">
-        <img src="/assets/img/iitbhu/miscellaneous/small/8.jpg" />
+    <a class="spotlight" href="/assets/img/miscellaneous/8.JPG">
+        <img src="/assets/img/miscellaneous/small/8.JPG" />
     </a>
-    <a class="spotlight" href="/assets/img/miscellaneous/9.jpg">
-        <img src="/assets/img/iitbhu/miscellaneous/small/9.jpg" />
+    <a class="spotlight" href="/assets/img/miscellaneous/9.JPG">
+        <img src="/assets/img/miscellaneous/small/1.JPG" />
     </a>
 </div>
 

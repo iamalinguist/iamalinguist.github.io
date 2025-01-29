@@ -2,7 +2,7 @@
 layout: page
 title: begin syntax in Hindi
 description: academic monograph
-img: assets/img/projects/pro1.banner.jpg
+img: assets/img/projects/pro1 banner.png
 importance: 1
 category: work
 related_publications: true

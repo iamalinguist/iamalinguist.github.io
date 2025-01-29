@@ -2,7 +2,7 @@
 layout: page
 title: fragments app for Hindi
 description: a demonstration of 'how Hindi grammar rules work?'
-img: assets/img/7.jpg
+img: assets/img/projects/pro3 banner.jpg
 importance: 3
 category: work
 ---
