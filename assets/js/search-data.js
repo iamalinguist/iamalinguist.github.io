@@ -428,12 +428,12 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-word-sense-in-sanskrit",
           title: 'word sense in sanskrit',
-          description: "a project with a background image and giscus comments",
+          description: "a shloka dictionary based on a corpus of Sanskrit texts",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-hindi-fragments-app",
-          title: 'Hindi Fragments App',
-          description: "a volunteering project to produce effective content on verbs, conversation, script etc.",
+            },},{id: "projects-fragments-app-for-hindi",
+          title: 'fragments app for Hindi',
+          description: "a demonstration of &#39;how Hindi grammar rules work?&#39;",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-language-resources-for-non-native-hindi-speakers",
