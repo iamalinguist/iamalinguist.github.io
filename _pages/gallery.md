@@ -67,9 +67,6 @@ Feel free to share your comments or send me a copy of 'our picture' if you'd lik
     <a class="spotlight" href="/assets/img/miscellaneous/5.jpg">
         <img src="/assets/img/miscellaneous/small/5.jpg" />
     </a>
-    <a class="spotlight" href="/assets/img/miscellaneous/6.jpg">
-        <img src="/assets/img/miscellaneous/small/6.jpg" />
-    </a>
     <a class="spotlight" href="/assets/img/miscellaneous/7.jpg">
         <img src="/assets/img/miscellaneous/small/7.jpg" />
     </a>
@@ -78,7 +75,10 @@ Feel free to share your comments or send me a copy of 'our picture' if you'd lik
     </a>
     <a class="spotlight" href="/assets/img/miscellaneous/9.jpg">
         <img src="/assets/img/miscellaneous/small/9.jpg" />
+    </a>    <a class="spotlight" href="/assets/img/miscellaneous/6.jpg">
+        <img src="/assets/img/miscellaneous/small/6.jpg" />
     </a>
+
 </div>
 
 ---

@@ -233,7 +233,7 @@
       "highlights": ["The Verb Phrase", "The Verb Group", "The Noun Phrase", "Subordination and Coordination"],
       "startDate": "2025-07-01",
       "endDate": "2026-07-01",
-      "url": ""
+      "url": "https://iamalinguist.github.io/projects/1_project/"
     },
     {
       "name": "Word Sense in Sanskrit",
@@ -241,7 +241,7 @@
       "highlights": ["Word Sense", "Sanskrit Language", "Machine Learning", "Web Programming"],
       "startDate": "2023-01-01",
       "endDate": "2024-01-01",
-      "url": ""
+      "url": "projects/2_project/"
     },
     {
       "name": "Fragments App for Hindi",
@@ -249,7 +249,7 @@
       "highlights": ["Phrase Structure Rules", "Hindi Language", "NP and VP Categories", "Regular Sentences"],
       "startDate": "2024-01-01",
       "endDate": "2022-01-01",
-      "url": ""
+      "url": "/projects/3_project/"
     }
   ]
 }
