@@ -421,9 +421,9 @@ ninja.data = [{
             },},{id: "news-participation-in-an-event-at-ignou-delhi-sparkles-smile",
           title: 'Participation in an event at IGNOU, Delhi. :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-begin-syntax-in-hindi",
-          title: 'begin syntax in Hindi',
-          description: "academic monograph",
+          section: "News",},{id: "projects-an-introduction-to-hindi-syntax",
+          title: 'an introduction to Hindi Syntax',
+          description: "an academic monograph (VP, NP, Verb Group, Subordination and Coordination)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-word-sense-in-sanskrit",
