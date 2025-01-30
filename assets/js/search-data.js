@@ -58,7 +58,40 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-a-post-with-image-galleries",
+            },{id: "post-a-beginner-39-s-note-for-39-linguistics-39-domain",
+      
+        title: "a beginner&#39;s note for &#39;Linguistics&#39; domain",
+      
+      description: "A Comprehensive Guide to Key Areas and Lingiustic Glossary",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/a-beginners-note-lingnlp/";
+        
+      },
+    },{id: "post-a-beginner-39-s-note-for-39-linguistics-maths-39-domain",
+      
+        title: "a beginner&#39;s note for &#39;Linguistics + Maths&#39; domain",
+      
+      description: "A Comprehensive Guide to Key Areas and Core Topics for Advancing NLP Knowledge",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/a-beginners-note-lingmaths/";
+        
+      },
+    },{id: "post-a-beginner-39-s-note-for-39-linguistics-39-domain",
+      
+        title: "a beginner&#39;s note for &#39;Linguistics&#39; domain",
+      
+      description: "A Comprehensive Guide to Key Areas and Lingiustic Glossary",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/a-beginners-note-ling/";
+        
+      },
+    },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
