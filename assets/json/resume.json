@@ -138,15 +138,13 @@
       "name": "Semantic Model for Fragment of Hindi (Part 2)",
       "publisher": "Rupkatha Journal on Interdisciplinary Studies in Humanities",
       "releaseDate": "2024-02-25",
-      "url": "https://doi.org/10.21659/rupkatha.v16n2.02",
-      "summary": "This paper proposes a formal model for semantic analysis of a fragment of the Hindi language. This paper uses referential noun phrases, transitive and intransitive verb phrases and logical constants to compute the meaning of its sentences generated from the Hindi part-of-speech-tagged corpus features."
+      "url": "https://doi.org/10.21659/rupkatha.v16n2.02"
     },
     {
       "name": "Semantic Model for Fragment of Hindi (Part 1)",
       "publisher": "Rupkatha Journal on Interdisciplinary Studies in Humanities",
       "releaseDate": "2024-02-12",
-      "url": "https://doi.org/10.21659/rupkatha.v16n1.03g",
-      "summary": "This paper proposes a formal model for syntactic analysis for the Hindi language using context-free grammar. In this paper, we developed a syntactic parser that generates syntactic trees for Hindi sentences based on rules of propositional logic, and gender conventions."
+      "url": "https://doi.org/10.21659/rupkatha.v16n1.03g"
     }
   ],
   "skills": [

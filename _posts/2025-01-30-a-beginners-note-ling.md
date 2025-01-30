@@ -1,10 +1,10 @@
 ---
 layout: post
-title: a begginer's note for 'Linguistics + Maths' domain 
-date: 2025-01-30 15:09:00
-description: A Comprehensive Guide to Key Areas and Core Topics for Advancing NLP Knowledge 
-tags: formatting code
-categories: sample-posts
+title: a begginer's note for 'Linguistics' domain 
+date: 2025-01-31 15:09:00
+description: A Comprehensive Guide to Key Areas and Lingiustic Glossary
+tags: grammar syntax semantics
+categories: theoretical-linguistics
 featured: true
 ---
 

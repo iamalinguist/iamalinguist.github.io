@@ -3,8 +3,8 @@ layout: post
 title: a begginer's note for 'Linguistics' domain 
 date: 2025-01-31 15:09:00
 description: A Comprehensive Guide to Key Areas and Lingiustic Glossary
-tags: formatting code
-categories: sample-posts
+tags: grammar nlp
+categories: computational-linguistics
 featured: true
 ---
 
