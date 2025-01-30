@@ -1,0 +1,59 @@
+---
+layout: page
+permalink: /documents/
+title: talks
+description: contains my personal documents. 
+nav: false
+nav_order:
+---
+
+## Degree Certificates
+---
+* 10th [[Download]()]
+* 12th [[Download]()]
+* BTech [[Download]()]
+* MTech [[Download]()]
+* MA - Hindi [[Download]()]
+* MA - Philosophy [[Download]()]
+* Diploma [[Download]()]
+* PhD [[Download]()]
+---
+
+
+## Work Experience Certificates
+---
+* at IIT Bombay [[Download]()]
+* at OUP, Delhi (Editorial) [[Download]()]
+---
+
+
+## Other Academic Certificates
+---
+* Film Pedagogy Workshop [[Download]()]
+* Sanskrit Workshop at BHU [[Download]()]
+* IIt Jodhpur Winning Certificate - Hindi [[Download]()]
+* BPlans Certificate- Certi1 [[Download]()] | Certi2 [[Download]()] | Certi3 [[Download]()]
+* Swacchata Innovation Award [[Download]()]
+* Hindi Dictionary Innovation Award [[Download]()]
+---
+
+
+
+## Identity Documents
+---
+* Adhar [[Download]()]
+* PAN [[Download]()]
+* Driving License [[Download]()]
+* PAN Card [[Download]()]
+* Cancelled Cheque (SBI) [[Download]()]
+* Cancelled Cheque (Canara) [[Download]()]
+* Passport- Front [[Download]()] and Passport- Back [[Download]()]
+* Satna Address [[Download]()]
+---
+
+
+
+## Maybe Required Documents
+---
+* I dont know Now [[Download]()]
+---
