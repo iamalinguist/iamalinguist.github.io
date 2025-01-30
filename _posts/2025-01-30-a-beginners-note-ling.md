@@ -1,7 +1,7 @@
 ---
 layout: post
-title: a begginer's note for 'Linguistics' domain 
-date: 2025-01-31 15:09:00
+title: a beginner's note for 'Linguistics' domain 
+date: 2025-01-30 09:00:00
 description: A Comprehensive Guide to Key Areas and Lingiustic Glossary
 tags: grammar syntax semantics
 categories: theoretical-linguistics
