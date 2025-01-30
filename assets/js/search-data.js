@@ -58,7 +58,14 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-a-note-for-39-linguistics-nlp-39-domain",
+            },{id: "nav-talks",
+          title: "talks",
+          description: "invited talks/lectures/posters/presentations/workshops/symposiums/seminars/competitions/magazines etc.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/talks/";
+          },
+        },{id: "post-a-note-for-39-linguistics-nlp-39-domain",
       
         title: "a note for &#39;Linguistics + NLP&#39; domain",
       
