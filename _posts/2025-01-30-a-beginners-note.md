@@ -1,11 +1,11 @@
 ---
 layout: post
-title: a post with code
-date: 2015-07-15 15:09:00
-description: an example of a blog post with some code
+title: a begginer's note for 'Linguistics + NLP' domain 
+date: 2025-01-30 15:09:00
+description: A Comprehensive Guide to Key Areas and Core Topics for Advancing NLP Knowledge 
 tags: formatting code
 categories: sample-posts
-featured: false
+featured: true
 ---
 
 This theme implements a built-in Jekyll feature, the use of Rouge, for syntax highlighting.
