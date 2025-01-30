@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a beginner's note for 'Linguistics + Maths' domain 
+title: a note for 'Linguistics + NLP' domain 
 date: 2025-01-30 09:00:00
-description: A Comprehensive Guide to Key Areas and Core Topics for Advancing NLP Knowledge 
+description: A Comprehensive Guide to Key Areas and Lingiustic Glossary
 tags: grammar nlp
 categories: computational-linguistics
 featured: true
