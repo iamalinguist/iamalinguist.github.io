@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-talks",
+          title: "talks",
+          description: "invited talks/lectures/posters/presentations/workshops/symposiums/seminars/competitions/magazines etc.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/talks/";
+          },
         },{id: "dropdown-teaching",
               title: "teaching",
               description: "",
@@ -58,14 +65,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "nav-talks",
-          title: "talks",
-          description: "invited talks/lectures/posters/presentations/workshops/symposiums/seminars/competitions/magazines etc.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/talks/";
-          },
-        },{id: "post-a-note-for-39-linguistics-nlp-39-domain",
+            },{id: "post-a-note-for-39-linguistics-nlp-39-domain",
       
         title: "a note for &#39;Linguistics + NLP&#39; domain",
       
