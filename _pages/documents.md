@@ -19,14 +19,18 @@ nav_order:
 * PhD [[Download]()]
 * Diploma [[Download]()]
 
-
+<br>
+<br>
+<br>
 
 #### Work Experience Certificates
 ---
 * Project Research Associate at IIT Bombay [[Download]()]
 * Editor at OUP, Delhi (Editorial) [[Download]()]
 
-
+<br>
+<br>
+<br>
 
 #### Other Academic Certificates
 ---
@@ -37,7 +41,9 @@ nav_order:
 * Swacchata Innovation Award [[Download]()]
 * Hindi Dictionary Innovation Award [[Download]()]
 
-
+<br>
+<br>
+<br>
 
 #### Identity Documents
 ---
@@ -50,9 +56,9 @@ nav_order:
 * Satna Address [[Download]()]
 * Passport- Front [[Download]()] and Passport- Back [[Download]()]
 
-
-
-
+<br>
+<br>
+<br>
 
 #### Maybe Required Documents
 ---

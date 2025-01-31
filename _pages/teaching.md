@@ -21,6 +21,7 @@ nav_order:
 * Typology and Universals – Linguistic diversity, word order typologies, and cross-linguistic generalizations.
 
 ---
+<br>
 
 ## LING301
 `Introduction to Syntax` [[Download Slides]()] - 
@@ -35,6 +36,7 @@ nav_order:
 * Cross-Linguistic Variation – Language-specific syntactic structures, and comparison across languages.
 
 ---
+<br>
 
 ## LING401
 `Foundations of Syntactic Theory` [[Download Slides]()] - 
@@ -49,6 +51,7 @@ nav_order:
 * Formalism and Tree Structures – Detailed analyses of syntax diagrams using modern theory.
 
 ---
+<br>
 
 ## LING501
 `Theories of Grammar` [[Download Slides]()] - 
@@ -63,6 +66,7 @@ nav_order:
 * Comparative Overview of Theories – Strengths and weaknesses of different models.
 
 ---
+<br>
 
 ## LING502
 `Analysis and Argumentation` [[Download Slides]()] - 
