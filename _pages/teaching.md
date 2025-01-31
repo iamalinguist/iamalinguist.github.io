@@ -7,6 +7,7 @@ nav: false
 nav_order:
 ---
 
+
 ## LING201
 `Introduction to Linguistics` [[Download Slides]()] -  
 * Language and Communication – Definition of language, features of human communication, and comparison with animal communication.
