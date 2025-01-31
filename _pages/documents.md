@@ -47,8 +47,10 @@ nav_order:
 * PAN Card [[Download]()]
 * Cancelled Cheque (SBI) [[Download]()]
 * Cancelled Cheque (Canara) [[Download]()]
-* Passport- Front [[Download]()] and Passport- Back [[Download]()]
 * Satna Address [[Download]()]
+* Passport- Front [[Download]()] and Passport- Back [[Download]()]
+
+
 
 
 
