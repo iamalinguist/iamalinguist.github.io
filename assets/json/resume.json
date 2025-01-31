@@ -31,6 +31,15 @@
       "endDate": "ongoing",
       "summary": "I teach in the Humanities Department, collaborating with linguistics professors and regularly delivering lectures on campus.",
       "highlights": ["Syntax", "Semantics", "Others- English, Thought Lab, Public Speaking"]
+    },
+    {
+      "name": "Indian Institute of Technology Bombay",
+      "position": "Project Research Engineer",
+      "url": "",
+      "startDate": "2015-07-01",
+      "endDate": "2018-04-30",
+      "summary": "I worked at the Computer Science and Industrial Design Centre of the Institute, where I was responsible for research, education, and the conceptualization and development of online tools and products.",
+      "highlights": ["Research", "Web Development", "Others- Language, Literature, Field Work"]
     }
   ],
   "volunteer": [
