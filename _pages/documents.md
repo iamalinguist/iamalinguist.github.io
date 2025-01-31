@@ -9,7 +9,7 @@ nav_order:
 
 
 #### Degree Certificates
-
+---
 * 10th [[Download]()]
 * 12th [[Download]()]
 * BTech [[Download]()]
@@ -18,30 +18,29 @@ nav_order:
 * MA - Philosophy [[Download]()]
 * PhD [[Download]()]
 * Diploma [[Download]()]
----
+
 
 
 #### Work Experience Certificates
-
+---
 * Project Research Associate at IIT Bombay [[Download]()]
 * Editor at OUP, Delhi (Editorial) [[Download]()]
----
+
 
 
 #### Other Academic Certificates
-
+---
 * Film Pedagogy Workshop [[Download]()]
 * Sanskrit Workshop at BHU [[Download]()]
 * IIT Jodhpur Winning Certificate - Hindi [[Download]()]
 * Businesss Plan Certificates- Certi1 [[Download]()] | Certi2 [[Download]()] | Certi3 [[Download]()]
 * Swacchata Innovation Award [[Download]()]
 * Hindi Dictionary Innovation Award [[Download]()]
----
 
 
 
 #### Identity Documents
-
+---
 * Adhar [[Download]()]
 * PAN [[Download]()]
 * Driving License [[Download]()]
@@ -55,6 +54,5 @@ nav_order:
 
 
 ### Maybe Required Documents
-
-* I dont know Now [[Download]()]
 ---
+* I dont know Now [[Download]()]
