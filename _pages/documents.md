@@ -1,34 +1,35 @@
 ---
 layout: page
 permalink: /documents/
-title: talks
-description: contains my personal documents. 
+title: documents 
+description: contains my personal certificates. 
 nav: false
 nav_order:
 ---
 
-### Degree Certificates
----
+
+#### Degree Certificates
+
 * 10th [[Download]()]
 * 12th [[Download]()]
 * BTech [[Download]()]
 * MTech [[Download]()]
 * MA - Hindi [[Download]()]
 * MA - Philosophy [[Download]()]
-* Diploma [[Download]()]
 * PhD [[Download]()]
+* Diploma [[Download]()]
 ---
 
 
-### Work Experience Certificates
----
+#### Work Experience Certificates
+
 * Project Research Associate at IIT Bombay [[Download]()]
 * Editor at OUP, Delhi (Editorial) [[Download]()]
 ---
 
 
-### Other Academic Certificates
----
+#### Other Academic Certificates
+
 * Film Pedagogy Workshop [[Download]()]
 * Sanskrit Workshop at BHU [[Download]()]
 * IIT Jodhpur Winning Certificate - Hindi [[Download]()]
@@ -39,8 +40,8 @@ nav_order:
 
 
 
-### Identity Documents
----
+#### Identity Documents
+
 * Adhar [[Download]()]
 * PAN [[Download]()]
 * Driving License [[Download]()]
@@ -53,7 +54,7 @@ nav_order:
 
 
 
-## Maybe Required Documents
----
+### Maybe Required Documents
+
 * I dont know Now [[Download]()]
 ---
