@@ -65,14 +65,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "nav-teachings",
-          title: "teachings",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teachings/";
-          },
-        },{id: "post-a-note-for-39-linguistics-nlp-39-domain",
+            },{id: "post-a-note-for-39-linguistics-nlp-39-domain",
       
         title: "a note for &#39;Linguistics + NLP&#39; domain",
       
