@@ -7,7 +7,7 @@ nav: false
 nav_order:
 ---
 
-## Degree Certificates
+### Degree Certificates
 ---
 * 10th [[Download]()]
 * 12th [[Download]()]
@@ -20,26 +20,26 @@ nav_order:
 ---
 
 
-## Work Experience Certificates
+### Work Experience Certificates
 ---
-* at IIT Bombay [[Download]()]
-* at OUP, Delhi (Editorial) [[Download]()]
+* Project Research Associate at IIT Bombay [[Download]()]
+* Editor at OUP, Delhi (Editorial) [[Download]()]
 ---
 
 
-## Other Academic Certificates
+### Other Academic Certificates
 ---
 * Film Pedagogy Workshop [[Download]()]
 * Sanskrit Workshop at BHU [[Download]()]
-* IIt Jodhpur Winning Certificate - Hindi [[Download]()]
-* BPlans Certificate- Certi1 [[Download]()] | Certi2 [[Download]()] | Certi3 [[Download]()]
+* IIT Jodhpur Winning Certificate - Hindi [[Download]()]
+* Businesss Plan Certificates- Certi1 [[Download]()] | Certi2 [[Download]()] | Certi3 [[Download]()]
 * Swacchata Innovation Award [[Download]()]
 * Hindi Dictionary Innovation Award [[Download]()]
 ---
 
 
 
-## Identity Documents
+### Identity Documents
 ---
 * Adhar [[Download]()]
 * PAN [[Download]()]

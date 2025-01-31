@@ -4,7 +4,7 @@ permalink: /talks/
 title: talks
 description: invited talks/lectures/posters/presentations/workshops/symposiums/seminars/competitions/magazines etc. 
 nav: true
-nav_order: 5
+nav_order: 4
 images:
   spotlight: true
 ---
