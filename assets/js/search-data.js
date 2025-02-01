@@ -477,7 +477,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-language-resources-for-non-native-hindi-speakers",
-          title: 'language resources for non-native Hindi speakers',
+          title: 'language resources for non-native hindi speakers',
           description: "a volunteering project to produce effective content on verbs, conversation, script etc.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
