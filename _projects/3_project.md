@@ -1,6 +1,6 @@
 ---
 layout: page
-title: fragments app for Hindi
+title: fragments app for hindi
 description: a demonstration of 'how Hindi grammar rules work?'
 img: assets/img/projects/pro3 banner.jpg
 importance: 3

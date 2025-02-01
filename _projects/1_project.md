@@ -1,6 +1,6 @@
 ---
 layout: page
-title: an introduction to Hindi Syntax
+title: an introduction to hindi syntax
 description: an academic monograph (VP, NP, Verb Group, Subordination and Coordination)
 img: assets/img/projects/pro1 banner.jpg
 importance: 1
