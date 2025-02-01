@@ -462,17 +462,17 @@ ninja.data = [{
           title: 'Participation in an event at IGNOU, Delhi. :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-an-introduction-to-hindi-syntax",
-          title: 'an introduction to Hindi Syntax',
+          title: 'an introduction to hindi syntax',
           description: "an academic monograph (VP, NP, Verb Group, Subordination and Coordination)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-word-sense-in-sanskrit",
-          title: 'word sense in Sanskrit',
+          title: 'word sense in sanskrit',
           description: "a shloka dictionary based on a corpus of Sanskrit texts",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-fragments-app-for-hindi",
-          title: 'fragments app for Hindi',
+          title: 'fragments app for hindi',
           description: "a demonstration of &#39;how Hindi grammar rules work?&#39;",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
