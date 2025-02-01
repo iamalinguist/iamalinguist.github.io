@@ -1,6 +1,6 @@
 ---
 layout: page
-title: language resources for non-native Hindi speakers
+title: language resources for non-native hindi speakers
 description: a volunteering project to produce effective content on verbs, conversation, script etc.
 img:
 redirect: https://heyhindi.web.app/
