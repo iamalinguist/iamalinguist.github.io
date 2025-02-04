@@ -72,7 +72,6 @@ nav_order:
 
 #### Maybe Required Documents
 ---
-* Antic Conference Reviewer [[Download](https://drive.google.com/file/d/1Gk_krAgYkbgeUtCrM2Lk_s869n8NstlC/view?usp=sharing)] - [[Download]()] - [[Download]()] - [[Download]()] - [[Download]()] - [[Download]()]  
+* Antic Conference Reviewer [[Download](https://drive.google.com/file/d/1Gk_krAgYkbgeUtCrM2Lk_s869n8NstlC/view?usp=sharing)]
 
-
-(all documentes are hosted in hindibyvivek@gmail.com | if you need any more documents, access them here, by adding your hint- https://drive.google.com/drive/folders/1lNn9UJqLBfIjEnIv0khs2HxOr_VXs3G?usp=sharing)
+(all documentes are hosted in hindibyvivek@gmail.com, if you need any more documents, access them here, by adding your hint- https://drive.google.com/drive/folders/1lNn9UJqLBfIjEnIv0khs2HxOr_VXs3G?usp=sharing)
