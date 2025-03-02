@@ -1,4 +1,4 @@
-I learnt and taught English grammar for different uses, including my thesis. My notes focus on `key engish grammar topics` that enhance clarity and confidence. Here are 10-15 important topics to master:
+About English: I learnt and taught basic English grammar. My notes focus on `key engish grammar topics` that enhance clarity and confidence. Here are 15 important topics to master:
 
 1. Sentence Structure  
 2. Tenses  
