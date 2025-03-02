@@ -22,7 +22,9 @@ I am a doctoral researcher in the Department of Humanities at the Indian Institu
 
 My research primarily addresses syntax and semantics, with my Ph.D. thesis titled `A Modern Grammar of Hindi: A Formal Approach` The core objective of my doctoral work is to develop a formal grammar for Hindi, integrating propositional logic, predicate logic, type theory, and temporal logic. To support this endeavor, I have designed and implemented a Python-based parsing tool for the grammar. I am currently preparing for my final viva, which is scheduled to take place before July 2025.  
 
-My research adopts an interdisciplinary approach, intersecting discrete mathematics (including logic, sets, matrices, relations, and tree structures), languages (contemporary, regional etc.), and computational linguistics. My primary focus is on leveraging formal frameworks to develop theoretical grammars for various languages. My secondary focus is on testing the ability of these grammars to enable machines to process and understand natural languages. In line with these interests, I enjoy collaborating with technologists, linguists, and innovators on projects exploring NLP applications, including large language models. I’m currently working on experimenting different grammars for Hindi Language. 
+My research adopts an interdisciplinary approach, intersecting discrete mathematics (including logic, sets, matrices, relations, and tree structures), languages (contemporary, regional etc.), and computational linguistics. My primary focus is on leveraging formal frameworks to develop theoretical grammars for various languages. My secondary focus is on testing the ability of these grammars to enable machines to process and understand natural languages. In line with these interests, I enjoy collaborating with technologists, linguists, and innovators on projects exploring NLP applications, including large language models. 
+
+I’m currently working on experimenting different grammars for Hindi Language. 
 
 
 `Research Interests (Major to Minor)`

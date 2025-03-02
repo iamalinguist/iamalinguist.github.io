@@ -1,4 +1,4 @@
-1–5 are `foundational` topics, while 6-10 are `intermediate` concepts. For in-depth exploration, the `advanced` topics are 11-15.
+About Syntax: 1–5 are `foundational` topics, while 6-10 are `intermediate` concepts. For in-depth exploration, the `advanced` topics are 11-15.
 
 1. Basic Sentence Structure (Subject, Predicate, Object)  
 2. Word Categories (Parts of Speech)  
