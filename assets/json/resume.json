@@ -100,45 +100,45 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "LaTeX Hands-on Workshop",
+      "date": "2025-01-19",
+      "issuer": "IIT (BHU), Varanasi",
+      "url": "https://drive.google.com/file/d/1eIOKEQkUNJW5AmdIcqvwM66b1KpzQarE/view",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Syntax",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "AI for Data Representation, Analytics, and Visualization",
+      "date": "2025-03-03",
+      "issuer": "GIAN Lab (AI, NLP, ML), IIT Patna",
+      "url": "https://www.iitp.ac.in/~ai-nlp-ml/",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Semantics",
-      "date": "2018-01-01",
+      "name": "Introduction to Logic",
+      "date": "2025-04-01",
       "issuer": "Stanford University",
-      "url": "https://example.com",
+      "url": "",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Linguistics",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Machine Learning Specialization",
+      "date": "",
+      "issuer": "DeepLearning.AI",
+      "url": "",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Logic and Computation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Natural Language Processing in Python",
+      "date": "",
+      "issuer": "Lazy Programmer Team (in Udemy)",
+      "url": "",
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": "Deep Learning using Python",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "100 Days of Code: The Complete Python Pro Bootcamp",
+      "date": "2022-01-01",
+      "issuer": "Dr. Angela Yu (in Udemy)",
+      "url": "",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
