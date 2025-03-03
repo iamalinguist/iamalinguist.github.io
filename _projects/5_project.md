@@ -4,7 +4,7 @@ title: a devnāgarī and romanāgrī writer
 description: a simple app for transliterating Hindi script into Roman and IPA notation.
 img:
 redirect: /assets/html/writer.html
-importance: 3
+importance: 5
 category: fun
 ---
 

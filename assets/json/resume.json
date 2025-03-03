@@ -101,14 +101,14 @@
   "certificates": [
     {
       "name": "LaTeX Hands-on Workshop",
-      "date": "2025-01-19",
+      "date": "",
       "issuer": "IIT (BHU), Varanasi",
-      "url": "https://drive.google.com/file/d/1eIOKEQkUNJW5AmdIcqvwM66b1KpzQarE/view",
+      "url": "",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "AI for Data Representation, Analytics, and Visualization",
-      "date": "2025-03-03",
+      "name": "AI for Data",
+      "date": "",
       "issuer": "GIAN Lab (AI, NLP, ML), IIT Patna",
       "url": "https://www.iitp.ac.in/~ai-nlp-ml/",
       "icon": "fa-solid fa-tag"
@@ -123,21 +123,21 @@
     {
       "name": "Machine Learning Specialization",
       "date": "",
-      "issuer": "DeepLearning.AI",
+      "issuer": "DeepLearning.AI (Coursera)",
       "url": "",
       "icon": "fa-solid fa-hashtag"
     },
     {
       "name": "Natural Language Processing in Python",
       "date": "",
-      "issuer": "Lazy Programmer Team (in Udemy)",
+      "issuer": "Lazy Programmer Team (Udemy)",
       "url": "",
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": "100 Days of Code: The Complete Python Pro Bootcamp",
-      "date": "2022-01-01",
-      "issuer": "Dr. Angela Yu (in Udemy)",
+      "name": "100 Days of Code",
+      "date": "",
+      "issuer": "Dr. Angela Yu (Udemy)",
       "url": "",
       "icon": "fa-solid fa-clipboard-check"
     }
@@ -165,10 +165,7 @@
         "Syntax",
         "Semantics",
         "Argument structure",
-        "Computer-processable Grammar Fragments",
-        "Mathematical Linguistics",
-        "Hindi Grammar",
-        "Network and Collaboration"
+        "Computer-processable Grammar Fragments"
       ]
     },
     {
@@ -179,7 +176,6 @@
         "Network and Collaboration",
         "Public Speaking",
         "Spiritual Thinker",
-        "Emotional Intelligence",
         "Leadership"
       ]
     }
@@ -214,7 +210,6 @@
         "formal semantics",
         "phrase structure rules", 
         "constituent structure",
-        "casemarkers",
         "argument hierarchies",
         "SVO order",
         "Asian languages (Hindi, Awadhi and Sanskrit in particular)"

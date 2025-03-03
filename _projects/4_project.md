@@ -1,10 +1,10 @@
 ---
 layout: page
 title: language resources for non-native hindi speakers
-description: a volunteering project to produce effective content on verbs, conversation, script etc.
+description: a volunteering project to teach and produce effective content on grammar of Hindi etc.
 img:
 redirect: https://heyhindi.web.app/
-importance: 3
+importance: 4
 category: fun
 ---
 
