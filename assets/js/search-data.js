@@ -471,7 +471,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-language-resources-for-non-native-hindi-speakers",
           title: 'language resources for non-native hindi speakers',
-          description: "a volunteering project to produce effective content on verbs, conversation, script etc.",
+          description: "a volunteering project to teach and produce effective content on grammar of Hindi etc.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-a-devnāgarī-and-romanāgrī-writer",
