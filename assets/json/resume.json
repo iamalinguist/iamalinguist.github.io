@@ -115,7 +115,7 @@
     },
     {
       "name": "Introduction to Logic",
-      "date": "2025-04-01",
+      "date": "",
       "issuer": "Stanford University",
       "url": "",
       "icon": "fa-solid fa-envelope"
@@ -211,7 +211,6 @@
         "phrase structure rules", 
         "constituent structure",
         "argument hierarchies",
-        "SVO order",
         "Asian languages (Hindi, Awadhi and Sanskrit in particular)"
       ]
     }
