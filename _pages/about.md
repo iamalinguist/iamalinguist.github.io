@@ -31,8 +31,6 @@ I’m currently working on experimenting different grammars for Hindi Language.
 
 1. Grammatical Theories
 2. Argument Structure
-3. Syntax and Semantics of Verbs (complex and conjugated verbs)
+3. Syntax and Semantics of Verbs (simple, complex and conjunct verbs)
 4. NLP Techniques (e.g., machine learning and deep learning models)
 5. Mathematical Concepts (e.g., discrete mathematics, linear algebra, etc.)
-
-
