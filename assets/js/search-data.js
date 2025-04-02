@@ -479,6 +479,11 @@ ninja.data = [{
           description: "a simple app for transliterating Hindi script into Roman and IPA notation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-a-latex-course-in-hindi-for-researchers",
+          title: 'a LaTeX course in Hindi for researchers',
+          description: "a volunteering project to teach LaTeX in Hindi etc.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
             },},{
         id: 'social-email',
         title: 'email',
