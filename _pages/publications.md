@@ -15,15 +15,20 @@ nav_order: 2
 
 <div class="publications">
 
-`Working Papers`
-1. Formal Models in Language Learning: A Semantic Approach for Vocabulary.[Submitted]
-2. Integrating Semantic Approaches in Pedagogy: A Pathway to Effective Language Learning.[Submitted]
-3. Neural-Symbolic Parsing with RNN for Ambiguous Sentence Resolution. [Under Preparation]
-4. A Predicate Logic Framework for Hindi Sentence Analysis [Under Preparation]
-5. Type-Theoretic Semantics for Hindi: A Formal Approach to Argument Structure [Under Preparation]
-6. Syntactic Complexity vs. Semantic Economy: A Study of Hindi Light Verb Structures
-7. Formalizing Temporal Expressions in Hindi: A Logic-Based Approach [Under Preparation]
-
 {% bibliography %}
 
 </div>
+
+
+<!-- Working Papers Section -->
+## Working Papers
+
+<ul>
+  <li>Formal Models in Language Learning: A Semantic Approach for Vocabulary. <i>[Submitted]</i></li>
+  <li>Integrating Semantic Approaches in Pedagogy: A Pathway to Effective Language Learning. <i>[Submitted]</i></li>
+  <li>Neural-Symbolic Parsing with RNN for Ambiguous Sentence Resolution. <i>[Under Preparation]</i></li>
+  <li>A Predicate Logic Framework for Hindi Sentence Analysis. <i>[Under Preparation]</i></li>
+  <li>Type-Theoretic Semantics for Hindi: A Formal Approach to Argument Structure. <i>[Under Preparation]</i></li>
+  <li>Syntactic Complexity vs. Semantic Economy: A Study of Hindi Light Verb Structures.</li>
+  <li>Formalizing Temporal Expressions in Hindi: A Logic-Based Approach. <i>[Under Preparation]</i></li>
+</ul>
