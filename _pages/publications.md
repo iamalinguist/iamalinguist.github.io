@@ -7,8 +7,16 @@ nav: true
 nav_order: 2
 ---
 
+
+<!-- _pages/publications.md -->
+
+<!-- Bibsearch Feature -->
+
+{% include bib_search.liquid %}
+
+
 <!-- Working Papers Section -->
-### Working Papers
+#### Working Papers
 
 <ul>
   <li>Formal Models in Language Learning: A Semantic Approach for Vocabulary. <i>[Submitted]</i></li>
@@ -19,13 +27,6 @@ nav_order: 2
   <li>Syntactic Complexity vs. Semantic Economy: A Study of Hindi Light Verb Structures.</li>
   <li>Formalizing Temporal Expressions in Hindi: A Logic-Based Approach. <i>[Under Preparation]</i></li>
 </ul>
-
-
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
 
 <div class="publications">
 
