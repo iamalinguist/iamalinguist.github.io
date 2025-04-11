@@ -3,7 +3,7 @@ layout: page
 title: a LaTeX course in Hindi for researchers
 description: a volunteering project to teach LaTeX in Hindi etc.
 img: https://assets.wikiwand.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/langsimple-1100px-LaTeX_logo.svg.png&w=828&q=70
-redirect: https://iamalinguist.github.io/learnlatex.github.io/hi/
+redirect: https://www.learnlatex.org/hi/
 importance: 6
 category: fun
 ---
