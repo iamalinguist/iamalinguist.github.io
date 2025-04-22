@@ -126,20 +126,6 @@
       "issuer": "DeepLearning.AI (Coursera)",
       "url": "",
       "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Natural Language Processing in Python",
-      "date": "",
-      "issuer": "Lazy Programmer Team (Udemy)",
-      "url": "",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "100 Days of Code",
-      "date": "",
-      "issuer": "Dr. Angela Yu (Udemy)",
-      "url": "",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
