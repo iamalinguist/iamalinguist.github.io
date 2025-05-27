@@ -1,4 +1,4 @@
-About Semantics: 1–4 are `foundational` topics, while 5-10 are `intermediate` concepts.
+About Semantics: 1–4 are `foundational` topics, while 5-10 are `intermediate` concepts. [[Download Notes]()]
 
 1. Introduction to Semantics  
 2. Lexical Semantics  
