@@ -267,6 +267,17 @@ ninja.data = [{
           window.location.href = "/blog/2023/custom-blockquotes/";
         
       },
+    },{id: "post-why-does-my-first-linguistic-paper-fail-terribly-in-advancing-scientific-inquiry",
+      
+        title: "Why does my first linguistic paper fail terribly in advancing scientific inquiry?",
+      
+      description: "it remains more of a sketch than a robust theory",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/review-of-syntactic-paper/";
+        
+      },
     },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
       
         title: "a post with table of contents on a sidebar",
