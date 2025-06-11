@@ -1,21 +1,25 @@
 ---
 layout: post
 title: Why does my first linguistic paper fail terribly in advancing scientific inquiry?
-date: 2023-04-25 10:14:00-0400
+date: 2025-06-07 10:14:00-0400
 description: it remains more of a sketch than a robust theory
 tags: grammar syntax formalrules
 categories: review-posts
 giscus_comments: false
-related_posts: true
+related_posts: false
 toc:
   sidebar: left
 ---
 
 I am going to refer to myself as the 'author' and talk about my [first paper](https://iamalinguist.github.io/assets/pdf/article1.pdf). This work takes a promising first step- but it remains more of a sketch than a robust theory. It lacks formal definitions, data evaluation, and engagement with canonical grammar theory is not at all present.
 
-## Critical review of the paper
 
-### Unclear Theoretical Foundation
+
+## A. Critical review of the paper
+---
+
+
+#### 1. Unclear Theoretical Foundation
 The author draws on two major theoretical foundations- **CFG (Chomsky)** and **Montague-style semantics**—under a unified framework, suggesting a possible 'hybrid' approach. However, upon examining [Part 2](https://iamalinguist.github.io/assets/pdf/article2.pdf) of this article (and thus the complete paper), it becomes evident that it does not fully align with either theoretical model. 
 
 * CFG is *Type 2 grammar* in the *Chomsky hierarchy*, and is more powerful than regular grammars (Type 3), but less powerful than context-sensitive grammars (Type 1) - author has not strictly followed the formalism and notations of Type 2 grammar.
@@ -26,7 +30,7 @@ Consequently, the use of **Chomsky grammar** or **Montague grammar** here appear
 
 
 
-### Overly Simplistic CFG Approach
+#### 2. Overly Simplistic CFG Approach
 * It's well-known that while CFGs can model many structures in natural languages, they struggle with free word order and agreement phenomena without extensions like TGG, LFG, GPSG, or MG (i.e. Minimalist Program). 
 
 * Author restricted grammar to rigid rule‑based word order thus can not deal with free word-order (scrambling).
@@ -34,7 +38,8 @@ Consequently, the use of **Chomsky grammar** or **Montague grammar** here appear
 If the author intended to use a context-free grammar (CFG), there is no formal definition of V, Σ, P and S. The author directly introduced the rules without specifying which symbols are terminals or non-terminals, nor did they indicate the starting point.
 
 
-### Incomplete Formalization of Gender, Agreement, and Negation
+
+#### 3. Incomplete Formalization of Gender, Agreement, and Negation
 
 * Gender misalignment detection is hard-coded rather than derived from structural or feature-based mechanisms, again weakening the design.
 
@@ -43,7 +48,8 @@ If the author intended to use a context-free grammar (CFG), there is no formal d
 * Negation is handled via ad hoc phrase transformation (X not Y → neg X Y), but you never define a transformation grammar nor provide a normalization algorithm. This blurs the line between syntax and morphology and butchers modularity.
 
 
-### Evaluation: Corpus and Results Are Underwhelming
+
+#### 4. Evaluation: Corpus and Results Are Underwhelming
 
 A proper evaluation section is missing. Author mentioned a “corpus … created” for experiments, but never provided corpus size, sources, annotation procedure, or detailed evaluation metrics (precision, recall, parsing accuracy). This lack of transparency prevents any assessment of performance or reproducibility.
 
@@ -51,7 +57,8 @@ A proper evaluation section is missing. Author mentioned a “corpus … created
 * Examples 1–8 are illustrative, but no statistical data (e.g., coverage, failure rate, speed) is reported.
 
 
-### Grammar Theoretic Gaps and Missing Dependencies
+
+#### 5. Grammar Theoretic Gaps and Missing Dependencies
 Key Hindi-specific linguistic phenomena aren't addressed: postposition attachment, case marking beyond nominative/accusative, compound verbs, participles, adjectives/adverbs, adjective agreement, or complex embedding.
 
 * Author ignored discontinuous dependencies, long-distance movement, and scrambler constructs, which are central to modeling free word‑order languages.
@@ -60,7 +67,8 @@ Key Hindi-specific linguistic phenomena aren't addressed: postposition attachmen
 
 
 
-## More on Lack of Grammatical Theory/Framework
+## B. More on Lack of Grammatical Theory/Framework
+---
 
 This paper does not clearly follow any of the major grammatical theories— at least not in a consistent or principled way. By grammatical theories, I mean theories like-  Traditional Grammar (TG), Structural Grammar (SG),  Transformational-Generative Grammar (TGG), Functional Grammar (FG), Dependency Grammar (DG), Lexical Functional Grammar (LFG), Head-Driven Phrase Structure Grammar (HPSG), Construction Grammar (CG) etc.
 
@@ -79,18 +87,19 @@ This paper does not clearly follow any of the major grammatical theories— at l
 
 This paper attempted a simplified CFG-based analysis, loosely reminiscent of early Context-Free Phrase Structure Grammars as used in early NLP (e.g., before the statistical revolution). If author wants to improve this work and make it publishable in a stronger venue, choosing one coherent grammatical theory and sticking with it will greatly help. Some suggestions:
 
-** Option 1: Dependency Grammar (UD-style)**
+
+###### **Option 1: Dependency Grammar (UD-style)**
 If author is interested in parser implementation and wish to move toward NLP applications, DG is a better choice. It's flexible and aligns with existing corpora (e.g., Hindi UD Treebank). Use head-modifier dependencies, model relations like `nsubj`, `obj`, `aux`, and handle scrambling via `edge labels`.
 
 
-**Option 2: Lexical Functional Grammar (LFG)**
+###### **Option 2: Lexical Functional Grammar (LFG)**
 * Good for free word order languages like Hindi. Allows c-structure and f-structure separation. You can model:
 * Surface word order using phrase structure rules (c-structure)
 * Underlying relations (subject, object) using functional structures (f-structure)
 * Gender, number, case as feature attributes
 
 
-** Option 3: HPSG (Head-Driven Phrase Structure Grammar)**
+###### **Option 3: HPSG (Head-Driven Phrase Structure Grammar)**
 * Also great for morphologically rich languages. Rich in typed feature structures and lexical specifications. Excellent for:
 * Agreement modeling
 * Subject/object marking
@@ -100,13 +109,14 @@ If author is interested in parser implementation and wish to move toward NLP app
 
 
 ## Summary and Improvement
+---
 Author's work attempts a formal grammar, but doesn’t belong to any established theory. It lacks transformations, dependencies, rich feature structures, or semantics. To revise it meaningfully, choosing a coherent framework—e.g., LFG, HPSG, or DG—and rebuild the grammar accordingly.
 
 
 Some major points of improvement for this paper are:
 * Clarify theoretical frame: state whether this is CFG-based Montague semantics or a hybrid, and defend that choice.
 
-* Fully enumerate CFG rules in a consistent notation, including feature-attributes (gender, number, case, etc.).
+* Fully enumerate CFG rules (means listing all grammar rules in an ordered, numbered way, following formal notation.) in a consistent notation, including feature-attributes (gender, number, case, etc.).
 
 * Expand grammar coverage to include optional orderings and scrambling.
 
