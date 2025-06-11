@@ -1,100 +1,149 @@
 ---
 layout: post
 title: a note for 'Linguistics + NLP' domain 
-date: 2025-01-30 09:00:00
-description: A Comprehensive Guide to Key Areas and Lingiustic Glossary
+date: 2025-06-07 09:00:00
+description: A Comprehensive Guide to Key Research Areas 
 tags: grammar nlp
-categories: computational-linguistics
+categories: comp-ling
 featured: false
 ---
 
-This theme implements a built-in Jekyll feature, the use of Rouge, for syntax highlighting.
-It supports more than 100 languages.
-This example is in C++.
-All you have to do is wrap your code in markdown code tags:
+While Linguistics seeks to provide the formal, theoretical, and descriptive tools to understand the human language, NLP seeks to computationally model it (for tasks like translation, parsing, sentiment analysis etc.).
 
-````markdown
-```c++
-code code code
+Combining Linguistics with NLP leads to *robust*, *explainable*, and *cross-linguistically aware* models. While modern deep learning approaches in NLP sometimes bypass linguistic theory, the long-term sustainability of language technologies—especially for low-resource, morphologically rich, or culturally embedded languages—depends on linguistic insight.
+
 ```
-````
-
-```c++
-int main(int argc, char const \*argv[])
-{
-    string myString;
-
-    cout << "input a string: ";
-    getline(cin, myString);
-    int length = myString.length();
-
-    char charArray = new char * [length];
-
-    charArray = myString;
-    for(int i = 0; i < length; ++i){
-        cout << charArray[i] << " ";
-    }
-
-    return 0;
-}
+This interdisciplinary journey is not just about building tools that "work", but about building systems that "understand".
 ```
 
-For displaying code in a list item, you have to be aware of the indentation, as stated in this [Stackoverflow answer](https://stackoverflow.com/questions/34987908/embed-a-code-block-in-a-list-item-with-proper-indentation-in-kramdown/38090598#38090598). You must indent your code by **(3 \* bullet_indent_level)** spaces. This is because kramdown (the markdown engine used by Jekyll) indentation for the code block in lists is determined by the column number of the first non-space character after the list item marker. For example:
+## Recommended Reading & Resources
 
-````markdown
-1. We can put fenced code blocks inside nested bullets, too.
+- Jurafsky & Martin - *Speech and Language Processing*
+- Manning et al. - *Foundations of Statistical NLP*
+- Chomsky - *Syntactic Structures*
+- Jacob Eisenstein - *Natural Language Processing*
+- [ACL Anthology](https://aclanthology.org) - The Association for Computational Linguistics
 
-   1. Like this:
 
-      ```c
-      printf("Hello, World!");
-      ```
 
-   2. The key is to indent your fenced block in the same line as the first character of the line.
-````
+The intersection of linguistics and NLP becomes particularly rich—and challenging—at the advanced and research level. Here, formal systems from theoretical linguistics meet computational implementations in logic, machine learning, and language modeling. This section outlines key domains/research areas where such integration is both necessary and promising.
 
-Which displays:
+---
 
-1. We can put fenced code blocks inside nested bullets, too.
+## 1. Formal Grammars in NLP
 
-   1. Like this:
+At the research frontier, the syntactic structure of natural languages is no longer modeled with simple rules. Instead, linguistically informed **formal grammars** such as **Tree-Adjoining Grammar (TAG)**, **Combinatory Categorial Grammar (CCG)**, **Head-driven Phrase Structure Grammar (HPSG)**, and **Minimalist Grammars (MG)** are employed. These frameworks capture long-distance dependencies, coordination, and movement more naturally than context-free grammars (CFGs).
 
-      ```c
-      printf("Hello, World!");
-      ```
+- **TAG**: Suitable for modeling recursion and crossing dependencies.
+- **CCG**: Offers transparent syntax-semantics mapping using combinatory logic.
+- **MG**: Grounded in Chomsky’s Minimalist Program, it provides a generative account of human language using operations like *Merge* and *Move*.
 
-   2. The key is to indent your fenced block in the same line as the first character of the line.
+Such grammars are essential for **syntactic parsing**, especially in linguistically complex or low-resource languages.
 
-By default, it does not display line numbers. If you want to display line numbers for every code block, you can set `kramdown.syntax_highlighter_opts.block.line_numbers` to true in your `_config.yml` file.
+---
 
-If you want to display line numbers for a specific code block, all you have to do is wrap your code in a liquid tag:
+## 2. Compositional Semantics and Lambda Calculus
 
-{% raw %}
-{% highlight c++ linenos %} <br/> code code code <br/> {% endhighlight %}
-{% endraw %}
+Advanced semantic modeling involves **compositionality**—the principle that the meaning of a sentence is determined by its parts and their arrangement. This is formalized using **typed lambda calculus**, where:
+- Noun phrases, verbs, and modifiers are treated as functions or arguments.
+- Complex meanings are built incrementally by function application.
 
-The keyword `linenos` triggers display of line numbers.
-Produces something like this:
+**Montague Semantics**, **Intensional Logic**, and **Dynamic Semantics** offer logical systems to model ambiguity, quantification, modality, and discourse reference.
 
-{% highlight c++ linenos %}
+Lambda calculus bridges the gap between syntax and logic:
+```plaintext
+"Every student sleeps."
+∀x[STUDENT(x) → SLEEP(x)]
+```
 
-int main(int argc, char const \*argv[])
-{
-string myString;
+---
 
-    cout << "input a string: ";
-    getline(cin, myString);
-    int length = myString.length();
+## 3. Abstract Meaning Representation (AMR) and Graph-Based Semantics
+Abstract Meaning Representation (AMR) provides a graph-based formalism for sentence meaning. Unlike trees, AMR allows multiple incoming edges, reentrancy, and coreference, making it suitable for representing:
 
-    char charArray = new char * [length];
+* Entity relationships
 
-    charArray = myString;
-    for(int i = 0; i < length; ++i){
-        cout << charArray[i] << " ";
-    }
+* Events and arguments
 
-    return 0;
+* Quantification and scope
 
-}
+* Modality and negation
 
-{% endhighlight %}
+AMR parsing is a key task in computational semantics and is central to information extraction, question answering, and knowledge integration.
+
+---
+
+## 4. Discourse and Dynamic Semantics
+Modeling extended texts and dialogues requires going beyond sentence-level semantics:
+
+* Discourse Representation Theory (DRT) introduces intermediate structures for handling anaphora and temporal relations.
+
+* Dynamic Semantics (like Dynamic Predicate Logic) allows meanings to update the "context state" as discourse progresses.
+
+Such frameworks are crucial for coreference resolution, dialogue systems, and narrative understanding.
+
+---
+
+## 5. Multilinguality and Linguistic Typology in NLP
+Research-level NLP increasingly addresses the typological diversity of the world’s languages:
+
+* Projects like Universal Dependencies (UD) aim to standardize syntactic annotation across languages.
+
+* Typological Databases (e.g., WALS, PHOIBLE) inform models about word order, morphology, and phonological inventories.
+
+In multilingual NLP:
+
+* Transfer learning and multilingual LLMs (e.g., mBERT, XLM-R) help generalize across languages.
+
+* Linguistically grounded models improve performance on low-resource languages by leveraging structural knowledge.
+
+---
+
+## 6. Inference, World Knowledge, and Commonsense Reasoning
+Semantic processing increasingly intersects with AI reasoning:
+
+* Natural Logic and Entailment Systems evaluate valid inferences from language.
+
+* Commonsense reasoning tasks (e.g., Winograd Schema, Story Cloze Test) demand real-world background knowledge.
+
+* Ontologies like FrameNet, VerbNet, and ConceptNet provide structured knowledge for event semantics and role labeling.
+
+Inference also plays a role in explainable NLP, where output must be justified with traceable logical steps.
+
+
+---
+
+## 7. Language and Logic: Type Theory and Higher-Order Semantics
+Advanced systems often adopt Type Theory and Categorial Grammar to provide highly compositional, structured accounts of meaning. Examples include:
+
+* Montague Grammar: Uses types e (entity) and t (truth value) to build meaning recursively.
+
+* Lambda-Mu Calculus, Linear Logic, and Dependent Type Theory: Extend the expressive power of semantic models.
+
+These systems are foundational for:
+
+1. Theorem provers
+
+2. Program synthesis from language
+
+3. Formal verification of linguistic hypotheses
+
+---
+
+## 8. Cognitive and Neurolinguistic Alignment
+A cutting-edge question: **Do LLMs "understand" language like humans?**
+
+Current research in cognitive linguistics and neuro-symbolic NLP examines:
+
+* Brain activity alignment with model predictions (via fMRI/EEG).
+
+* Psycholinguistic probing of model behavior (e.g., garden-path sentences, filler-gap dependencies).
+
+* Limitations in compositionality, reasoning, and pragmatic understanding.
+
+This domain attempts to evaluate how "human-like" NLP systems truly are and to inspire cognitively plausible models.
+
+```
+Conclusion: Building Intelligent Language Systems
+Advanced topics in Linguistics + NLP reflect the need for interpretable, generalizable, and cognitively aligned models. As language models grow in size and capability, their alignment with formal linguistic theories becomes both a challenge and an opportunity.
+```
