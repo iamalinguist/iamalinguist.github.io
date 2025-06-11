@@ -73,22 +73,11 @@ ninja.data = [{
       
         title: "a note for &#39;Linguistics + NLP&#39; domain",
       
-      description: "A Comprehensive Guide to Key Areas and Lingiustic Glossary",
+      description: "A Comprehensive Guide to Key Research Areas",
       section: "Posts",
       handler: () => {
         
           window.location.href = "/blog/2025/a-note-lingnlp/";
-        
-      },
-    },{id: "post-a-note-for-39-linguistics-maths-39-domain",
-      
-        title: "a note for &#39;Linguistics + Maths&#39; domain",
-      
-      description: "A Comprehensive Guide to Key Areas and Core Topics for Advancing NLP Knowledge",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/a-note-lingmaths/";
         
       },
     },{id: "post-a-note-for-39-linguistics-39-domain",
