@@ -5,7 +5,7 @@ date: 2025-01-30 09:00:00
 description: A Comprehensive Guide to Key Areas and Core Topics for Advancing NLP Knowledge 
 tags: grammar maths
 categories: mathematical-linguistics
-featured: true
+featured: false
 ---
 
 This theme implements a built-in Jekyll feature, the use of Rouge, for syntax highlighting.

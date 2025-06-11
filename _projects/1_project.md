@@ -24,7 +24,6 @@ The book starts by explaining how general patterns help us understand sentence s
     Ideation and Coverpage of Monograph 'An introduction to Hindi Syntax' (Publisher Details will be revealed later).
 </div>
 
-This project focuses on syntactic study of Hindi, drawing on diverse grammatical theories to formalize its structural patterns. The research aims to contribute to linguistic theory while addressing practical challenges in computational syntax. 
 
 As a secondary objective, the project will develop a basic parsing tool for Hindi, serving as a proof of concept for applying theoretical findings. It will be free for users to use and develop parsing for Hindi or Hindi-like SOV languages. 
 
