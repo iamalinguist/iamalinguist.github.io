@@ -77,18 +77,18 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/a-note-lingnlp/";
+          window.location.href = "/blog/2025/a-note-ling-nlp/";
         
       },
-    },{id: "post-a-note-for-39-linguistics-39-domain",
+    },{id: "post-a-note-for-39-linguistics-syntax-39-domain",
       
-        title: "a note for &#39;Linguistics&#39; domain",
+        title: "a note for &#39;Linguistics + Syntax&#39; domain",
       
-      description: "A Comprehensive Guide to Key Areas and Lingiustic Glossary",
+      description: "A Comprehensive Guide to Key Areas of Syntactic Research",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/a-note-ling/";
+          window.location.href = "/blog/2025/a-note-ling-syn/";
         
       },
     },{id: "post-a-post-with-image-galleries",
