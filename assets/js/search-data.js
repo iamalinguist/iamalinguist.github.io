@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/talks/";
           },
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
         },{id: "dropdown-teaching",
               title: "teaching",
               description: "",
@@ -69,6 +76,28 @@ ninja.data = [{
           window.location.href = "/blog/2025/review-of-syntactic-paper/";
         
       },
+    },{id: "post-a-note-for-39-syntax-39-study",
+      
+        title: "a note for &#39;Syntax&#39; Study",
+      
+      description: "A Comprehensive Guide to Key Areas of Syntactic Research",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/a-note-syn/";
+        
+      },
+    },{id: "post-a-note-for-39-syntax-hindi-39-study",
+      
+        title: "a note for &#39;Syntax + Hindi&#39; Study",
+      
+      description: "A Comprehensive Guide to Key Areas of Syntactic Research in Hindi",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/a-note-syn-hin/";
+        
+      },
     },{id: "post-a-note-for-39-linguistics-nlp-39-domain",
       
         title: "a note for &#39;Linguistics + NLP&#39; domain",
@@ -78,17 +107,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2025/a-note-ling-nlp/";
-        
-      },
-    },{id: "post-a-note-for-39-linguistics-syntax-39-domain",
-      
-        title: "a note for &#39;Linguistics + Syntax&#39; domain",
-      
-      description: "A Comprehensive Guide to Key Areas of Syntactic Research",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/a-note-ling-syn/";
         
       },
     },{id: "post-a-post-with-image-galleries",
