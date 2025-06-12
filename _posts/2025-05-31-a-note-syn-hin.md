@@ -2,10 +2,10 @@
 layout: post
 title: a note for 'Syntax + Hindi' Study
 date: 2025-05-31 09:00:00
-description: A Comprehensive Guide to Key Areas of Syntactic Research in Hindi
+description: A Comprehensive Guide to Core Topics in Hindi Syntactic Research
 tags: grammar syntax
-categories: theo-linguistics
-giscus_comments: true
+categories: theo-linguistics hi-linguistics
+giscus_comments: false
 related_posts: false
 featured: false
 ---
