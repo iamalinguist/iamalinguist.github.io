@@ -11,10 +11,10 @@ toc:
   sidebar: left
 ---
 
-```
 I am going to refer to myself as the 'author' and talk about my [first paper](https://iamalinguist.github.io/assets/pdf/article1.pdf). This work takes a promising first step- but it remains more of a sketch than a robust theory. It lacks formal definitions, data evaluation, and engagement with canonical grammar theory is not at all present.
-```
 
+<br>
+<br>
 
 ## A. Critical review of the paper
 ---
@@ -94,24 +94,26 @@ This paper does not clearly follow any of the major grammatical theories— at l
 
 <br>
 <br>
+<br>
 This paper attempted a simplified CFG-based analysis, loosely reminiscent of early Context-Free Phrase Structure Grammars as used in early NLP (e.g., before the statistical revolution). If author wants to improve this work and make it publishable in a stronger venue, choosing one coherent grammatical theory and sticking with it will greatly help. Some suggestions:
 
-> ###### **Option 1: Dependency Grammar (UD-style)**
+<br>
+
+###### **Option 1: Dependency Grammar (UD-style)**
 If author is interested in parser implementation and wish to move toward NLP applications, DG is a better choice. It's flexible and aligns with existing corpora (e.g., Hindi UD Treebank). Use head-modifier dependencies, model relations like `nsubj`, `obj`, `aux`, and handle scrambling via `edge labels`.
 
+<br>
 
-> ###### **Option 2: Lexical Functional Grammar (LFG)**
-* Good for free word order languages like Hindi. Allows c-structure and f-structure separation. You can model:
+###### **Option 2: Lexical Functional Grammar (LFG)**
+LFG is good for free word order languages like Hindi. Allows [c-structure and f-structure]() separation. You can model:
   * Surface word order using phrase structure rules (c-structure)
   * Underlying relations (subject, object) using functional structures (f-structure)
   * Gender, number, case as feature attributes
 
+<br>
 
-> ###### **Option 3: HPSG (Head-Driven Phrase Structure Grammar)**
-* Also great for morphologically rich languages. Rich in typed feature structures and lexical specifications. Excellent for:
-  * Agreement modelling
-  * Subject/object marking
-  * Constraint-based parsing
+###### **Option 3: HPSG (Head-Driven Phrase Structure Grammar)**
+HPSG is also great for morphologically rich languages. Rich in typed feature structures and lexical specifications. It is excellent for: Agreement modelling, Subject/object marking and Constraint-based parsing.
 
 
 <br>
