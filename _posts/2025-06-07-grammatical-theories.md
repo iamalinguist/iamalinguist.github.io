@@ -3,7 +3,7 @@ layout: post
 title: an overview of the grammatical theories 
 date: 2025-06-07 21:01:00
 description: highlighting core principles and distinguishing features of each theory
-tags: formatting images
+tags: grammar images
 categories: theo-linguistics
 thumbnail: assets/img/chronology.png
 giscus_comments: false
@@ -36,7 +36,6 @@ toc:
     * Syntactic Analysis: Primarily sentence-level analysis, often using parsing methods to identify subject, predicate, object, etc.
     * Focus on Meaning: Relies heavily on semantic notions (e.g., "a noun is the name of a person, place, or thing").
     * Limitations: Often struggles with the diversity and fluidity of natural language, sometimes imposing rules that don't reflect actual usage.
----
 
 <br>
 <br>
@@ -52,7 +51,6 @@ toc:
     * Immediate Constituent Analysis (ICA): A method for breaking down sentences into their immediate structural components, often represented by tree diagrams.
     * Form over Meaning: Prioritizes the formal arrangement of linguistic elements over their meaning in analysis.
     * Limitations: Often criticized for not adequately accounting for the creativity of language or the speaker's underlying knowledge.
----
 
 <br>
 <br>
@@ -66,7 +64,6 @@ toc:
     * No Phrase Structure Rules: Syntactic structure emerges directly from the combination of lexical categories.
     * Semantic Transparency: Often aims for a direct mapping between syntactic structure and semantic interpretation.
     * Varieties: Different systems exist, such as the Lambek Calculus, which has strong connections to mathematical logic.
----
 
 <br>
 <br>
@@ -81,7 +78,6 @@ toc:
     * Universal Grammar (UG): Proposes that humans are born with an innate linguistic faculty that provides universal principles common to all languages.
     * Recursion: Explains how language can generate infinitely long sentences through repetitive application of rules.
     * Evolution: Has undergone several revisions (e.g., Standard Theory, Extended Standard Theory, Government and Binding Theory, Minimalist Program).
----
 
 <br>
 <br>
@@ -94,7 +90,6 @@ toc:
     * Direct Lexical Relations: Emphasizes direct grammatical relations between words.
     * Cross-Linguistic Applicability: Often considered well-suited for languages with freer word order.
     * Representation: Often uses dependency trees where arrows point from the head to its dependent.
----
 
 <br>
 <br>
@@ -109,7 +104,6 @@ toc:
     * Choices and Systems: Views grammar as a system of choices that speakers make to achieve communicative goals.
     * Usage-Based: Often aligns with the idea that grammar emerges from language use.
     * Distinction from Formal Grammars: Unlike TGG, which often treats meaning as secondary to syntax, FG integrates meaning and function into the very fabric of grammatical description.
----
 
 <br>
 <br>

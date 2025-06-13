@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Why does my first linguistic paper fail terribly in advancing scientific inquiry?
+title: why does my first linguistic paper fail terribly in advancing scientific inquiry?
 date: 2025-06-07 10:14:00-0400
 description: it remains more of a sketch than a robust theory
 tags: grammar syntax formalrules
-categories: review-posts
+categories: review-post
 giscus_comments: false
 related_posts: false
 toc:

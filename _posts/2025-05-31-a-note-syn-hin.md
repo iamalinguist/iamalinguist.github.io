@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a note for 'Syntax + Hindi' Study
+title: a note for 'syntax + hindi' study
 date: 2025-05-31 09:00:00
 description: A Comprehensive Guide to Core Topics in Hindi Syntactic Research
 tags: grammar syntax

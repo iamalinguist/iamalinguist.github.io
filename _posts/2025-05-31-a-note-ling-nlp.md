@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a note for 'Linguistics + NLP' domain 
+title: a note for 'linguistics + nlp' domain 
 date: 2025-05-31 09:00:00
 description: A Comprehensive Guide to Key Research Areas 
 tags: grammar nlp
