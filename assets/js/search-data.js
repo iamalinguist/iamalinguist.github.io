@@ -78,7 +78,7 @@ ninja.data = [{
       },
     },{id: "post-why-does-my-first-linguistic-paper-fail-terribly-in-advancing-scientific-inquiry",
       
-        title: "Why does my first linguistic paper fail terribly in advancing scientific inquiry?",
+        title: "why does my first linguistic paper fail terribly in advancing scientific inquiry?",
       
       description: "it remains more of a sketch than a robust theory",
       section: "Posts",
@@ -87,20 +87,20 @@ ninja.data = [{
           window.location.href = "/blog/2025/review-of-syntactic-paper/";
         
       },
-    },{id: "post-a-post-with-tabs",
+    },{id: "post-subjecthood-in-hindi",
       
-        title: "a post with tabs",
+        title: "subjecthood in hindi",
       
-      description: "this is what included tabs in a post could look like",
+      description: "A Research Proposition on Subjecthood in Hindi",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/understanding/";
+          window.location.href = "/blog/2025/understanding-idea-of-subject/";
         
       },
     },{id: "post-a-note-for-39-syntax-39-study",
       
-        title: "a note for &#39;Syntax&#39; Study",
+        title: "a note for &#39;syntax&#39; study",
       
       description: "A Comprehensive Guide to Key Areas of Syntactic Research",
       section: "Posts",
@@ -111,7 +111,7 @@ ninja.data = [{
       },
     },{id: "post-a-note-for-39-syntax-hindi-39-study",
       
-        title: "a note for &#39;Syntax + Hindi&#39; Study",
+        title: "a note for &#39;syntax + hindi&#39; study",
       
       description: "A Comprehensive Guide to Core Topics in Hindi Syntactic Research",
       section: "Posts",
@@ -122,7 +122,7 @@ ninja.data = [{
       },
     },{id: "post-a-note-for-39-linguistics-nlp-39-domain",
       
-        title: "a note for &#39;Linguistics + NLP&#39; domain",
+        title: "a note for &#39;linguistics + nlp&#39; domain",
       
       description: "A Comprehensive Guide to Key Research Areas",
       section: "Posts",
