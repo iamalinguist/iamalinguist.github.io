@@ -20,7 +20,7 @@ toc:
 </div>
 
 <div class="caption">
-    Timeline of Major Grammar Theories:  Traditional Grammar (TG), Structural Grammar (SG), Transformational-Generative Grammar (TGG), Construction Grammar (CG), Categorial Grammar (CG), Functional Grammar (FG), Dependency Grammar (DG), Lexical Functional Grammar (LFG) and Head-Driven Phrase Structure Grammar (HPSG).
+    Timeline of Major Grammar Theories:  Traditional Grammar (TG), Structural Grammar (SG), Categorial Grammar (CG), Transformational-Generative Grammar (TGG), Dependency Grammar (DG), Functional Grammar (FG), Lexical Functional Grammar (LFG). Construction Grammar (CG), and Head-Driven Phrase Structure Grammar (HPSG).
 </div>
 
 <br>
@@ -120,7 +120,6 @@ toc:
     * Non-Derivational: Unlike TGG, LFG is not transformational; instead, it uses principles of unification to link c-structure and f-structure.
     * Completeness and Coherence: Constraints ensure that f-structures are well-formed and contain all necessary information.
     * Focus: Particularly strong in describing grammatical relations and their mapping to argument structure.
----
 
 <br>
 <br>
@@ -134,7 +133,6 @@ toc:
     * Inheritance Hierarchies: Constructions are related to each other through inheritance, forming a complex network.
     * No Firm Form-Meaning Divide: Blurs the traditional distinction between lexicon and grammar.
     * Varieties: Different schools exist, including Berkeley Construction Grammar (Fillmore, Kay, Lakoff), Radial Construction Grammar (Goldberg), and Embodied Construction Grammar.
----
 
 <br>
 <br>
