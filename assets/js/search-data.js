@@ -65,7 +65,40 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-an-overview-of-the-grammatical-theories",
+            },{id: "post-understanding-tgg",
+      
+        title: "understanding tgg",
+      
+      description: "A quick lesson on phrase structures and transformational in a language",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/understanding-tgg/";
+        
+      },
+    },{id: "post-understanding-hpsg",
+      
+        title: "understanding hpsg",
+      
+      description: "A quick visual schema of &#39;How HPSG organizes sentence structure?&#39;",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/understanding-hpsg/";
+        
+      },
+    },{id: "post-generative-grammar-what-it-actually-is",
+      
+        title: "generative grammar- what it actually is?",
+      
+      description: "A quick discussion on the broader term &#39;generative grammar&#39;",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/generative-grammar/";
+        
+      },
+    },{id: "post-an-overview-of-the-grammatical-theories",
       
         title: "an overview of the grammatical theories",
       
