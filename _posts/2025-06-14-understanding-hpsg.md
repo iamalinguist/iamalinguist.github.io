@@ -1,7 +1,7 @@
 ---
 layout: post
 title: understanding hpsg
-date: 2025-06-14 09:00:00
+date: 2025-06-13 00 :00:00
 description: A quick visual schema of 'How HPSG organizes sentence structure?'
 tags: formatting 
 categories: theoretical
