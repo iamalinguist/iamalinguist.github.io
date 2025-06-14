@@ -2,9 +2,9 @@
 layout: post
 title: understanding hpsg
 date: 2025-06-14 09:00:00
-description: A quick visual schema of how HPSG organizes sentence structure?
+description: A quick visual schema of 'How HPSG organizes sentence structure?'
 tags: formatting 
-categories: theo-linguistics
+categories: theoretical
 tabs: true
 typograms: true
 citation: false

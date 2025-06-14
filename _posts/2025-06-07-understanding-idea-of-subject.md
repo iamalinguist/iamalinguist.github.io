@@ -70,10 +70,10 @@ Subject tends to be the topic or focus.
 {% endtabs %}
 
 <br>
-<br>
 
 These tests are used to identify subjecthood even when case marking is non-nominative, especially in Hindi.
 
+<br>
 
 #### 1. Syntactic Minimalism and Argument Structure
 Mohanan (1994) presented a pivotal generative account where subjecthood in Hindi is not determined by surface case (like nominative), but by **argument hierarchy** and **syntactic configuration**. She argued that ergative-marked arguments (e.g., *"Ram-ne"* in *"Ram-ne roti khayi"*) are **true syntactic subjects** despite their non-nominative case.
