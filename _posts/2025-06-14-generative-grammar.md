@@ -11,7 +11,7 @@ related_posts: false
 ---
 
 
-### 🔹 Generative Grammar (Umbrella Term)
+### Generative Grammar (Umbrella Term)
 - "Generative Grammar" is a broad theoretical framework in linguistics.
 
 - It refers to any theory that aims to explicitly generate all and only the grammatical sentences of a language.
@@ -28,4 +28,4 @@ related_posts: false
 
 <hr>
 
-- Transformational (Generative) Grammar is one member of that family — the most famous and historically important one. This is essentially just the full name for Transformational Grammar (TG). [More] ()
+🔹*NOTE*: Transformational (Generative) Grammar is one member of that family — the most famous and historically important one. This is essentially just the full name for Transformational Grammar (TG). [More]()

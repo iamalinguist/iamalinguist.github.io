@@ -8,6 +8,8 @@ categories: hi-linguistics theo-linguistics explanations
 tabs: true
 giscus_comments: false
 related_posts: false
+toc:
+  sidebar: left
 ---
 
 ## What is Transformational Generative Grammar(TGG)?
@@ -28,7 +30,8 @@ related_posts: false
 <br>
 
 
-## 🌱 Difference between Deep and Surface Structure?
+🌱 **What are the differences between Deep and Surface Structure?**
+
 | Term               | Meaning                                                                 |
 |--------------------|-------------------------------------------------------------------------|
 | Deep Structure | The *abstract, underlying form* of a sentence that captures its *core meaning* and *basic grammatical relations*. |
@@ -36,7 +39,7 @@ related_posts: false
 
 <br>
 
-🌱 Why Two Levels?
+🌱 **Why Two Levels?**
 - Different **surface forms** can express the **same underlying meaning**.
 - Some sentences have **ambiguous surface forms** that deep structure helps clarify.
 
@@ -51,10 +54,8 @@ related_posts: false
 
 #### 1. Active and Passive Voice
 
-- **Active**:  
-  *The cat chased the mouse.*  
-- **Passive**:  
-  *The mouse was chased by the cat.*
+- **Active**: *The cat chased the mouse.*  
+- **Passive**: *The mouse was chased by the cat.*
 
 > ✅ **Same Deep Structure**: "cat chases mouse"  
 > ✅ **Different Surface Structures** due to transformation.
@@ -63,10 +64,8 @@ related_posts: false
 
 #### 2. Question Formation
 
-- **Statement**:  
-  *You are eating an apple.*  
-- **Question**:  
-  *Are you eating an apple?*
+- **Statement**: *You are eating an apple.*  
+- **Question**: *Are you eating an apple?*
 
 > ✅ Deep structure stays the same.  
 > ✅ Surface structure changes through auxiliary movement.
@@ -77,10 +76,8 @@ related_posts: false
 
 #### 1. Active-Passive
 
-- **Active**:  
-  *राम ने सीता को देखा।*  
-- **Passive**:  
-  *सीता राम द्वारा देखी गई।*
+- **Active**: *राम ने सीता को देखा।*  
+- **Passive**: *सीता राम द्वारा देखी गई।*
 
 > ✅ Deep structure: Ram sees Sita  
 > ✅ Surface structure: Changes with voice
@@ -89,10 +86,8 @@ related_posts: false
 
 #### 2. Question Formation
 
-- **Statement**:  
-  *तुम बाज़ार जा रहे हो।*  
-- **Question**:  
-  *क्या तुम बाज़ार जा रहे हो?*
+- **Statement**: *तुम बाज़ार जा रहे हो।*  
+- **Question**: *क्या तुम बाज़ार जा रहे हो?*
 
 > ✅ Deep structure = "You are going to the market"  
 > ✅ Surface structure = Adds "क्या" to form question
@@ -112,6 +107,10 @@ related_posts: false
 
 ---
 
+<br>
+<br>
+<br>
+
 ## Phrase Structures
 When linguists talk about "phrase structure," they are referring to the hierarchical organization of words into larger units (phrases) within a sentence. This concept is central to Phrase Structure Grammar (PSG), also known as Constituency Grammar.
 
@@ -126,8 +125,12 @@ Phrase structure is affiliated primarily with Transformational Generative Gramma
   - Early models like the Standard Theory (1965) emphasized phrase structure rules.
   - Chomsky introduced deep structure and surface structure, both built on phrase structure.
 
+<br>
+
 - #### 2. X-bar theory – 
   - A refinement of phrase structure rules that introduced intermediate phrase levels (e.g., X′ or X-bar), ensuring a uniform structure across all phrases (NPs, VPs, etc.).
+
+<br>
 
 - #### 3. Minimalist Program (1990s onward) – 
   - While it reduces reliance on phrase structure rules, it still assumes hierarchical phrase structure via Merge operations.
