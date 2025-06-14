@@ -265,8 +265,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["nlp", "syntax", "semantics", "x-bar theory", "phrase structure", "case theory", "tree diagrams"] # these tags will be displayed on the front page of your blog
-display_categories: ["hi-linguistics", "theo-linguistics", "reviewposts", "readpapers"] # these categories will be displayed on the front page of your blog
+display_tags: ["nlp", "syntax", "semantics"] # these tags will be displayed on the front page of your blog
+display_categories: ["hi-linguistics", "theo-linguistics", "explanations", "reviewbooks", "respaper"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

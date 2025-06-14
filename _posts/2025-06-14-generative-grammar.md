@@ -3,8 +3,8 @@ layout: post
 title: generative grammar- what it actually is?
 date: 2025-06-13 00 :00:00
 description: A quick discussion on the broader term 'generative grammar'
-tags: formatting 
-categories: theoretical
+tags: generative grammar tgg gpsg hpsg lfg cg mp
+categories: theo-linguistics explanations
 tabs: false
 giscus_comments: false
 related_posts: false

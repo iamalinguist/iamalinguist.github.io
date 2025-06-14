@@ -3,8 +3,8 @@ layout: post
 title: a note for 'linguistics + nlp' domain 
 date: 2025-05-31 09:00:00
 description: A Comprehensive Guide to Key Research Areas 
-tags: grammar nlp
-categories: comp-ling
+tags: grammar nlp parsing parser logic semantics
+categories: theo-linguistics explanations
 related_posts: false
 featured: false
 ---

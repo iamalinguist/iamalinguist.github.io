@@ -3,8 +3,8 @@ layout: post
 title: understanding tgg
 date: 2025-06-13 00 :00:00
 description: A quick lesson on phrase structures and transformational in a language
-tags: formatting 
-categories: theoretical
+tags: tgg deep surface x-bar
+categories: hi-linguistics theo-linguistics explanations
 tabs: true
 giscus_comments: false
 related_posts: false

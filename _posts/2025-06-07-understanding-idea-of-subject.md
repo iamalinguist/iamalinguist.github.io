@@ -3,8 +3,8 @@ layout: post
 title: subjecthood in hindi
 date: 2025-06-07 00:32:13
 description: A Research Proposition on Subjecthood in Hindi
-tags: formatting 
-categories: research theo-linguistics hi-linguistics
+tags: subjecthood syntax minimalism argument karaka 
+categories: hi-linguistics theo-linguistics explanations research
 tabs: true
 citation: true
 giscus_comments: true

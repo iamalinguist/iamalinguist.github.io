@@ -3,8 +3,8 @@ layout: post
 title: an overview of the grammatical theories 
 date: 2025-06-07 21:01:00
 description: highlighting core principles and distinguishing features of each theory
-tags: grammar images
-categories: theo-linguistics
+tags: grammar tg sg cg tgg dg fg lfg hpsg
+categories: hi-linguistics theo-linguistics explanations review respaper
 thumbnail: assets/img/chronology.png
 giscus_comments: false
 related_posts: false
@@ -20,7 +20,7 @@ toc:
 </div>
 
 <div class="caption">
-    Timeline of Major Grammar Theories:  Traditional Grammar (TG), Structural Grammar (SG), Categorial Grammar (CG), Transformational-Generative Grammar (TGG), Dependency Grammar (DG), Functional Grammar (FG), Lexical Functional Grammar (LFG). Construction Grammar (CG), and Head-Driven Phrase Structure Grammar (HPSG).
+    Timeline of Major Grammar Theories:  Traditional Grammar (TG), Structural Grammar (SG), Categorial Grammar (CG), Transformational-Generative Grammar (TGG), Dependency Grammar (DG), Functional Grammar (FG), Lexical Functional Grammar (LFG), Construction Grammar (CG), and Head-Driven Phrase Structure Grammar (HPSG).
 </div>
 
 <br>

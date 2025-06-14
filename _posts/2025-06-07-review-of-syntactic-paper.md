@@ -3,8 +3,8 @@ layout: post
 title: why does my first linguistic paper fail terribly in advancing scientific inquiry?
 date: 2025-06-07 10:14:00-0400
 description: it remains more of a sketch than a robust theory
-tags: grammar syntax formalrules
-categories: review-post
+tags: grammar syntax cfg 
+categories: hi-linguistics theo-linguistics explanations review respaper
 giscus_comments: false
 related_posts: false
 toc:
