@@ -56,7 +56,7 @@ The difference (hence “differential”) depends on properties such as:
     <li>Topicality or affectedness: marked if the object is emphasized or topical.</li>
 </ul>
 <br>
-So, “differential” captures the idea that *object marking is not uniform* —it varies *systematically* depending on semantic or pragmatic features.
+So, “differential” captures the idea that "object marking is not uniform" —it varies "systematically" depending on semantic or pragmatic features.
 </div>
 
 
@@ -94,7 +94,7 @@ Hindi uses correlative structures (e.g., *jo...vo...*) rather than internally he
 <br>
 
 #### 8. Syntax of Evidentiality and Reported Speech
-Hindi uses lexical items (e.g., *kya*, *to*, *lagta hai*) to express epistemic status and source of information. Studying this domain syntactically and semantically can enrich:
+Hindi uses lexical items (e.g., *kyā*, *to*, *lagtā hai*) to express epistemic status and source of information. Studying this domain syntactically and semantically can enrich:
 * The theory of propositional attitude verbs
 * The role of syntax in evidential interpretation
 
@@ -108,8 +108,8 @@ Hindi's split ergativity and aspect-driven agreement offer critical data for:
 
 <br>
 
-#### 10. Formal Grammar of Hindi (LFG, HPSG, CCG, Minimalism)
-Developing formally annotated treebanks and rule sets for Hindi using modern grammar formalisms will contribute to both linguistic theory and computational modeling.
+#### 10. Formal Grammar of Hindi (LFG, HPSG, CG, Minimalism)
+Developing formally annotated treebanks and rule sets for Hindi using modern grammar formalisms will contribute to both linguistic theory and computational modeling. [More]({% link _posts/2025-06-07-grammatical-theories.md %})
 <br>
 <br>
 <br>

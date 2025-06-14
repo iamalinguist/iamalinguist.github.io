@@ -148,7 +148,6 @@ toc:
     * Non-Derivational: Does not involve transformations between different levels of representation.
     * Constraint-Based: Grammar is a system of interacting constraints rather than a series of sequential rules.
     * Mathematical Sophistication: Known for its formal rigor and use of logic.
----
 
 <br>
 <br>
