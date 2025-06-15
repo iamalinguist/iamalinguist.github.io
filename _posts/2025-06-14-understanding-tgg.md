@@ -1,19 +1,16 @@
 ---
 layout: post
 title: understanding tgg
-date: 2025-06-13 00 :00:00
+date: 2025-06-14 00 :00:00
 description: A quick lesson on phrase structures and transformational in a language
 tags: tgg deep surface x-bar
 categories: hi-linguistics theo-linguistics explanations
-tabs: true
 giscus_comments: false
 related_posts: false
-toc:
-  sidebar: left
 ---
 
-## What is Transformational Generative Grammar(TGG)?
-- TGG This is a specific type of [generative grammar](). Introduced by Chomsky in his book "Syntactic Structures" (1957).
+## What is TGG?
+- Transformational Generative Grammar(TGG) is a specific type of <a href="generative-grammar">generative grammar</a>. Introduced by Chomsky in his book "Syntactic Structures" (1957).
 
 - It introduces transformations — operations that convert one syntactic structure into another. For example, converting:
 

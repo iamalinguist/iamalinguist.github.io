@@ -1,16 +1,14 @@
 ---
 layout: post
 title: understanding hpsg
-date: 2025-06-13 00 :00:00
+date: 2025-06-14 00 :00:00
 description: A quick visual schema of 'How HPSG organizes sentence structure?'
 tags: grammar syntax unification lexicalist constraint
 categories: theo-linguistics explanations
 typograms: true
-citation: true
+citation: false
 giscus_comments: false
 related_posts: false
-toc:
-  sidebar: left
 ---
 
 HPSG combines ideas from:
