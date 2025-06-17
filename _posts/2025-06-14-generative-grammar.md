@@ -19,13 +19,12 @@ related_posts: false
 - Introduced by Noam Chomsky in the 1950s.
 
 - It includes various specific models or versions developed over time. It includes- 
-    - <a href="understanding-tgg/">Transformational Generative Grammar (TGG)</a>
+    - <a href="../_posts/2025-06-14-understanding-tgg.md">Transformational Generative Grammar (TGG)</a>
+        - 🔹NOTE: Transformational (Generative) Grammar is the most famous and historically important grammar system. This is essentially just the full name for Transformational Grammar (TG).
     - Generalized Phrase Structure Grammar (GPSG)
-    - Head-driven Phrase Structure Grammar (HPSG)
+    - <a href="2025-06-14-understanding-hpsg.md">Head-driven Phrase Structure Grammar (HPSG)</a>
     - Lexical Functional Grammar (LFG)
     - Categorial Grammar (CG)
     - Minimalist Program (MP)
 
 <hr>
-
-🔹NOTE: Transformational (Generative) Grammar is one member of that family — the most famous and historically important one. This is essentially just the full name for Transformational Grammar (TG).
