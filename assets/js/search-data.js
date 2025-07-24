@@ -69,6 +69,17 @@ ninja.data = [{
       
         title: "understanding tgg",
       
+      description: "Understanding Anaphors, Personal Pronouns, and R-Expressions in Hindi",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/understanding-pronouns-in-hindi/";
+        
+      },
+    },{id: "post-understanding-tgg",
+      
+        title: "understanding tgg",
+      
       description: "A quick lesson on phrase structures and transformational in a language",
       section: "Posts",
       handler: () => {
