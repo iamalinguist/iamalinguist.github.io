@@ -17,10 +17,13 @@ related_posts: false
 <br>
 
 - It makes use of "phrase structures". When linguists talk about phrase structure, they are referring to the hierarchical organization of words into larger units (phrases) within a sentence. Thus, this concept provides use of alternative names to this viz. Phrase Structure Grammar (PSG), also known as Constituency Grammar.
-<br>
 
-> **Which other grammatical theory is it affiliated with?** - **X-bar theory** (A refinement of phrase structure rules that introduced intermediate phrase levels (e.g., X′ or X-bar), ensuring a uniform structure across all phrases (NPs, VPs, etc.).), **Minimalist Program** (While it reduces reliance on phrase structure rules, it still assumes hierarchical phrase structure via Merge operations.)
-<br>
+
+````markdown
+```
+Which other grammatical theory is it affiliated with? -> **X-bar theory** (A refinement of phrase structure rules that introduced intermediate phrase levels (e.g., X′ or X-bar), ensuring a uniform structure across all phrases (NPs, VPs, etc.).), **Minimalist Program** (While it reduces reliance on phrase structure rules, it still assumes hierarchical phrase structure via Merge operations.)
+```
+````
 
 - Chomsky introduced deep structure (basic sentence structure) and surface structure (what we actually say/hear), both built on phrase structure in TGG. Chomsky talked about these structurs especially in the **Standard Theory (1965)**, while discussing TGG.
 
