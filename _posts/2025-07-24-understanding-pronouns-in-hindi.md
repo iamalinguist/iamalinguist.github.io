@@ -1,6 +1,6 @@
 ---
 layout: post
-title: understanding tgg
+title: understanding Anaphors, Personal Pronouns, and R-Expressions in Hindi
 date: 2025-07-24 00 :00:00
 description: Understanding Anaphors, Personal Pronouns, and R-Expressions in Hindi
 tags: r expression personal pronoun anaphors

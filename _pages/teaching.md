@@ -68,7 +68,7 @@ nav_order:
 ---
 
 ## LING501
-`NLP Techniques for Linguistics`
+`NLP for Linguistics`
 * Text Categorization - Topic modeling (e.g., LDA, NMF), Feature selection (TF-IDF, chi-square), Classification algorithms, Evaluation metrics (precision, recall, F1-score)
 * Syntactic, Semantic and Pragmatic Analysis - Part-of-speech tagging, Dependency parsing, Named entity recognition (NER), Word sense disambiguation, Semantic role labeling
 * Corpus-based Statistical Approaches - N-gram models and frequency distributions, Collocation extraction, Zipf's law and lexical diversity, Statistical parsing, Word embeddings from corpora (e.g., Word2Vec, GloVe)
