@@ -65,9 +65,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-understanding-tgg",
+            },{id: "post-understanding-anaphors-personal-pronouns-and-r-expressions-in-hindi",
       
-        title: "understanding tgg",
+        title: "understanding Anaphors, Personal Pronouns, and R-Expressions in Hindi",
       
       description: "Understanding Anaphors, Personal Pronouns, and R-Expressions in Hindi",
       section: "Posts",
