@@ -8,8 +8,8 @@ nav_order:
 ---
 
 
-## LING201
-`Introduction to Linguistics` [[Download Slides]()] -  
+## LING101
+`Introduction to Linguistics`
 * Language and Communication – Definition of language, features of human communication, and comparison with animal communication.
 * Phonetics and Phonology – Speech sounds, articulatory phonetics, phonemes, minimal pairs, and phonological rules.
 * Morphology – Word structure, morphemes, derivation vs. inflection, and word formation processes.
@@ -23,8 +23,8 @@ nav_order:
 ---
 <br>
 
-## LING301
-`Introduction to Syntax` [[Download Slides]()] - 
+## LING201
+`Introduction to Syntax`
 * Basic Syntactic Concepts – Sentence, phrase, and clause distinctions.
 * Constituency Tests – Substitution, movement, coordination, and deletion as tools for determining structure.
 * Phrase Structure Rules – Building tree diagrams, understanding NP, VP, PP, etc.
@@ -38,8 +38,8 @@ nav_order:
 ---
 <br>
 
-## LING401
-`Foundations of Syntactic Theory` [[Download Slides]()] - 
+## LING301
+`Foundations of Syntactic Theory`
 * Generative Grammar – Core principles of Chomsky’s framework and its motivations.
 * Universal Grammar (UG) – The notion of an innate grammatical framework.
 * Deep Structure vs. Surface Structure – Understanding transformations in syntax.
@@ -53,8 +53,8 @@ nav_order:
 ---
 <br>
 
-## LING501
-`Theories of Grammar` [[Download Slides]()] - 
+## LING401
+`Theories of Grammar`
 * Traditional Grammar – Prescriptive rules and grammar traditions.
 * Structural Grammar – Bloomfieldian linguistics, and the focus on forms and patterns.
 * Transformational-Generative Grammar (TGG) – Overview of Chomskyan theories and their evolution.
@@ -66,16 +66,13 @@ nav_order:
 * Comparative Overview of Theories – Strengths and weaknesses of different models.
 
 ---
-<br>
 
-## LING502
-`Analysis and Argumentation` [[Download Slides]()] - 
-* Critical Thinking in Linguistics – Developing analytical reasoning and evaluating linguistic arguments.
-* Identifying Patterns – Data-driven hypothesis formation in language.
-* Formalization of Arguments – Articulating linguistic generalizations and proving them rigorously.
-* Empirical Evidence – Using data sets, examples, and counterexamples to support claims.
-* Cross-Linguistic Comparison – Testing theories across diverse linguistic systems.
-* Hypothesis Testing – Distinguishing between descriptive adequacy and explanatory adequacy.
-* Logical Reasoning – Understanding entailment, presupposition, and falsifiability.
-* Ethics in Linguistic Research – Responsible research methods and the importance of cultural sensitivity.
-* Presenting Linguistic Analysis – Structuring papers, oral presentations, and visual data effectively.
+## LING501
+`NLP Techniques for Linguistics`
+* Text Categorization - Topic modeling (e.g., LDA, NMF), Feature selection (TF-IDF, chi-square), Classification algorithms, Evaluation metrics (precision, recall, F1-score)
+* Syntactic, Semantic and Pragmatic Analysis - Part-of-speech tagging, Dependency parsing, Named entity recognition (NER), Word sense disambiguation, Semantic role labeling
+* Corpus-based Statistical Approaches - N-gram models and frequency distributions, Collocation extraction, Zipf's law and lexical diversity, Statistical parsing, Word embeddings from corpora (e.g., Word2Vec, GloVe)
+* NLP- Supervised and Unsupervised Learning Methods
+* Simple Context-free Grammars - Parse trees and derivations, Chomsky normal form, Recursive descent parsing, LL and LR parsing techniques, Ambiguity in grammars, Syntax-directed translation
+
+---
