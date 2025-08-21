@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Poster Presentation at IIT (BHU) for RID Day.
+Poster Presentation at IIT (BHU) on the occasion of Research and Innovation Day.

@@ -66,6 +66,7 @@ nav_order:
 * Comparative Overview of Theories – Strengths and weaknesses of different models.
 
 ---
+<br>
 
 ## LING501
 `NLP for Linguistics`

@@ -13,9 +13,9 @@ profile:
     <p>IIT (BHU), Varanasi</p>
     <p>U.P., India- 221005</p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I am a doctoral researcher in the Department of Humanities at the Indian Institute of Technology (BHU), Varanasi. My academic profile, including my CV, is accessible [here](/cv/). Prior to my doctoral studies, I completed an M.Tech. in Geoinformatics from IIT Bombay and an M.A. in the Hindi language from MGAHV Wardha, motivated by a keen interest in linguistics.  
@@ -31,4 +31,4 @@ I’m currently working on experimenting different grammars for Hindi Language.
 
 1. Grammatical Theories
 2. Argument Structure
-3. NLP Techniques (e.g., machine learning and deep learning models)
+3. Information Structure
