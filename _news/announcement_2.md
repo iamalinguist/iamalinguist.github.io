@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Won Best Research Award – Open to All Branches, Organized by IIT Jodhpur & IIT Indore. :blush: :relieved:
+Won </tt>Best Research Award (1st Prize)</tt> – Open to All Branches, Organized by IIT Jodhpur & IIT Indore. :blush: :relieved:

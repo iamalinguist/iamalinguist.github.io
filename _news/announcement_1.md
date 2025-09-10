@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Poster Presentation at IIT (BHU) on the occasion of Research and Innovation Day.
+Poster Presentation at IIT (BHU) on the occasion of Research and Innovation Day-2024.

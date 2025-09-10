@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Won 1st prize for nationwide Swachhata Ideathon-2024, by IGNOU Delhi. :sparkles: :smile:
+Won <tt>1st prize</tt> for nationwide Swachhata Ideathon-2024, by IGNOU Delhi. :sparkles: :smile:

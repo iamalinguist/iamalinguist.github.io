@@ -151,7 +151,25 @@ toc:
 
 <br>
 <br>
+<hr>
+The diagram you saw covers the “big nine,” but the field is a lot richer. Here are some of the notable theories missing from that picture, grouped a bit so it’s easier to digest:
 
+- **Government & Binding (GB)** — 1980s generative framework with principles and parameters.  
+- **Minimalist Program** — 1990s–present; Chomsky’s drive for economy and simplicity in grammar.  
+- **Tree-Adjoining Grammar (TAG)** — formal system for syntax and semantics, strong in computational modeling.  
+- **Generalized Phrase Structure Grammar (GPSG)** — precursor to HPSG, constraint-based.  
+- **Systemic Functional Grammar (SFG)** — Halliday; grammar as a resource for meaning in context.  
+- **Prague School Functionalism** — early 20th c.; emphasis on topic–comment and information structure.  
+- **Role and Reference Grammar (RRG)** — links syntax, semantics, and discourse across languages.  
+- **Cognitive Grammar** — Langacker; grammar as symbolic and conceptual structure.  
+- **Usage-based Models** — Bybee, Tomasello; grammar shaped by frequency and analogy.  
+- **Embodied / Fluid Construction Grammar** — constructionist models tied to cognition or computation.  
+- **Meaning–Text Theory (MTT)** — Mel’čuk; semantically oriented, models paraphrase and surface variation.  
+- **Word Grammar** — Hudson; dependency-based, network model of syntax.  
+- **Arc Pair Grammar** — 1970s relational approach to grammatical functions.  
+- **Relational Grammar** — focuses on grammatical relations like subject and object.  
+- **Combinatory Categorial Grammar (CCG)** — highly compositional, strong in computational parsing.  
+- **DisCoCat (Distributional Compositional Categorical model)** — recent hybrid of categorial grammar and vector-space semantics.  
 
 
 
