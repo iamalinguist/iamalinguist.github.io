@@ -9,8 +9,6 @@ giscus_comments: false
 related_posts: false
 ---
 
-# Understanding Anaphors, Personal Pronouns, and R-Expressions in Hindi
-
 In the field of syntax and semantics, particularly within the framework of generative grammar, three important categories of noun phrases often arise: **anaphors**, **personal pronouns**, and **R-expressions**. While these concepts are universal in natural languages, their behavior can differ significantly across languages. In this article, we’ll explore how these categories operate in **Hindi**, a South Asian language rich in syntactic variety and nuance.
 
 ---
@@ -110,7 +108,7 @@ These expressions cannot be coreferential with another NP that c-commands them i
 
 
 
-## 📚 Summary Table 📚
+### Summary Table 📚
 
 | Category         | Hindi Example                         | Binding Principle | Coreference Allowed?          |
 |------------------|----------------------------------------|-------------------|-------------------------------|
@@ -120,7 +118,9 @@ These expressions cannot be coreferential with another NP that c-commands them i
 
 ---
 
-## 🧐 Why Is This Important? 🧐
+
+
+### Why Is This Important? 🧐
 
 Understanding how Hindi handles binding is not only essential for syntactic theory but also for applications like:
 
@@ -129,9 +129,6 @@ Understanding how Hindi handles binding is not only essential for syntactic theo
 - **Cross-linguistic comparison** in typology  
 - **Psycholinguistics** and sentence processing studies  
 
----
-
-## 🧩 Final Thoughts 🧩
 
 Hindi, like many Indo-Aryan languages, provides a rich testing ground for theories of binding and co-reference. Its anaphoric system (especially with "apne") showcases locality constraints vividly. Meanwhile, personal pronouns and R-expressions align well with the universals proposed in Binding Theory.
 
