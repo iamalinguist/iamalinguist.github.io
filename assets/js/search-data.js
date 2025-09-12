@@ -73,7 +73,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/understanding-pronouns-in-hindi/";
+          window.location.href = "/blog/2025/understanding-pronouns/";
         
       },
     },{id: "post-understanding-tgg",
@@ -178,8 +178,8 @@ ninja.data = [{
     },{id: "news-poster-presentation-at-iit-bhu-on-the-occasion-of-research-and-innovation-day-2024",
           title: 'Poster Presentation at IIT (BHU) on the occasion of Research and Innovation Day-2024....',
           description: "",
-          section: "News",},{id: "news-won-amp-lt-tt-amp-gt-best-research-award-amp-lt-tt-amp-gt-open-to-all-branches-organized-by-iit-jodhpur-amp-amp-iit-indore-blush-relieved",
-          title: 'Won &amp;amp;lt;/tt&amp;amp;gt;Best Research Award&amp;amp;lt;/tt&amp;amp;gt; – Open to All Branches, Organized by IIT Jodhpur...',
+          section: "News",},{id: "news-won-best-research-award-open-to-all-branches-organized-by-iit-jodhpur-amp-amp-iit-indore-blush-relieved",
+          title: 'Won Best Research Award – Open to All Branches, Organized by IIT Jodhpur...',
           description: "",
           section: "News",},{id: "news-won-1st-prize-for-nationwide-swachhata-ideathon-2024-by-ignou-delhi-sparkles-smile",
           title: 'Won 1st prize for nationwide Swachhata Ideathon-2024, by IGNOU Delhi. :sparkles: :smile:',
