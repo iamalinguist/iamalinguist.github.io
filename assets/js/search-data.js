@@ -65,7 +65,29 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-understanding-anaphors-personal-pronouns-and-r-expressions-in-hindi",
+            },{id: "post-information-structure",
+      
+        title: "Information Structure",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/information-structure/";
+        
+      },
+    },{id: "post-argument-structure",
+      
+        title: "Argument Structure",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/argument-structure/";
+        
+      },
+    },{id: "post-understanding-anaphors-personal-pronouns-and-r-expressions-in-hindi",
       
         title: "understanding Anaphors, Personal Pronouns, and R-Expressions in Hindi",
       
