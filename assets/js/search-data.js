@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-information-structure",
+            },{id: "post-auxiliary-in-hindi",
+      
+        title: "Auxiliary In Hindi",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/auxiliary-in-hindi/";
+        
+      },
+    },{id: "post-information-structure",
       
         title: "Information Structure",
       
