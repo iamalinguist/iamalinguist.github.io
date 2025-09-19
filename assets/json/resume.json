@@ -114,16 +114,16 @@
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Introduction to Logic",
-      "date": "",
-      "issuer": "Stanford University",
+      "name": "Course in Sanskrit Language",
+      "date": "2023",
+      "issuer": "Central Sanskrit Univeristy",
       "url": "",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Machine Learning Specialization",
+      "name": "Research Methods in Linguistics and Literature",
       "date": "",
-      "issuer": "DeepLearning.AI (Coursera)",
+      "issuer": "Bharathiar University",
       "url": "",
       "icon": "fa-solid fa-hashtag"
     }
@@ -183,9 +183,11 @@
       "name": "Research Areas",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Chomskyan syntax",
-        "Semantics",
-        "Phrase structure"
+        "Chomskyan Grammar",
+        "Non-Chomskyan Frameworks",
+        "Syntax",
+        "Phrase structure",
+        "Asian languages"
       ]
     },
     {
@@ -196,8 +198,7 @@
         "formal semantics",
         "phrase structure rules", 
         "constituent structure",
-        "argument hierarchies",
-        "Asian languages (Hindi, Awadhi and Sanskrit in particular)"
+        "argument hierarchies"
       ]
     }
   ],
@@ -218,8 +219,8 @@
       "name": "An Introduction to Hindi Syntax",
       "summary": "This book is a basic introduction to syntactic analysis in Hindi.",
       "highlights": ["The Verb Phrase", "The Verb Group", "The Noun Phrase", "Subordination and Coordination"],
-      "startDate": "2025-07-01",
-      "endDate": "2026-07-01",
+      "startDate": "2026-07-01",
+      "endDate": "2027-07-01",
       "url": "/projects/1_project/"
     },
     {
@@ -235,7 +236,7 @@
       "summary": "This application was created to demonstrate how Hindi grammar rules work and how different syntactic categories are related.",
       "highlights": ["Phrase Structure Rules", "Hindi Language", "NP and VP Categories", "Regular Sentences"],
       "startDate": "2022-01-01",
-      "endDate": "2024-01-01",
+      "endDate": "2025-01-01",
       "url": "/projects/3_project/"
     }
   ]

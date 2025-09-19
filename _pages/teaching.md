@@ -68,12 +68,13 @@ nav_order:
 ---
 <br>
 
-## LING501
-`NLP for Linguistics`
-* Text Categorization - Topic modeling (e.g., LDA, NMF), Feature selection (TF-IDF, chi-square), Classification algorithms, Evaluation metrics (precision, recall, F1-score)
-* Syntactic, Semantic and Pragmatic Analysis - Part-of-speech tagging, Dependency parsing, Named entity recognition (NER), Word sense disambiguation, Semantic role labeling
-* Corpus-based Statistical Approaches - N-gram models and frequency distributions, Collocation extraction, Zipf's law and lexical diversity, Statistical parsing, Word embeddings from corpora (e.g., Word2Vec, GloVe)
-* NLP- Supervised and Unsupervised Learning Methods
-* Simple Context-free Grammars - Parse trees and derivations, Chomsky normal form, Recursive descent parsing, LL and LR parsing techniques, Ambiguity in grammars, Syntax-directed translation
+## ENG001
+`English Communication Skill`
+* Language Basics – Strengthening grammar, vocabulary, and sentence structure.
+* Speaking Skills – Practice with discussions, role-plays, and presentations.
+* Listening Skills – Train with audio clips and varied accents to catch pronunciation and speed.
+* Writing Skills – Focusing on writing project reports, resumes, and essays.
+* Non-Verbal Cues – Understanding body language, eye contact, and tone of voice for effective presentation.
+* Real-Life Practice – Mock interviews, debates, and real-life scenarios so students can apply what they’ve learned in academic and professional settings.
 
 ---

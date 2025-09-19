@@ -21,9 +21,9 @@ I am a doctoral researcher in the Department of Humanities at the Indian Institu
 
 My research primarily addresses syntax and semantics, with my Ph.D. thesis titled `A Formal Grammar of Hindi` [you may read the outline [here](/assets/pdf/thesis_outline.pdf)]. The core objective of my doctoral work is to develop a formal grammar for Hindi, integrating propositional logic, predicate logic, type theory, and temporal logic. To support this endeavor, I have designed and implemented a Python-based parsing tool for the grammar. I am currently preparing for my final viva, which is scheduled to take place before October 2025.  
 
-My research adopts an interdisciplinary approach, intersecting discrete mathematics (including sets, matrices, relations, and tree structures), languages (contemporary, regional etc.), and computational linguistics. My primary focus is on leveraging formal frameworks to develop theoretical grammars for various languages. My secondary focus is on testing the ability of these grammars to enable machines to process and understand natural languages. In line with these interests, I enjoy collaborating with technologists, linguists, and innovators on projects exploring NLP applications. 
+<!-- My research adopts an interdisciplinary approach, intersecting discrete mathematics (including sets, matrices, relations, and tree structures), languages (contemporary, regional etc.), and computational linguistics.-->
 
-I’m currently working on experimenting different grammars for Hindi or Hindi-like (I mean 'syntactically' here!) languages. 
+My primary focus is on leveraging formal frameworks to develop theoretical grammars for various languages. My secondary focus is on testing the ability of these grammars to enable machines to process and understand natural languages. In line with these interests, I enjoy collaborating with technologists, linguists, and innovators on projects exploring NLP applications. I’m currently working on experimenting different grammars for Hindi or Hindi-like (I mean 'syntactically' here!) languages. 
 
 
 `Research Interests (Major to Minor)`
