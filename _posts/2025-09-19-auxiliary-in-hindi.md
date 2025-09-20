@@ -1,6 +1,21 @@
-## Use of Auxiliary in Hindi
+---
+layout: post
+title: Use of Auxiliary in Hindi 
+date: 2025-06-07 21:01:00
+description: an overview from the linguistics perspective
+tags: grammar
+categories: hi-linguistics
+thumbnail: assets/img/chronology.png
+giscus_comments: false
+related_posts: false
+citation: false
+toc:
+  sidebar: left
+---
 
-### 1. Primary role: Tense/Aspect anchoring
+## Primary role: 
+
+### Tense/Aspect anchoring
 Auxiliaries license **tense/aspect anchoring**. Finite clauses in Hindi need an auxiliary (*hai*, *thā*, *hogā*, etc.).  That auxiliary **anchors tense/aspect** (present, past, future, progressive, perfective, etc.).  
 
 Without it, sentences like:
@@ -12,7 +27,9 @@ feel incomplete, almost like a nominal predicate or a fragment.
 
 ---
 
-### 2. Secondary role: Licensing negation
+## 2. Secondary role:
+
+### Licensing negation
 Auxiliaries also **license negation**.
 
 Example:  
@@ -27,7 +44,7 @@ That’s why the literature often says “auxiliaries license negation” — it
 
 ---
 
-### Summary
+## Summary
 - **Without auxiliary** → fragment, predicate-only, non-finite  
 - **With auxiliary** → full clause, finite, truth-evaluable
 

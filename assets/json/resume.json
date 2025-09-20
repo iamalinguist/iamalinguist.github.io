@@ -30,7 +30,7 @@
       "startDate": "2025-07-01",
       "endDate": "ongoing",
       "summary": "I teach in the Humanities Department, collaborating with linguistics professors and regularly delivering lectures on campus.",
-      "highlights": ["Syntax", "Semantics", "Others- English, Thought Lab, Public Speaking"]
+      "highlights": ["Others- English, Thought Lab, Public Speaking"]
     },
     {
       "name": "Indian Institute of Technology Bombay",
@@ -64,7 +64,7 @@
       "startDate": "2020-12-1",
       "endDate": "2025-06-01",
       "score": "10",
-      "courses": ["Semantics", "Syntax", "Set Theory"]
+      "courses": ["Syntax and Semantics", "Set Theory"]
     },
     {
       "institution": "Indian Institute of Technology, Bombay",
@@ -75,7 +75,7 @@
       "startDate": "2013-07-01",
       "endDate": "2015-07-01",
       "score": "8.92",
-      "courses": ["Digital Image Processing", "Remote Sensing", "Geosemantics"]
+      "courses": ["Digital Image Processing", "Remote Sensing"]
     }
   ],
   "awards": [
@@ -101,28 +101,28 @@
   "certificates": [
     {
       "name": "LaTeX Hands-on Workshop",
-      "date": "",
+      "date": "Jan, 25",
       "issuer": "IIT (BHU), Varanasi",
       "url": "",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "AI for Data",
-      "date": "",
+      "name": "AI for Data Workshop",
+      "date": "Mar, 25",
       "issuer": "GIAN Lab (AI, NLP, ML), IIT Patna",
       "url": "https://www.iitp.ac.in/~ai-nlp-ml/",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "Course in Sanskrit Language",
-      "date": "2023",
+      "date": "Mar, 24",
       "issuer": "Central Sanskrit Univeristy",
       "url": "",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Research Methods in Linguistics and Literature",
-      "date": "",
+      "name": "Research Methods in Linguistics",
+      "date": "Jul, 20",
       "issuer": "Bharathiar University",
       "url": "",
       "icon": "fa-solid fa-hashtag"
@@ -185,7 +185,6 @@
       "keywords": [
         "Chomskyan Grammar",
         "Non-Chomskyan Frameworks",
-        "Syntax",
         "Phrase structure",
         "Asian languages"
       ]
@@ -226,7 +225,7 @@
     {
       "name": "Word Sense in Sanskrit",
       "summary": "This Shloka dictionary is based on a corpus of Vedic Sanskrit texts.",
-      "highlights": ["Word Sense", "Sanskrit Language", "Machine Learning", "Web Programming"],
+      "highlights": ["Word Sense", "Machine Learning", "Web Programming"],
       "startDate": "2023-01-01",
       "endDate": "2024-01-01",
       "url": "/projects/2_project/"
@@ -234,7 +233,7 @@
     {
       "name": "Fragments App for Hindi",
       "summary": "This application was created to demonstrate how Hindi grammar rules work and how different syntactic categories are related.",
-      "highlights": ["Phrase Structure Rules", "Hindi Language", "NP and VP Categories", "Regular Sentences"],
+      "highlights": ["Phrase Structure Rules", "NP and VP Categories", "Regular Sentences"],
       "startDate": "2022-01-01",
       "endDate": "2025-01-01",
       "url": "/projects/3_project/"

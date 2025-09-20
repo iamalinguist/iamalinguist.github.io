@@ -15,15 +15,15 @@ profiles:
     content: about_syntax.md
     image_circular: false # crops the image to make it circular
 
-  - align: right
-    image: semantics.jpg
-    content: about_semantics.md
-    image_circular: false # crops the image to make it circular
-
-  #-#align: right
-    #image: nativeenglish.jpg
-    #content: about_nativeenglish.md
+  - #align: right
+    #image: semantics.jpg
+    #content: about_semantics.md
     #image_circular: false # crops the image to make it circular
+
+  - align: left
+    image: nativeenglish.jpg
+    content: about_nativeenglish.md
+    image_circular: false # crops the image to make it circular
 
   - align: centre
     content: about_miscellaneous.md
