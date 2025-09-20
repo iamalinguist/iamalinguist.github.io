@@ -5,7 +5,6 @@ date: 2025-06-07 21:01:00
 description: an overview from the linguistics perspective
 tags: grammar
 categories: hi-linguistics
-thumbnail: assets/img/chronology.png
 giscus_comments: false
 related_posts: false
 citation: false
