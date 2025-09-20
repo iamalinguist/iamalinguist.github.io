@@ -65,18 +65,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-auxiliary-in-hindi",
-      
-        title: "Auxiliary In Hindi",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/auxiliary-in-hindi/";
-        
-      },
-    },{id: "post-information-structure",
+            },{id: "post-information-structure",
       
         title: "Information Structure",
       
@@ -140,6 +129,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2025/generative-grammar/";
+        
+      },
+    },{id: "post-use-of-auxiliary-in-hindi",
+      
+        title: "Use of Auxiliary in Hindi",
+      
+      description: "an overview from the linguistics perspective",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/auxiliary-in-hindi/";
         
       },
     },{id: "post-an-overview-of-the-grammatical-theories",
