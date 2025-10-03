@@ -25,9 +25,8 @@ nav_order: 2
   <li>When Subjects Wear Postpositions: A New Theory of Agreement in Hindi. [Submitted]</li>
   <li>Montague Semantics for L2 Hindi: A Pedagogical Semantic Triad (CPI) for Teaching Meaning and Inference. [Submitted]</li>
   <li>Teaching Hindi through Semantics: A Pedagogical Framework and Student Perceptions. [Submitted]</li>
-  
+  <li>Hindi Tree: An Open-Access Constituency Parser for Hindi. [Submitted]</li>
   <br>
-  <li>Hindi Tree: An Open-Access Constituency Parser for Hindi. [Under Preparation]</li>
   <li>Testing a Formal Fragment of Hindi: Syntactic Diagnostics and Theoretical Reanalysis. [Under Preparation]</li>
   <li>A Unified Formal Account of Tense, Aspect, and Modality in Hindi. [Under Preparation]</li>
 </ul>
