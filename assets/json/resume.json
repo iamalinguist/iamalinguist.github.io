@@ -24,15 +24,6 @@
   },
   "work": [
     {
-      "name": "Indian Institute of Technology []",
-      "position": "Assistant Professor of Linguistics",
-      "url": "https://www.google.com",
-      "startDate": "2025-07-01",
-      "endDate": "ongoing",
-      "summary": "I teach in the Humanities Department, collaborating with linguistics professors and regularly delivering lectures on campus.",
-      "highlights": ["Others- English, Thought Lab, Public Speaking"]
-    },
-    {
       "name": "Indian Institute of Technology Bombay",
       "position": "Project Research Engineer",
       "url": "",
@@ -76,12 +67,23 @@
       "endDate": "2015-07-01",
       "score": "8.92",
       "courses": ["Digital Image Processing", "Remote Sensing"]
+    },
+    {
+      "institution": "Mahatma Gandhi Antarrashtriya Hindi VishwaVidyalaya",
+      "location": "Wardha, India",
+      "url": "https://hindivishwa.org/",
+      "area": "Hindi Language and Literature",
+      "studyType": "MA",
+      "startDate": "2018-07-01",
+      "endDate": "2020-12-01",
+      "score": "7.45",
+      "courses": ["Hindi Sahitya ka Itihaas", "Hindi Bhasha Vigyaan"]
     }
   ],
   "awards": [
     {
-      "title": "Recognitions (2009-2025)",
-      "date": "",
+      "title": "Recognitions",
+      "date": "2009-25",
       "awarder": "Various Institutes",
       "url": "",
       "summary": [
@@ -89,8 +91,8 @@
       ]
       },
     {
-      "title": "Fellowships (2009-2025)",
-      "date": "",
+      "title": "Fellowships",
+      "date": "2009-25",
       "awarder": "Various Organisations",
       "url": "",
       "summary": [
@@ -109,7 +111,7 @@
     {
       "name": "AI for Data Workshop",
       "date": "Mar, 25",
-      "issuer": "GIAN Lab (AI, NLP, ML), IIT Patna",
+      "issuer": "GIAN Lab, IIT Patna",
       "url": "https://www.iitp.ac.in/~ai-nlp-ml/",
       "icon": "fa-solid fa-tag"
     },
@@ -203,14 +205,14 @@
   ],
   "references": [
     {
-      "name": "Professor NA",
+      "name": "Dr. V. Ramanathan",
       "icon": "fa-solid fa-laptop",
-      "reference": "Email-"
+      "reference": "Email-vraman.chy@iitbhu.ac.in"
     },
     {
-      "name": "Professor NA",
+      "name": "Dr. Sanjukta Ghosh",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Email-"
+      "reference": "Email-sanjukta.hss@iitbhu.ac.in"
     }
   ],
   "projects": [
