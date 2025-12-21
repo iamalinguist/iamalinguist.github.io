@@ -6,25 +6,8 @@ description: contains my personal certificates.
 nav: false
 nav_order:
 ---
-
-
-<div id="password-gate" style="position:fixed;inset:0;display:flex;align-items:center;justify-content:center;background:rgba(0,0,0,0.85);z-index:9999;">
-	<div style="background:#fff;padding:24px;border-radius:8px;max-width:420px;width:100%;box-shadow:0 6px 24px rgba(0,0,0,.5);text-align:center;">
-		<h2 style="margin:0 0 12px;font-size:18px;">Protected page</h2>
-		<p style="margin:0 0 12px;color:#444;font-size:14px;">Enter the password to view these documents.</p>
-		<input id="pg-password" type="password" placeholder="Password" style="width:100%;padding:8px;margin-bottom:8px;box-sizing:border-box;" />
-		<div style="display:flex;gap:8px;justify-content:flex-end;">
-			<button id="pg-submit" style="padding:8px 12px;">Unlock</button>
-		</div>
-		<p style="margin-top:12px;font-size:12px;color:#666;">This is client-side protection only — not fully secure.</p>
-	</div>
-</div>
-
-<script src="/assets/password-gate.js"></script>
-<div id="protected-content" style="display:none;">
-
-
-
+ 
+ 
 #### Degree Certificates
 * 10th [[Download](https://drive.google.com/file/d/1u5Z_6K3S4tmTS_igH-0fmu-ysPXU313k/view?usp=sharing)]
 * 12th [[Download](https://drive.google.com/file/d/1pE2ZyIxKL1fP9si66nZUZv00Bo-mpzTQ/view?usp=sharing)]
@@ -93,6 +76,4 @@ nav_order:
 ---
 * Antic Conference Reviewer [[Download](https://drive.google.com/file/d/1Gk_krAgYkbgeUtCrM2Lk_s869n8NstlC/view?usp=sharing)]
 
-(all documentes are hosted in hindiwithvivek@gmail.com, if you need any more documents, access them here, by adding your hint- https://drive.google.com/drive/folders/1lNn9UJqLBfIjEnIv0khs2HxOr_VXs3G?usp=sharing)
-
-</div>
+(all documentes are hosted in hindiwithvivek@gmail.com, if you need any more documents, access them here, by adding your hint in small-case: https://drive.google.com/drive/folders/1KZx7njeKUqqqgIw6uv64td5Lw5pU6Htv?usp=sharing)
