@@ -220,8 +220,8 @@ ninja.data = [{
           section: "News",},{id: "news-selected-as-top-100-posters-across-all-themes-to-be-presentated-at-bharat-mandapam-delhi-for-estic-2025-by-dst-goi-sparkles",
           title: 'Selected as Top 100 Posters (across all themes) to be Presentated at Bharat...',
           description: "",
-          section: "News",},{id: "projects-an-introduction-to-hindi-syntax",
-          title: 'an introduction to hindi syntax',
+          section: "News",},{id: "projects-an-introduction-to-hindi-syntax-amp-online-software",
+          title: 'an introduction to hindi syntax (&amp;amp; online software)',
           description: "an academic monograph (VP, NP, Verb Group, Subordination and Coordination)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
@@ -230,8 +230,8 @@ ninja.data = [{
           description: "a shloka dictionary based on a corpus of Sanskrit texts",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-fragments-app-for-hindi",
-          title: 'fragments app for hindi',
+            },},{id: "projects-toy-fragment-offline-software-app-for-hindi",
+          title: 'toy fragment- offline software app for hindi',
           description: "a demonstration of &#39;how Hindi grammar rules work?&#39;",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
