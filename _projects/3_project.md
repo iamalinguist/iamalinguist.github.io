@@ -1,6 +1,6 @@
 ---
 layout: page
-title: toy fragment- offline software app for hindi
+title: toy fragment- an offline app for hindi
 description: a demonstration of 'how Hindi grammar rules work?'
 img: assets/img/projects/pro3 banner.jpg
 importance: 3

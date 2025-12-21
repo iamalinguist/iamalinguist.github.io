@@ -8,9 +8,6 @@ nav_order:
 ---
 
 
-#### Degree Certificates
-
-<!-- Password gate: simple client-side protection. Edit /assets/password-gate.js to change password. -->
 <div id="password-gate" style="position:fixed;inset:0;display:flex;align-items:center;justify-content:center;background:rgba(0,0,0,0.85);z-index:9999;">
 	<div style="background:#fff;padding:24px;border-radius:8px;max-width:420px;width:100%;box-shadow:0 6px 24px rgba(0,0,0,.5);text-align:center;">
 		<h2 style="margin:0 0 12px;font-size:18px;">Protected page</h2>
@@ -24,12 +21,11 @@ nav_order:
 </div>
 
 <script src="/assets/password-gate.js"></script>
-
 <div id="protected-content" style="display:none;">
 
 
 
-
+#### Degree Certificates
 * 10th [[Download](https://drive.google.com/file/d/1u5Z_6K3S4tmTS_igH-0fmu-ysPXU313k/view?usp=sharing)]
 * 12th [[Download](https://drive.google.com/file/d/1pE2ZyIxKL1fP9si66nZUZv00Bo-mpzTQ/view?usp=sharing)]
 * BTech [[Download](https://drive.google.com/file/d/1PO-u6twTrV8oYk-G56YCSecydywvWUru/view?usp=sharing)]

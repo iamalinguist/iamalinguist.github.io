@@ -24,10 +24,10 @@ My research primarily addresses syntax and semantics, with my Ph.D. thesis title
 <!-- My research adopts an interdisciplinary approach, intersecting discrete mathematics (including sets, matrices, relations, and tree structures), languages (contemporary, regional etc.), and computational linguistics.-->
 
 My primary focus is on leveraging formal frameworks to develop theoretical grammars for various languages. In line with these interests, I enjoy collaborating with technologists, linguists, and innovators. I’m currently working on experimenting different grammars for Indian languages. 
-<hr>
 
 
-<!-->
+
+<!--
 `Research Interests (Major to Minor)`
 
 1. Grammatical Theories
@@ -38,6 +38,6 @@ My primary focus is on leveraging formal frameworks to develop theoretical gramm
 If you’d like a brief idea of the topics covered here, take a look at this page: [Grammatical Theories](/blog/2025/grammatical-theories/) (around 9 major theories) 📝
  [Argument structure](/blog/2025/argument-structure/) (is the specification of a verb’s participants and their grammatical roles) 📝
  [Information structure](/blog/2025/information-structure/) (is the organization of sentence elements according to discourse functions like topic, focus, and given vs. new information)
-->
+-->
 
  

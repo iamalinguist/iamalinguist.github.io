@@ -1,7 +1,7 @@
 ---
 layout: page
-title: an introduction to hindi syntax (& online software)
-description: an academic monograph (VP, NP, Verb Group, Subordination and Coordination)
+title: Hindi Tree- Open Access Online Parser for Hindi
+description: software + an academic monograph (VP, NP, Verb Group, Subordination and Coordination)
 img: assets/img/projects/pro1 banner.jpg
 importance: 1
 category: work
