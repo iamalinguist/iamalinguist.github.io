@@ -12,21 +12,19 @@ document.addEventListener('DOMContentLoaded', function(){
 
   function unlock(p){
     if(p === PASSWORD){
-      sessionStorage.setItem('pg_auth','1');
       if(gate) gate.style.display = 'none';
       if(content) content.style.display = '';
+      if(input) input.value = '';
     } else {
       alert('Incorrect password');
+      if(input) input.value = '';
+      if(input) input.focus();
     }
   }
 
-  if(sessionStorage.getItem('pg_auth') === '1'){
-    if(gate) gate.style.display = 'none';
-    if(content) content.style.display = '';
-  } else {
-    if(gate) gate.style.display = 'flex';
-    if(content) content.style.display = 'none';
-  }
+  // Always require password on page load/refresh — do not persist auth.
+  if(gate) gate.style.display = 'flex';
+  if(content) content.style.display = 'none';
 
   if(btn){
     btn.addEventListener('click', function(){ unlock(input.value); });

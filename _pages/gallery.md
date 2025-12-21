@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /gallery/
-title: the memories of events/conferences/meets
+title: gallery
 description: vivek's mini-galleries
 thumbnail: assets/img/prof_pic.jpg
 nav: true

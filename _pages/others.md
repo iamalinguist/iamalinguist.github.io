@@ -10,5 +10,4 @@ children:
   - title: divider
   - title: notes
     permalink: /notes/
-  - title: divider
 ---
