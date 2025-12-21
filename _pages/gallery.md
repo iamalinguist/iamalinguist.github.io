@@ -3,10 +3,13 @@ layout: page
 permalink: /gallery/
 title: the memories of events/conferences/meets
 description: vivek's mini-galleries
-#thumbnail: assets/img/prof_pic.jpg
+thumbnail: assets/img/prof_pic.jpg
+nav: true
+nav_order: 5
 images:
   spotlight: true
 ---
+
 
 Feel free to share your comments or send me a copy of 'our picture' if you'd like it included in my mini-galleries. If I missed it and you have it on your drive or phone, please share it—as long as we’ve met at least once in person for a long coffee!
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hindi Tree- Open Access Online Parser for Hindi
+title: hindi tree- an open access online parser for hindi
 description: software + an academic monograph (VP, NP, Verb Group, Subordination and Coordination)
 img: assets/img/projects/pro1 banner.jpg
 importance: 1

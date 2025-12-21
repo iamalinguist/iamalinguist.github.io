@@ -11,6 +11,4 @@ children:
   - title: notes
     permalink: /notes/
   - title: divider
-  - title: gallery
-    permalink: /gallery/
 ---
