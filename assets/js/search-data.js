@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/talks/";
           },
+        },{id: "nav-the-memories-of-events-conferences-meets",
+          title: "the memories of events/conferences/meets",
+          description: "vivek&#39;s mini-galleries",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/gallery/";
+          },
         },{id: "dropdown-teaching",
               title: "teaching",
               description: "",
@@ -46,13 +53,6 @@ ninja.data = [{
               },
             },{id: "dropdown-notes",
               title: "notes",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-gallery",
-              title: "gallery",
               description: "",
               section: "Dropdown",
               handler: () => {
@@ -213,8 +213,8 @@ ninja.data = [{
           section: "News",},{id: "news-selected-as-top-100-posters-across-all-themes-to-be-presentated-at-bharat-mandapam-delhi-for-estic-2025-by-dst-goi-sparkles",
           title: 'Selected as Top 100 Posters (across all themes) to be Presentated at Bharat...',
           description: "",
-          section: "News",},{id: "projects-hindi-tree-open-access-online-parser-for-hindi",
-          title: 'Hindi Tree- Open Access Online Parser for Hindi',
+          section: "News",},{id: "projects-hindi-tree-an-open-access-online-parser-for-hindi",
+          title: 'hindi tree- an open access online parser for hindi',
           description: "software + an academic monograph (VP, NP, Verb Group, Subordination and Coordination)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
