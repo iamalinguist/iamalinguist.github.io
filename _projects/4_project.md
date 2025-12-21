@@ -2,8 +2,8 @@
 layout: page
 title: language resources for non-native hindi speakers
 description: a volunteering project to teach and produce effective content on grammar of Hindi etc.
-img:
-redirect: https://heyhindi.web.app/
+img: https://hindiwithvivek.web.app/images/logo-27-400x400.png
+redirect: https://hindiwithvivek.web.app/
 importance: 4
 category: fun
 ---

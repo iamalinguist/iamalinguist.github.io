@@ -1,6 +1,6 @@
 ---
 layout: page
-title: an introduction to hindi syntax
+title: an introduction to hindi syntax (& online software)
 description: an academic monograph (VP, NP, Verb Group, Subordination and Coordination)
 img: assets/img/projects/pro1 banner.jpg
 importance: 1
@@ -27,6 +27,6 @@ The book starts by explaining how general patterns help us understand sentence s
 
 As a secondary objective, the project will develop a basic parsing tool for Hindi, labelled as Hindi Tree (HT) serving as a proof of concept for applying theoretical findings. It will be free for users to use and develop parsing for Hindi or Hindi-like SOV languages. 
 
-> Latest Update on Nov, 25- The HT application is currently hosted [here](https://iamalinguist.github.io/hinditree/). If future updates require migration to a new platform or technology, the same page will provide the necessary redirection and access details.
+> Latest Update on Nov, 25- The HT application is currently hosted [ONLINE HERE](https://iamalinguist.github.io/hinditree/). If future updates require migration to a new platform or technology, the same page will provide the necessary redirection and access details.
 
 This hybrid approach ensures a theoretical investigation of the language while demonstrating its computational applicability. The project is expected to yield significant contributions to linguistic scholarship and provide a foundational tool for Hindi syntax parsing.
