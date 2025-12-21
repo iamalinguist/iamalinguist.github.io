@@ -37,8 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/talks/";
           },
-        },{id: "nav-the-memories-of-events-conferences-meets",
-          title: "the memories of events/conferences/meets",
+        },{id: "nav-gallery",
+          title: "gallery",
           description: "vivek&#39;s mini-galleries",
           section: "Navigation",
           handler: () => {
