@@ -210,11 +210,11 @@ ninja.data = [{
           section: "News",},{id: "news-won-1st-prize-for-nationwide-swachhata-ideathon-2024-by-ignou-delhi-sparkles-smile",
           title: 'Won 1st prize for nationwide Swachhata Ideathon-2024, by IGNOU Delhi. :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-selected-as-top-100-posters-across-all-themes-to-be-presentated-at-bharat-mandapam-delhi-for-estic-2025-by-dst-goi-sparkles",
-          title: 'Selected as Top 100 Posters (across all themes) to be Presentated at Bharat...',
+          section: "News",},{id: "news-selected-as-top-10-posters-in-ai-theme-selected-all-across-india-to-be-presentated-before-honourable-pm-modi-for-estic-2025-by-dst-goi-sparkles",
+          title: 'Selected as Top 10 Posters (in AI theme) selected all across India to...',
           description: "",
-          section: "News",},{id: "projects-hindi-tree-an-open-access-online-parser-for-hindi",
-          title: 'hindi tree- an open access online parser for hindi',
+          section: "News",},{id: "projects-hindi-tree-an-open-online-parser",
+          title: 'hindi tree- an open online parser',
           description: "software + an academic monograph (VP, NP, Verb Group, Subordination and Coordination)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
