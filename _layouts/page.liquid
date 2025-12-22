@@ -18,6 +18,14 @@ layout: default
     {{ content }}
   </article>
 
+  {% if page.password_protected %}
+    <script src="{{ '/assets/password-gate.js' | relative_url }}"></script>
+  {% endif %}
+
+  {% if page.need_filter %}
+    <script src="{{ '/assets/filter-talks.js' | relative_url }}"></script>
+  {% endif %}
+
   {% if page.related_publications %}
     <h2>References</h2>
     <div class="publications">

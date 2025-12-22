@@ -3,20 +3,22 @@ layout: page
 permalink: /documents/
 title: documents 
 description: contains my personal certificates. 
+password_protected: true
 nav: false
 nav_order:
 ---
  
  
 #### Degree Certificates
-* 10th [[Download](https://drive.google.com/file/d/1u5Z_6K3S4tmTS_igH-0fmu-ysPXU313k/view?usp=sharing)]
-* 12th [[Download](https://drive.google.com/file/d/1pE2ZyIxKL1fP9si66nZUZv00Bo-mpzTQ/view?usp=sharing)]
-* BTech [[Download](https://drive.google.com/file/d/1PO-u6twTrV8oYk-G56YCSecydywvWUru/view?usp=sharing)]
-* MTech [[Download](https://drive.google.com/file/d/1_HKDFZKvZAI5BqeAmnLgFWmYQhieBhgI/view?usp=sharing)]
-* MA - Hindi [[Download](https://drive.google.com/file/d/1kj-02gLZcg-OjgmPim9vD-WzaTOGgdbd/view?usp=sharing)]
-* MA - Philosophy [[Download](https://drive.google.com/file/d/1bQH2wf5R4AEpPIVQ46OfweB3qAj79C6t/view?usp=sharing)]
-* PhD [[Download](https://drive.google.com/file/d/19vqDHxHOI3WlyP3dwO2oOK9WlpiGSdRc/view?usp=sharing)] - IIT ID Card [[Download](https://drive.google.com/file/d/1bb2Qu3EtKTtFQ-GAcJmsvYtREoeeGGcP/view?usp=sharing)]
-* Diploma [[Download](https://drive.google.com/file/d/1qIX4-Zp7Wix3P4c9pYWHXL7IPQXZGtK2/view?usp=sharing)]
+* 10th [[Download](https://drive.google.com/file/d/1fBt-sQPC7EHxRS98On-KBMUTXsyxfxMW/view?usp=drive_link)]
+* 12th [[Download](https://drive.google.com/file/d/1LLI48Z4nXatMP4tJhONxvjj83HjAJdLM/view?usp=drive_link)]
+* BTech [[Download](https://drive.google.com/file/d/1Oq-MO8FUj5gbkUimv4BXlJIf9ppYElvB/view?usp=drive_link)]
+* MTech [[Download](https://drive.google.com/file/d/1e-l8hPDj289k86zH7W0Z_pinN4D2XM5k/view?usp=drive_link)]
+* MA - Hindi [[Download](https://drive.google.com/file/d/1dW0o1ZWRA853aBeqKVpuRxbTG-8BQSki/view?usp=drive_link)]
+* MA - Philosophy [[Download](https://drive.google.com/file/d/1PF6kTpVhAoK61VK0AWwWF7FSwS7E62J8/view?usp=drive_link)]
+* PhD Thesis Submission [[Download](https://drive.google.com/file/d/145269ERSbvZm4XMImu9P1595xrqnwJ-N/view?usp=drive_link)]
+* Diploma- Translation [[Download](https://drive.google.com/file/d/1TdYpQ7Jz-0ZmThplxwCqhR9J-HSC3LKF/view?usp=drive_link)]
+* Diploma- Sanskrit [[Download](https://drive.google.com/file/d/1Cj90JUhUnVJ5vE299RrvJGgASV3XkGfd/view?usp=drive_link)] 
 
 <br>
 <br>
@@ -24,14 +26,14 @@ nav_order:
 
 #### Work Experience Certificates
 ---
-* Project Research Associate at IIT Bombay [[Download](https://drive.google.com/file/d/1EcbrMQ3Y1SrhfAHjdWetkSNpNY4gZzLI/view?usp=sharing)]
-* Editor at OUP, Delhi (Editorial) [[Download](https://drive.google.com/file/d/1ePfFsCzjs49f8B_TeQU_HM49n1jp9Aut/view?usp=sharing)]
+* Project Research Associate at IIT Bombay [[Download](https://drive.google.com/file/d/1--6qcoLw5TPQOyJ1XK5RKMEQkbYvWH5k/view?usp=drive_link)]
+* Editor at OUP, Delhi (Editorial) [[Download](https://drive.google.com/file/d/1bRttOuaziRhapycugjzq7ESzgt4iuNDE/view?usp=sharing)]
 
 <br>
 <br>
 <br>
 
-#### Workshop/Seminar/Achievements etc. Certificates
+#### Workshop/Seminar/Achievements etc. Certificates- Not Updated
 ---
 * Film Pedagogy Workshop [[Download](https://drive.google.com/file/d/1BivUiAkPcL8VqkOm3aB5pXWA9dwoQbAQ/view?usp=sharing)]
 * Sanskrit Workshop at BHU [[Download](https://drive.google.com/file/d/18azZBbxZTvAx2OGP_jqp7GHcLLDCtvz3/view?usp=sharing)]
@@ -49,9 +51,11 @@ nav_order:
 <br>
 <br>
 
-#### Workshop/Seminar/Achievements etc. Certificates
+#### Workshop/Seminar/Achievements etc. Certificates- Not Updated
 ---
 * Papers-  Certificate 1 [[Download](https://drive.google.com/file/d/13O88tyuZ-R9Ml9P1KcoZ4T8ywAx90rfH/view?usp=sharing)] - Certificate 2 [[Download](https://drive.google.com/file/d/1BivUiAkPcL8VqkOm3aB5pXWA9dwoQbAQ/view?usp=sharing)]
+* Antic Conference Reviewer [[Download](https://drive.google.com/file/d/1Gk_krAgYkbgeUtCrM2Lk_s869n8NstlC/view?usp=sharing)]
+
 
 <br>
 <br>
@@ -59,21 +63,18 @@ nav_order:
 
 #### Identity Documents
 ---
-* Aadhar [[Download](https://drive.google.com/file/d/1FqFw3c6tIZPieeW8nPuPfxgiRV7LDXEW/view?usp=sharing)]
-* PAN [[Download](https://drive.google.com/file/d/1dg2frWqOiJdKZizPglvDFkKglNYn8GiU/view?usp=sharing)]
-* Driving License [[Download](https://drive.google.com/file/d/1wEJn5T6hPCj9NmjL4qH5-tjei9O_GdVj/view?usp=sharing)]
-* Birth Certificate [[Download](https://drive.google.com/file/d/1XjCu5rwA_bUwjNqn1MknXg1WOK5_hKzx/view?usp=sharing)]
-* Cancelled Cheque (Canara) [[Download](https://drive.google.com/file/d/1WYRFVrbuOdwILDAVP_PsgCHzsevcHD24/view?usp=sharing)]
-* Passport- Front [[Download](https://drive.google.com/file/d/1WgsSEGrDbco5MvoJ0C5Z8kTNONha5Wv7/view?usp=sharing)]
-* My Photo [[Download](https://drive.google.com/file/d/1Xwepfb9NrUIxet8SLAxrGbpjKBsT2FKv/view?usp=sharing)] - Photos in A4 [[Download](https://drive.google.com/file/d/1mQix2agCjMeTxN5sPDlGKEGa5pJRyAdZ/view?usp=sharing)]
-* My Sign [[Download](https://drive.google.com/file/d/1wJdP_6bHXG4XnXuCwiCRGt1OVNWPJaUS/view?usp=sharing)]
+* Aadhar [[Download](https://drive.google.com/file/d/136o0IGvts0rLfx9EZQDmp2qgn2hjpyxT/view?usp=drive_link)]
+* PAN [[Download](https://drive.google.com/file/d/1lUy4jrUA7yRNNjMslOMYeRZIpMCG2r4Q/view?usp=drive_link)]
+* Birth Certificate [[Download](https://drive.google.com/file/d/1kia_wfiCG1gBNh3KterNYTCE7u2bxMqm/view?usp=drive_link)]
+* Passport- Front [[Download](https://drive.google.com/file/d/1lZadBbPJEI3KldnF5__UOG4gvh8Wb0Je/view?usp=drive_link)]
+* My Photo [[Download](https://drive.google.com/file/d/1rS-I0esRfQaup5Itu3NfAlvOcWu53Stb/view?usp=drive_link)] - Photos in A4 [[Download](https://drive.google.com/file/d/1Y9TiAU3K8rbknuJmeg2ikyb4GTLWf39f/view?usp=drive_link)]
+* My Sign [[Download](https://drive.google.com/file/d/130pdOOjq4Xl5Ayi23jZt2-KXG331mJ0P/view?usp=drive_link)]
+* Marriage [[Download](https://drive.google.com/file/d/1cTUedKRaS9NcUSL_tq9hp3EZofYKkWDJ/view?usp=drive_link)]
+* EWS Certificate [[Download](https://drive.google.com/file/d/1KGiAGxmJGNNAsZ7NiRJdD91cqdek8KRo/view?usp=drive_link)]
 
 <br>
 <br>
 <br>
-
-#### Maybe Required Documents
 ---
-* Antic Conference Reviewer [[Download](https://drive.google.com/file/d/1Gk_krAgYkbgeUtCrM2Lk_s869n8NstlC/view?usp=sharing)]
 
-(all documentes are hosted in hindiwithvivek@gmail.com, if you need any more documents, access them here, by adding your hint in small-case: https://drive.google.com/drive/folders/1KZx7njeKUqqqgIw6uv64td5Lw5pU6Htv?usp=sharing)
+(all documentes are hosted in hindiwithvivek@gmail.com, if you need any more documents, access them here, by adding your hint in small-case: https://drive.google.com/drive/folders/1KZx7njeKUqqqgIw6uv64td5Lw5pU6H?usp=sharing)

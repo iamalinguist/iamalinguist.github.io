@@ -1,13 +1,15 @@
 document.addEventListener('DOMContentLoaded', function(){
   const PASSWORD = 'changeme'; // <-- replace with your password
 
-  // Hide all existing body children first to avoid exposing content
+  // Hide all existing body children first to avoid exposing content.
+  // Use `visibility: hidden` rather than `display: none` so the
+  // document layout (margins/spacing) remains the same when restored.
   const body = document.body;
-  const originalDisplay = new Map();
+  const originalVisibility = new Map();
   const children = Array.from(body.children);
   children.forEach(el => {
-    originalDisplay.set(el, el.style.display || '');
-    el.style.display = 'none';
+    originalVisibility.set(el, el.style.visibility || '');
+    el.style.visibility = 'hidden';
   });
 
   // Build the gate overlay dynamically
@@ -26,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function(){
       <div style="display:flex;gap:8px;justify-content:flex-end;">
         <button id="pg-submit" style="padding:8px 12px;">Unlock</button>
       </div>
-      <p style="margin-top:12px;font-size:12px;color:#666;">This is client-side protection only — not fully secure.</p>
+      <p style="margin-top:12px;font-size:12px;color:#666;">only eligible entries!</p>
     </div>
   `;
 
@@ -38,7 +40,7 @@ document.addEventListener('DOMContentLoaded', function(){
   function restore() {
     // remove overlay and restore original display values
     overlay.remove();
-    originalDisplay.forEach((val, el) => { el.style.display = val; });
+    originalVisibility.forEach((val, el) => { el.style.visibility = val; });
     if(input) input.value = '';
   }
 
