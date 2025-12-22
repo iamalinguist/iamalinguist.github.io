@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Selected as **Top 100 Posters** (across all themes) to be Presentated at Bharat Mandapam, Delhi for ESTIC-2025, by DST, GoI. :sparkles:
+Selected as **Top 10 Posters** (in AI theme) selected all across India to be presentated before honourable PM Modi for ESTIC-2025, by DST, GoI. :sparkles:

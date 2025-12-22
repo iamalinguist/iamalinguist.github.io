@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function(){
-  const PASSWORD = 'change-me'; // <-- replace with your password
+  const PASSWORD = 'changeme'; // <-- replace with your password
 
   // Hide all existing body children first to avoid exposing content
   const body = document.body;

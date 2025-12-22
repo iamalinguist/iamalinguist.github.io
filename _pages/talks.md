@@ -9,7 +9,7 @@ images:
   spotlight: true
 ---
 
-* `2025 - Poster` Grammar as Infrastructure for Indian AI, Invited Entry for AI theme, ESTIC, Department of Science and Technology, GoI, November 03-05, 2025 [[Download](\assets\pdf\entry_estic.pdf)]
+* `2025 - Poster` Grammar as Infrastructure for Indian AI, Invited entry for the theme AI, ESTIC, Department of Science and Technology, GoI, November 03-05, 2025 [[Download](\assets\pdf\entry_estic.pdf)]
 <br>
 
 * `2024 - Competition` हिंदी के संगणकीय विश्लेषण के लिए औपचारिक व्याकरण का एन.एल.पी में प्रयोग (Hindī ke sangaṇkīy viśleṣaṇ ke liye aupchārik vyākaraṇ kā N.L.P mẽ prayog), Invited Entry, Takniki Hindi Sangosthi, IIT Jodhpur and IIT Indore, December 02, 2024 [[Download](\assets\pdf\entry_iitjodhpur.pdf)]

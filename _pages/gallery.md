@@ -13,7 +13,7 @@ images:
 
 Feel free to share your comments or send me a copy of 'our picture' if you'd like it included in my mini-galleries. If I missed it and you have it on your drive or phone, please share it—as long as we’ve met at least once in person for a long coffee!
 
-## [ESTIC, Bharat Mandapam, Nov 2025]()
+## [Bharat Mandapam, Delhi, Nov 2025]()
 <div class="spotlight-group">
     <a class="spotlight" href="/assets/img/esticdelhi/1.jpg">
         <img src="/assets/img/esticdelhi/small/1.jpg" />
