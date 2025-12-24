@@ -9,9 +9,9 @@ last_name: Tripathi
 contact_note: >
    Research isn’t about answers—it’s about better questions.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Language and Communication Entusiast. 
+  Language and Communication Enthusiast
 footer_text: >
-  | Made with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  | वादे वादे जायते तत्त्वबोधः
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
