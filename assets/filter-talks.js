@@ -10,7 +10,8 @@ document.addEventListener('DOMContentLoaded', function () {
       items.forEach(i => i.style.display = '');
     } else {
       items.forEach(i => {
-        i.style.display = (i.dataset.category === cat) ? '' : 'none';
+        const cats = i.dataset.category ? i.dataset.category.split(/\s+/) : [];
+        i.style.display = cats.includes(cat) ? '' : 'none';
       });
     }
     buttons.forEach(b => b.classList.toggle('active', b.dataset.filter === cat));

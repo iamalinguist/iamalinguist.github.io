@@ -22,7 +22,7 @@ nav_order:
 
 <br>
 <br>
-<br>
+
 
 #### Work Experience Certificates
 ---
@@ -31,33 +31,30 @@ nav_order:
 
 <br>
 <br>
+
+#### Workshop/Seminar/Achievements etc. Certificates- Not Updated
+---
+* Film Pedagogy Workshop [[Download](https://drive.google.com/file/d/1GpvMhQGJvJJCNJGzUg8ob69kMpkr8ZL4/view?usp=drive_link)]
+* Sanskrit Workshop at BHU [[Download](https://drive.google.com/file/d/1Cj90JUhUnVJ5vE299RrvJGgASV3XkGfd/view?usp=drive_link)]
+* IIT Jodhpur Winning Certificate - Hindi [[Download](https://drive.google.com/file/d/1Be58Qv5mj2fHLO69Mz3F8loCkDEazele/view?usp=drive_link)]
+* ESTIC Conference, Delhi [[Download](https://drive.google.com/file/d/1VQk2cxmdfJ4LgDc8ij_5Ovd278e-WX-Q/view?usp=drive_link)]
+* LATEX Workshop [[Download](https://drive.google.com/file/d/1qFUN5GPobdOKvsAthAckPr2SD4fhOIdm/view?usp=drive_link)]
+* Poster Presentation on RID Day at IIT BHU [[Download](https://drive.google.com/file/d/1ZrET2dj6aeXx_ksAxQ5hzVybOYPew_hU/view?usp=drive_link)]
+* IKS Conference Presentation [[Download](https://drive.google.com/file/d/10t2EW1dRz0Oaiv_619k_l1h0S1twLeSx/view?usp=drive_link)]
+* Workshop on 'Contemporary Research Method' [[Download](https://drive.google.com/file/d/1TcXI8NowC44790e1hwjKUfa2AesJqHwM/view?usp=drive_link)]
+* Businesss Plan Certificates- Certi1 [[Download](https://drive.google.com/file/d/1k9w-Vp1VUv-zZuWpDS9eW50_zc52ddD3/view?usp=drive_link)] | Certi2 [[Download](https://drive.google.com/file/d/1AaNR_jdBrcyqJfkENp4YCpPPcnyMyhC4/view?usp=drive_link)]
+* Swacchata Innovation Award [[Download-NA]()]
+* Hindi Dictionary Innovation Award [[Download-NA]()]
+* Hindi Language Champion Award [[Download](https://drive.google.com/file/d/139O3FevgejRbyHAe0XIMLYwo7g9Uyhlx/view?usp=drive_link)]
+
+<br>
 <br>
 
 #### Workshop/Seminar/Achievements etc. Certificates- Not Updated
 ---
-* Film Pedagogy Workshop [[Download](https://drive.google.com/file/d/1BivUiAkPcL8VqkOm3aB5pXWA9dwoQbAQ/view?usp=sharing)]
-* Sanskrit Workshop at BHU [[Download](https://drive.google.com/file/d/18azZBbxZTvAx2OGP_jqp7GHcLLDCtvz3/view?usp=sharing)]
-* IIT Jodhpur Winning Certificate - Hindi [[Download](https://drive.google.com/file/d/1JzmHX-DIjrGuh7NMjAgugwxTlDB8b78q/view?usp=sharing)]
-* LATEX Workshop [[Download](https://drive.google.com/file/d/1eIOKEQkUNJW5AmdIcqvwM66b1KpzQarE/view?usp=sharing)]
-* Poster Presentation on RID Day at IIT BHU [[Download](https://drive.google.com/file/d/1FR5-pCaZncA9ZHJXSGNvvzXT878tO74j/view?usp=sharing)]
-* IKS Conference Presentation [[Download](https://drive.google.com/file/d/1uz51w2hQtwN1S4F28XWb5MK_k_4Qg6zT/view?usp=sharing)]
-* Workshop on 'Contemporary Research Method' [[Download](https://drive.google.com/file/d/1uz51w2hQtwN1S4F28XWb5MK_k_4Qg6zT/view?usp=sharing)]
-* Businesss Plan Certificates- Certi1 [[Download](https://drive.google.com/file/d/1QPYIMGnvVmPch3aeddOVDN5D1UXCtvx_/view?usp=sharing)] | Certi2 [[Download](https://drive.google.com/file/d/1IkNqOoMgVl6GrXeif6zvXgCCdn3qd_4z/view?usp=sharing)] | Certi3 [[Download]()]
-* Swacchata Innovation Award [[Download](https://drive.google.com/file/d/1FTONQGvdt6nJT_t8NN2Bf-mlVTfzYL__/view?usp=sharing)]
-* Hindi Dictionary Innovation Award [[Download]()]
-* Hindi Language Champion Award [[Download](https://drive.google.com/file/d/18YiA1tz7FRR3btSoY2wS7Uz5QKu6P_56/view?usp=sharing)]
+* Papers-  Certificate 1 [[Download](https://drive.google.com/file/d/1aZxE3Cbs8UQ-ZIadKVaM5tcN8cSOSgMx/view?usp=drive_link)] - Certificate 2 [[Download](https://drive.google.com/file/d/1peAhogrSeC4xljJVNRpxLXYV8JGo1RC-/view?usp=drive_link)]
+* Antic Conference Reviewer [[Download](https://drive.google.com/file/d/1pbmBdG2CZ6t6pXlljoTqjls6vLqRfzTq/view?usp=drive_link)]
 
-<br>
-<br>
-<br>
-
-#### Workshop/Seminar/Achievements etc. Certificates- Not Updated
----
-* Papers-  Certificate 1 [[Download](https://drive.google.com/file/d/13O88tyuZ-R9Ml9P1KcoZ4T8ywAx90rfH/view?usp=sharing)] - Certificate 2 [[Download](https://drive.google.com/file/d/1BivUiAkPcL8VqkOm3aB5pXWA9dwoQbAQ/view?usp=sharing)]
-* Antic Conference Reviewer [[Download](https://drive.google.com/file/d/1Gk_krAgYkbgeUtCrM2Lk_s869n8NstlC/view?usp=sharing)]
-
-
-<br>
 <br>
 <br>
 
@@ -72,7 +69,6 @@ nav_order:
 * Marriage [[Download](https://drive.google.com/file/d/1cTUedKRaS9NcUSL_tq9hp3EZofYKkWDJ/view?usp=drive_link)]
 * EWS Certificate [[Download](https://drive.google.com/file/d/1KGiAGxmJGNNAsZ7NiRJdD91cqdek8KRo/view?usp=drive_link)]
 
-<br>
 <br>
 <br>
 ---

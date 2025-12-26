@@ -15,7 +15,7 @@ nav_order: 2
 <br><br>
 
 <!-- Working Papers Section -->
-###### Working Papers
+###### Working Journals Papers (_For conference proceedings, [see here](/talks/)_)
 
 <ul>
   <li>Light Verbs in Hindi: A Challenge to Syntax-Semantics Isomorphism. [Submitted]</li>
