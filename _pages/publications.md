@@ -27,8 +27,7 @@ nav_order: 2
   <li>Teaching Hindi through Semantics: A Pedagogical Framework and Student Perceptions. [Submitted]</li>
   <li>Hindi Tree: An Open-Access Constituency Parser for Hindi. [Submitted]</li>
   <br>
-  <li>Testing a Formal Fragment of Hindi: Syntactic Diagnostics and Theoretical Reanalysis. [Under Preparation]</li>
-  <li>A Unified Formal Account of Tense, Aspect, and Modality in Hindi. [Under Preparation]</li>
+  <li>Constituency, X-bar, and Minimalist Grammars for Hindi: A Comparative Formal and Explanatory Study. [Under Preparation]</li>
 </ul>
 
 

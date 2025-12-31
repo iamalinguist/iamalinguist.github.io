@@ -2,7 +2,7 @@
 layout: page
 title: hindi tree- an open online parser
 description: software + an academic monograph (VP, NP, Verb Group, Subordination and Coordination)
-img: assets/img/projects/pro1 banner.jpg
+img: assets/img/projects/pro1 banner.png
 importance: 1
 category: work
 related_publications: false
