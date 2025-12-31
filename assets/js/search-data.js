@@ -201,10 +201,7 @@ ninja.data = [{
           window.location.href = "/blog/2025/a-note-ling-nlp/";
         
       },
-    },{id: "news-poster-presentation-at-iit-bhu-on-the-occasion-of-research-and-innovation-day-2024",
-          title: 'Poster Presentation at IIT (BHU) on the occasion of Research and Innovation Day-2024....',
-          description: "",
-          section: "News",},{id: "news-won-best-research-award-open-to-all-branches-organized-by-iit-jodhpur-amp-amp-iit-indore-blush-relieved",
+    },{id: "news-won-best-research-award-open-to-all-branches-organized-by-iit-jodhpur-amp-amp-iit-indore-blush-relieved",
           title: 'Won Best Research Award – Open to All Branches, Organized by IIT Jodhpur...',
           description: "",
           section: "News",},{id: "news-won-1st-prize-for-nationwide-swachhata-ideathon-2024-by-ignou-delhi-sparkles-smile",
