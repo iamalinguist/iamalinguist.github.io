@@ -10,7 +10,7 @@ related_publications: false
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/pro1 banner.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/pro1.1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/pro1.2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -26,7 +26,7 @@ The book starts by explaining how general patterns help us understand sentence s
 
 As a secondary objective, the project will develop a basic parsing tool for Hindi, labelled as Hindi Tree (HT) serving as a proof of concept for applying theoretical findings. It will be free for users to use and develop parsing for Hindi or Hindi-like SOV languages. What you see as a figure above, is the output of the HT app. 
 
-> Latest Update on App by Jan, 26- The _Hindi Tree_ app is currently hosted [ONLINE HERE](/404.html). If future updates require migration to a new platform or technology, the same page will provide the necessary redirection and access details.
+> Latest Update on App by Jan, 26- _Hindi Tree_ is currently hosted [ONLINE HERE](/404.html). If future updates require migration to a new platform or technology, the same page will provide the necessary redirection and access details.
 
 
 This hybrid approach ensures a theoretical investigation of the language while demonstrating its computational applicability. The project is expected to yield significant contributions to linguistic scholarship and provide a foundational tool for Hindi syntax parsing.

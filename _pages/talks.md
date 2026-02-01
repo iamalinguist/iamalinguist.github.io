@@ -30,7 +30,7 @@ need_filter: true
 <div class="talks-list">
 
   <div class="talk-item" data-category="conference">
-    <strong>2026 - Conference Proceedings</strong> <em>Vākya to Vriksha: A Digital Tool for Understanding Hindi Sentence Structure</em>, 2 Days National Conference on Bharatiya Bhasha Pariwar. 28-29 Jan, 2026. Organised by Bharatiya Bhasha Samiti, Ministry of Education, Govt. of India. — <a href="/assets/pdf/bbp_paper">Download Paper</a> | <a href="/assets/pdf/bbp_slides">Download Slides</a>
+    <strong>2026 - Conference Proceedings</strong> <em>Vākya to Vriksha: A Digital Tool for Understanding Hindi Sentence Structure</em>, 2 Days National Conference on Bharatiya Bhasha Pariwar. 28-29 Jan, 2026. Organised by Bharatiya Bhasha Samiti, Ministry of Education, Govt. of India. — <a href="/assets/pdf/bbp_paper.pdf">Download Paper</a> | <a href="/assets/pdf/bbp_slides.pdf">Download Slides</a>
   </div>
 
 
