@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "Download the updated PDF CV to access the latest information. The digital sections here have been optimized with concise details for enhanced readability.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-talks",
           title: "talks",
           description: "invited talks/lectures/posters/workshops/symposiums/seminars/competitions/magazines etc.",
@@ -44,21 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/gallery/";
           },
-        },{id: "dropdown-teaching",
-              title: "teaching",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-notes",
-              title: "notes",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "post-use-of-auxiliary-in-hindi",
+        },{id: "post-use-of-auxiliary-in-hindi",
       
         title: "Use of Auxiliary in Hindi",
       
