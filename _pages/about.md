@@ -17,11 +17,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I have completed my doctoral research in the Department of Humanities at the Indian Institute of Technology (BHU), Varanasi. My academic profile, including my CV, is accessible [here](/cv/). Prior to my doctoral studies, I completed an M.Tech. from IIT Bombay and an M.A. in the Hindi from MGAHV Wardha, motivated by a keen interest in linguistics.  
+I have completed my doctoral research in the Department of Humanities at the Indian Institute of Technology (BHU), Varanasi. My academic profile, including my CV, is accessible [here](/assets/pdf/cv_linguistics_24dec25.pdf). Prior to my doctoral studies, I completed an M.Tech. from IIT Bombay and an M.A. in the Hindi from MGAHV Wardha, motivated by a keen interest in linguistics.  
 
 My research primarily addresses syntax and semantics, with my Ph.D. thesis titled `A Formal Grammar of Hindi` [you may read the [outline](/assets/pdf/thesis_outline.pdf) and [presentation](/assets/pdf/defenceppt_iitbhu.pdf) here]. The core objective of my doctoral work is to develop a formal grammar for Hindi, integrating propositional logic, predicate logic, type theory, and temporal logic.
 
-<!-- My research adopts an interdisciplinary approach, intersecting discrete mathematics (including sets, matrices, relations, and tree structures), languages (contemporary, regional etc.), and computational linguistics.-->
 
 My primary focus is on leveraging formal frameworks to develop theoretical grammars for various languages. In line with these interests, I enjoy collaborating with technologists, linguists, and innovators.
  
